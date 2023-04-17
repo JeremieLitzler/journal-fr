@@ -1,25 +1,25 @@
 import { navbar } from 'vuepress-theme-hope';
 
 export const frNavBarConfig = navbar([
-  '/fr/',
-  '/fr/page/a-propos/',
+  '/',
+  '/page/a-propos/',
   {
     text: 'Lire',
     children: [
       {
         text: 'Tous les articles',
-        link: '/fr/article/',
+        link: '/article/',
       },
       {
         text: 'Par catégorie',
-        link: '/fr/category/jardin',
+        link: '/category/jardin',
       },
       {
         text: 'Par tag',
-        link: '/fr/tag/photovoltaique/',
+        link: '/tag/photovoltaique/',
       },
     ],
   },
-  { text: 'Soutenez-moi', link: '/fr/page/soutenez-moi/' },
-  { text: 'Contact', link: '/fr/page/contactez-moi/' },
+  { text: 'Soutenez-moi', link: '/page/soutenez-moi/' },
+  { text: 'Contact', link: '/page/contactez-moi/' },
 ]);

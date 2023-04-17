@@ -13,4 +13,4 @@ Vous avez choisi de m'aider aujourd'hui. Merci !
 
 💖💖💖
 
-[Continuez à lire !](../../fr/article)
+[Continuez à lire !](../../article)

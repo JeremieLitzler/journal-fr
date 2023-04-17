@@ -1,4 +1,4 @@
-const version = '1.0.614';
+const version = '1.0.615';
 
 import { defineUserConfig } from '@vuepress/cli';
 import { viteBundler } from '@vuepress/bundler-vite';
@@ -23,48 +23,6 @@ export default defineUserConfig({
     //   indexName: 'iamjeremie',
     //   locales: {
     //     '/': {
-    //       placeholder: 'Search',
-    //       translations: {
-    //         button: {
-    //           buttonText: 'Search',
-    //           buttonAriaLabel: 'Search',
-    //         },
-    //         modal: {
-    //           searchBox: {
-    //             resetButtonTitle: 'Clear',
-    //             resetButtonAriaLabel: 'Clear',
-    //             cancelButtonText: 'Cancel',
-    //             cancelButtonAriaLabel: 'Cancel',
-    //           },
-    //           startScreen: {
-    //             recentSearchesTitle: 'Search history',
-    //             noRecentSearchesText: 'No recent search',
-    //             saveRecentSearchButtonTitle: 'Save recent searches',
-    //             removeRecentSearchButtonTitle: 'Remove recent searches',
-    //             favoriteSearchesTitle: 'Collect',
-    //             removeFavoriteSearchButtonTitle: 'Remove',
-    //           },
-    //           errorScreen: {
-    //             titleText: 'Unable to get results',
-    //             helpText: 'You may need to check your internet connection',
-    //           },
-    //           footer: {
-    //             selectText: 'Choose',
-    //             navigateText: 'Switch',
-    //             closeText: 'Close',
-    //             searchByText: 'Search by',
-    //           },
-    //           noResultsScreen: {
-    //             noResultsText: 'No relevant results found',
-    //             suggestedQueryText: 'You can try...',
-    //             reportMissingResultsText:
-    //               'Do you think this query should have results?',
-    //             reportMissingResultsLinkText: 'Report missing result',
-    //           },
-    //         },
-    //       },
-    //     },
-    //     '/fr/': {
     //       placeholder: 'Rechercher',
     //       translations: {
     //         button: {
