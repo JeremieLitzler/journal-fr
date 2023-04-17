@@ -1,0 +1,15 @@
+{
+  "FM Template prev and next articles": {
+    "scope": "yaml",
+    "prefix": "set frontmatter next prev",
+    "body": [
+      "prev:",
+      "  text: ''",
+      "  link: ..//README.md",
+      "next:",
+      "  text: ''",
+      "  link: ..//README.md"
+    ],
+    "description": "Set prev and next articles"
+  }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Journal de Jeremie Litzler",
+    "short_name": "Blog J. Litzler",
+    "description": "Journal sur les notes et experiences de Jérémie Litzler (disponible hors ligne après installation)",
+    "icons": [{
+        "src": "/icons/android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any maskable"
+    }, {
+        "src": "/icons/android-chrome-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+    }],
+    "start_url": "https://jeremielitzler.fr/",
+    "display": "fullscreen",
+    "theme_color": "#18a558",
+    "background_color": "#18a558"
+}
