@@ -1,9 +1,9 @@
 {
-  "name": "journal",
-  "version": "1.0.615",
-  "description": "Saves Jeremie Litzler's notes, experiences and thought publicly",
+  "name": "journal-fr",
+  "version": "1.0.616",
+  "description": "e partage mes notes et expériences pour tous",
   "main": "index.js",
-  "repository": "https://github.com/JeremieLitzler/journal",
+  "repository": "https://github.com/JeremieLitzler/journal-fr",
   "author": "Jérémie Litzler <jeremie.litzler@gmail.com>",
   "license": "GPL V3",
   "private": true,

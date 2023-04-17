@@ -1,8 +1,8 @@
-# Jeremie Litzler's journal blog
+# Le blog personel de Jérémie Litzler
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/412ed131-8d39-49bb-836e-71570e87ad3d/deploy-status)](https://app.netlify.com/sites/journal-of-jeremiel/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e2a9c00d-2bfe-402d-bb51-51ae4b0d2402/deploy-status)](https://app.netlify.com/sites/jeremiel-blog-fr/deploys)
 
-## Prerequisites
+## Pré-requis
 
 - [Git bash](https://git-scm.com/downloads)
 - [NodeJS 18.0.0](https://nodejs.org/en/blog/release/v16.13.1/)
