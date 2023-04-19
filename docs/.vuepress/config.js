@@ -1,4 +1,4 @@
-const version = '1.0.617';
+const version = '1.0.618';
 
 import { defineUserConfig } from '@vuepress/cli';
 import { viteBundler } from '@vuepress/bundler-vite';
@@ -6,13 +6,15 @@ import { viteBundler } from '@vuepress/bundler-vite';
 import docsearchPlugin from '@vuepress/plugin-docsearch';
 
 import theme from './theme';
-import { frHeadConfig } from './configs/head';
+import { enHeadConfig, frHeadConfig } from './configs/head';
 
 export default defineUserConfig({
   lang: 'fr-FR',
   locales: {
     '/': frHeadConfig,
+    '/en/': enHeadConfig,
   },
+
   theme,
   shouldPrefetch: false,
   bundler: viteBundler(),

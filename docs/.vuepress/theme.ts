@@ -2,11 +2,11 @@
 
 import { hopeTheme } from 'vuepress-theme-hope'
 
-import { frNavBarConfig } from "./configs/navbar";
+import { enNavBarConfig, frNavBarConfig } from "./configs/navbar";
 
 export default hopeTheme({
     //path.resolve(__dirname, './theme'),
-    hostname: "https://iamjeremie.me",
+    hostname: "https://jeremielitzler.fr/",
     author: {
       name: "Jérémie Litzler",
       url: "https://jeremielitzler.fr/"
@@ -22,6 +22,11 @@ export default hopeTheme({
     locales: {
       '/': {
         navbar: frNavBarConfig,
+        sidebar: false,
+        headerDepth: 3,
+      },
+      '/en/': {
+        navbar: enNavBarConfig,
         sidebar: false,
         headerDepth: 3,
       } 
