@@ -19,7 +19,7 @@ head:
       },
     ]
 category:
-  - Rencontres d autonomistes
+  - Temoignages
 tag:
   - Brian Ejarque
   - Ortie

@@ -13,7 +13,7 @@ head:
       },
     ]
 category:
-  - Entreprenariat digital
+  - Entreprenariat
 ---
 
 ![Un PC portable et un bloc-notes sur un bureau.](/images/2023-03-30-a-laptop-and-notebook-on-a-desk.jpg 'Photo de [Nick Morrison](https://unsplash.com/@nickmorrison?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) sur [Unsplash](https://unsplash.com/s/photos/digital-business?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)')

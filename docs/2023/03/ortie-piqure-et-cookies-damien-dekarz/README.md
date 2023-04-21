@@ -20,8 +20,6 @@ head:
     ]
 category:
   - Jardin
-  - Biodiversite
-  - Agroécologie
 tag:
   - Damien Dekarz
   - Ortie

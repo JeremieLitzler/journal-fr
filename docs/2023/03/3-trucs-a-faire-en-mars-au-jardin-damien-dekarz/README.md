@@ -14,8 +14,6 @@ head:
   - [link, { rel: canonical, href: url }]
 category:
   - Jardin
-  - Biodiversite
-  - Agroécologie
 tag:
   - Damien Dekarz
   - En mars

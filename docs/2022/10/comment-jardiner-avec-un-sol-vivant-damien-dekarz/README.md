@@ -18,9 +18,9 @@ next:
   link: ../que-faire-au-jardin-en-octobre-damien-dekarz/
 category:
   - Jardin
-  - Vie du sol
 tag:
   - Damien Dekarz
+  - Vie du sol
   - Plantes
   - Mycorhizes
   - Champignons
