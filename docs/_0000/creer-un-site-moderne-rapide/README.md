@@ -53,13 +53,80 @@ Pour cela, connectez-vous à votre compte GitHub et :
 - Choisissez le visibilité : `Public` ou `Private`.
 - Ignorez la suite qui sera copié du modèle
 
+![Créer le dépôt sur GitHub](./images/creer-le-depot-sur-github.jpg)
+
 3. Cliquez `Create repository`
 
 ### Préparer le poste de développement
 
+Une fois que le dépôt est prêt, je vous invite à préparer votre poste de développement.
+
+Il faut :
+
+- Installer [Git bash](https://git-scm.com/downloads) en cliquant suivant (aucune personnalisation n'est nécessaire).
+- Installer [NodeJS 18.5.0](https://nodejs.org/en/blog/release/v18.5.0/) en cliquant suivant (aucune personnalisation n'est nécessaire).
+- Installer [Visual Studio Code](https://code.visualstudio.com/download) en cliquant suivant (aucune personnalisation n'est nécessaire).
+- Lancer Visual Studio Code et tapez `CTRL+SHIFT+P` puis `Terminal` pour sélectionner le profil `Git Bash`
+  ![Changer le profil du terminal](./images/changer-le-profil-du-terminal.jpg)
+  Et :
+  ![Sélectionner git bash](./images/selectionner-git-bash.jpg)
+
+- Tapez `CTRL+ù` pour ouvrir le terminal avec `Git Bash`
+
+- Vous êtes prêts à cloner les dépôts :
+
+  - Optionnellement, créer un dossier `Git` dans le disque C ou D de votre ordinateur.
+  - Lancer la commande `git clone https://github.com/VotrePseudoGitHub/NomDeVotreDepot` qui crée un dossier `NomDeVotreDepot`.
+  - Lancer la commande `git clone https://github.com/Puzzlout/TemplateVuepress/` pour clôner le dépôt contenant la structure du site à réaliser. Le dépôt est sauvegardé dans le dossier `TemplateVuepress`.
+
 ### Initialiser le site web à partir du modèle
 
+Maintenant que les dépôts sont clonés :
+
+- Copier le tout le contenu du dossier `TemplateVuepress` dans le dossier `NomDeVotreDepot`, incluant le dossier `.vscode` pour les snippets de code.
+
+:::warning Ne copier pas le dossier .git
+:::
+
+:::tip Comment voir le dossier .vscode s'il n'apparait pas ?
+
+- Ouvrez l'explorateur de fichiers et sélectionner le menu `Options` comme indiqué ci-dessous :
+  ![Ouvrir les options de visualisation des dossiers](./images/ouvrir-les-options-de-visualisation-des-dossiers.jpg)
+
+- Sélectionnez l'affichage des dossiers et fichiers cachés :
+  ![Sélectionner l'option d'afficher les fichiers et dossiers cachés](./images/selectionner-loption-dafficher-les-fichiers-et-dossiers-caches.jpg)
+
+:::
+
+- Modifier au minimum les fichiers suivants pour personnaliser votre site.
+
+:::warning A TERMINER
+
+:::
+
+Je ne détaillerai pas comment créer votre site, car cela dépend beaucoup de votre besoin.
+
+Voici les exemples de sites :
+
+- le présent site, où vous vous trouvez, est créé avec le modèle (en fait, il a servi de base pour le modèle).
+- le site de mon activité de microentreprise : [www.puzzlout.com](https://www.puzzlout.com).
+- le site d'une productrice de quinoa que j'ai réalisé au premier semestre 2023 : [www.inflorescences-quinoa.fr/](https://www.inflorescences-quinoa.fr/)
+- le site de la méthode _Passons le C.A.P_ : [wwww.passonslecap.fr](http://passonslecap.fr/)
+
+Pour des conseils et des besoins particuliers, [contactez-moi](../../page/contactez-moi/README.md).
+
 ### Déployer le site sur Netlify
+
+Maintenant que le contenu est prêt :
+
+1. Lancer le terminal avec `CTRL+ù`, s'il n'est pas déjà ouvert.
+2. Lancer la commande suivante :
+
+```sh
+git add -A && git commit "pousser le contenu sur GitHub" && git push
+```
+
+3. Rendez-vous sur [app.netlify.com]
 
 ### Commande le domaine personnalisé
 
