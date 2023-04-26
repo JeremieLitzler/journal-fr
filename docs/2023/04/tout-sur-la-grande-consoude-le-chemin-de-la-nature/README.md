@@ -106,7 +106,7 @@ Je fais pousser de la consoude chez moi depuis 2 ans et je la propage depuis l�
 
 Si vous intéressez, je peux essayer de récolter les graines pour les partager. [Contactez-moi pour en recevoir](../../../page/contactez-moi/README.md).
 
-Sinon je recommande [les pots de Consoude du Jardin du PicVert. ](https://www.jardindupicvert.com/vivaces/2346-consoude-officinale.html)Je me suis fourni chez eux il y a 2 ans.
+Sinon je recommande [les pots de Consoude du Jardin du PicVert](https://www.jardindupicvert.com/vivaces/2346-consoude-officinale.html). Je me suis fourni chez eux il y a 2 ans.
 :::
 
 Christophe recommande toutefois les alcoolatures de racines fraiches (avec un alcool à 45° ou moins) qui extraient mieux l’allantoïne.
