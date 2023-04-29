@@ -1,6 +1,6 @@
 {
   "name": "journal-fr",
-  "version": "1.0.623",
+  "version": "1.0.624",
   "description": "e partage mes notes et expériences pour tous",
   "main": "index.js",
   "repository": "https://github.com/JeremieLitzler/journal-fr",
@@ -18,6 +18,6 @@
     "vuepress-vite": "2.0.0-beta.61"
   },
   "dependencies": {
-    "vuepress-theme-hope": "2.0.0-beta.205"
+    "vuepress-theme-hope": "2.0.0-beta.206"
   }
 }
