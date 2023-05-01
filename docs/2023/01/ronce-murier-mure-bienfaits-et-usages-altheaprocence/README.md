@@ -1,6 +1,6 @@
 ---
-title: 'Ronce, murier, mure : bienfaits et usages, par Christophe Bernard'
-description: "Vous en avez sûrement chez vous si vous vivez à la campagne, proche d'une zone sauvage. On essaye souvent de s'en débarrasser. Toutefois, saviez-vous qu'il s'agit plutôt d'une ami ? Christophe nous raconte tout dans son vlog sur cette plante incroyable."
+title: 'Ronce ou murier : bienfaits et usages, avec Christophe Bernard'
+description: "Vous en avez sûrement chez vous si vous vivez à la campagne, proche d'une zone sauvage. On essaye souvent de s'en débarrasser. Toutefois, saviez-vous qu'il s'agit plutôt d'une ami ?"
 date: 2023-01-20
 prev:
   text: 'Toutes mes notes des vlogs de Christophe Bernard'
@@ -13,7 +13,7 @@ head:
       link,
       {
         rel: canonical,
-        href: https://jeremielitzler.fr/2023/01/ronce-murier-mure-bienfaits-et-usages-altheaprocence,
+        href: https://iamjeremie.substack.com/p/ronce-murier-mure-bienfaits-et-usages-althea,
       },
     ]
 category:
