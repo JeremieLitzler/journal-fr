@@ -13,7 +13,7 @@ tag:
 article: false
 ---
 
-![Diagramme expliquant l'organisation de la JAMSTACK](/images/2023-04-19-jamstack-javascript-apis-markup.webp "Image issue de l'article "New to Jamstack? Everything You Need to Know to Get Started"](https://snipcart.com/blog/jamstack) de Snipcart.")
+![Diagramme expliquant l'organisation de la JAMSTACK](/images/2023-04-19-jamstack-javascript-apis-markup.webp 'Image issue de l\'article ["New to Jamstack? Everything You Need to Know to Get Started"](https://snipcart.com/blog/jamstack) de Snipcart.')
 
 De nos jours, il existe beaucoup de méthodes pour créer son site web. J'en présente une qui coûte presque rien. Pour de vrai !
 
@@ -25,11 +25,11 @@ De nos jours, il existe beaucoup de méthodes pour créer son site web. J'en pr�
   - Windows 10 ou 11,
   - 8 Go LPDDR4,
   - un disque de 256 Go SSD
-  - et un processeur Intel Celeron J4125 Quad Core (jusqu'à 2,7 GHz)
+  - et un processeur Intel Celeron J4125 Quad Core
 - Un compte e-mail (Google ou autre)
 - Un compte GitHub (créé avec votre compte e-mail)
 - Un compte Netlify (lié à votre compte GitHub)
-- Un compte chez un registar pour le nom de domaine, si vous souhaitez une URL 100% personnalisée.
+- Optionnellement, un compte chez un registar (OVH, Infomaniak, etc.) pour le nom de domaine, si vous souhaitez une URL 100% personnalisée.
 
 :::tip Par défaut, Netlify fournit une URL
 Le sous domaine est configurable, sous réserve de disponibilité.
@@ -55,7 +55,7 @@ Pour cela, connectez-vous à votre compte GitHub et :
 
 ![Créer le dépôt sur GitHub](./images/creer-le-depot-sur-github.jpg)
 
-3. Cliquez `Create repository`
+3. Cliquez `Create repository` pour terminer.
 
 ### Préparer le poste de développement
 
@@ -63,21 +63,45 @@ Une fois que le dépôt est prêt, je vous invite à préparer votre poste de d�
 
 Il faut :
 
-- Installer [Git bash](https://git-scm.com/downloads) en cliquant suivant (aucune personnalisation n'est nécessaire).
-- Installer [NodeJS 18.5.0](https://nodejs.org/en/blog/release/v18.5.0/) en cliquant suivant (aucune personnalisation n'est nécessaire).
+- Installer [Git bash](https://git-scm.com/downloads). Allez visualiser [ma vidéo sur le sujet](https://youtu.be/eHTZ-2qY19s).
+
+- Installer [NodeJS 18.6.0](https://nodejs.org/en/blog/release/v18.6.0/) en cliquant suivant (aucune personnalisation n'est nécessaire).
+
 - Installer [Visual Studio Code](https://code.visualstudio.com/download) en cliquant suivant (aucune personnalisation n'est nécessaire).
+
+- Configurer l'explorateur Windows pour afficher les dossiers et fichiers cachés (ex : fichier `.gitignore`, dossier `.vscode`)
+
+  - Ouvrez l'explorateur de fichiers et sélectionner le menu `Options` comme indiqué ci-dessous :
+    ![Ouvrir les options de visualisation des dossiers](./images/ouvrir-les-options-de-visualisation-des-dossiers.jpg)
+
+  - Sélectionnez l'affichage des dossiers et fichiers cachés :
+    ![Sélectionner l'option d'afficher les fichiers et dossiers cachés](./images/selectionner-loption-dafficher-les-fichiers-et-dossiers-caches.jpg)
+
 - Lancer Visual Studio Code et tapez `CTRL+SHIFT+P` puis `Terminal` pour sélectionner le profil `Git Bash`
   ![Changer le profil du terminal](./images/changer-le-profil-du-terminal.jpg)
   Et :
   ![Sélectionner git bash](./images/selectionner-git-bash.jpg)
 
+:::note Peut-être que tout est bon si vous avez suivi l'étape à l'installation de Git.
+L'étape précédente est là, au cas où ce n'est pas le cas.
+
+Toutefois, comme j'ai le même PC depuis un moment, je veux juste être sûr qu'on a tous la même configuration de poste.
+:::
+
 - Tapez `CTRL+ù` pour ouvrir le terminal avec `Git Bash`
+  ![Le terminal est lancé avec Git Bash](./images/le-terminal-est-lance-avec-git-bash.jpg)
 
-- Vous êtes prêts à cloner les dépôts :
+Vous êtes prêts à cloner les dépôts :
 
-  - Optionnellement, créer un dossier `Git` dans le disque C ou D de votre ordinateur.
-  - Lancer la commande `git clone https://github.com/VotrePseudoGitHub/NomDeVotreDepot` qui crée un dossier `NomDeVotreDepot`.
-  - Lancer la commande `git clone https://github.com/Puzzlout/TemplateVuepress/` pour clôner le dépôt contenant la structure du site à réaliser. Le dépôt est sauvegardé dans le dossier `TemplateVuepress`.
+:::tip Optionnellement, créer un dossier `Git`
+Dans le disque C ou D de votre ordinateur ou ailleurs, cela permettra d'organiser vos dépôts locaux.
+:::
+
+- Lancer la commande `git clone https://github.com/VotrePseudoGitHub/NomDeVotreDepot` qui crée un dossier `NomDeVotreDepot`.
+  - Dans mon cas, j'utiliserai le dépôt `JeremieLitzler/mon-site-demo-tutoriel` (disponible [ici](https://github.com/JeremieLitzler/mon-site-demo-tutoriel)).
+- Lancer la commande `git clone https://github.com/Puzzlout/TemplateVuepress/` pour clôner le dépôt contenant la structure du site à réaliser.
+  - Le dépôt est sauvegardé dans le dossier `TemplateVuepress` à l'endroit où vous stockez vous dépôt.
+  - Pour moi, ce sera `D:/Git/GitHub/`
 
 ### Initialiser le site web à partir du modèle
 
@@ -85,20 +109,11 @@ Maintenant que les dépôts sont clonés :
 
 - Copier le tout le contenu du dossier `TemplateVuepress` dans le dossier `NomDeVotreDepot`, incluant le dossier `.vscode` pour les snippets de code.
 
-:::warning Ne copier pas le dossier .git
-:::
+  - sauf le dossier `.git` et `github`
 
-:::tip Comment voir le dossier .vscode s'il n'apparait pas ?
+![Fichiers à copier du dépôt modèle vers votre dépôt](./images/fichiers-a-copier-du-depot-modele-vers-votre-depot.jpg)
 
-- Ouvrez l'explorateur de fichiers et sélectionner le menu `Options` comme indiqué ci-dessous :
-  ![Ouvrir les options de visualisation des dossiers](./images/ouvrir-les-options-de-visualisation-des-dossiers.jpg)
-
-- Sélectionnez l'affichage des dossiers et fichiers cachés :
-  ![Sélectionner l'option d'afficher les fichiers et dossiers cachés](./images/selectionner-loption-dafficher-les-fichiers-et-dossiers-caches.jpg)
-
-:::
-
-- Modifier au minimum les fichiers suivants pour personnaliser votre site.
+- Modifier au minimum les fichiers suivants pour personnaliser votre site :
 
 :::warning A TERMINER
 
