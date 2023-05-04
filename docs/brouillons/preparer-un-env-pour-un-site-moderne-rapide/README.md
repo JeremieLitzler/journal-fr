@@ -31,13 +31,13 @@ La première étape pour créer son site web moderne et rapide, c'est de prépar
   - Windows 10 ou 11,
   - 8 Go LPDDR4,
   - un disque de 256 Go SSD
-  - et un processeur Intel Celeron J4125 Quad Core
-- Un compte e-mail (Google ou autre)
-- Un compte GitHub (créé avec votre compte e-mail)
-- Un compte Netlify (lié à votre compte GitHub)
+  - et un processeur Intel Celeron Quad Core
+- Un compte e-mail (Google ou autre) (par ici [avec Gmail](https://accounts.google.com/) ou [avec Infomaniak](https://www.infomaniak.com/fr/email-gratuit))
+- Un compte GitHub (créé avec votre compte e-mail) en [le créant par ici](https://github.com/signup.)
+- Un compte [chez Netlify](https://app.netlify.com/) (lié à votre compte GitHub)
 - Optionnellement, un compte chez un registar (OVH, Infomaniak, etc.) pour le nom de domaine, si vous souhaitez une URL 100% personnalisée.
 
-:::tip Par défaut, Netlify fournit une URL
+:::tip Par défaut, Netlify fournit une URL publique
 Le sous domaine est configurable, sous réserve de disponibilité.
 
 L'application serait alors disponible sous `https://mon-site.netlify.app`.
@@ -59,7 +59,7 @@ Pour cela, connectez-vous à votre compte GitHub et :
 
 ![Créer le dépôt sur GitHub](./images/creer-le-depot-sur-github.jpg)
 
-3. Cliquez `Create repository` pour terminer.
+3. Cliquez `Create repository` en bas du formulaire pour terminer.
 
 ## Préparer le poste de développement
 
@@ -69,7 +69,7 @@ Il faut :
 
 - Installer [Git bash](https://git-scm.com/downloads). Allez visualiser [ma vidéo sur le sujet](https://youtu.be/eHTZ-2qY19s).
 
-- Installer [NodeJS 18.6.0](https://nodejs.org/en/blog/release/v18.6.0/) en cliquant suivant (aucune personnalisation n'est nécessaire).
+- Installer [NodeJS 18.16.0](https://nodejs.org/en/blog/release/v18.16.0/) en cliquant suivant (aucune personnalisation n'est nécessaire).
 
 - Installer [Visual Studio Code](https://code.visualstudio.com/download) en cliquant suivant (aucune personnalisation n'est nécessaire).
 
@@ -81,18 +81,24 @@ Il faut :
   - Sélectionnez l'affichage des dossiers et fichiers cachés :
     ![Sélectionner l'option d'afficher les fichiers et dossiers cachés](./images/selectionner-loption-dafficher-les-fichiers-et-dossiers-caches.jpg)
 
-- Lancer Visual Studio Code et tapez `CTRL+SHIFT+P` puis `Terminal` pour sélectionner le profil `Git Bash`
-  ![Changer le profil du terminal](./images/changer-le-profil-du-terminal.jpg)
-  Et :
-  ![Sélectionner git bash](./images/selectionner-git-bash.jpg)
+:::note Pour l'étape qui suit seulement...
+Peut-être que tout est bon si vous avez suivi l'étape à l'installation de Git.
 
-:::note Peut-être que tout est bon si vous avez suivi l'étape à l'installation de Git.
-L'étape précédente est là, au cas où ce n'est pas le cas.
+L'étape est là, au cas où ce n'est pas le cas.
 
 Toutefois, comme j'ai le même PC depuis un moment, je veux juste être sûr qu'on a tous la même configuration de poste.
 :::
 
+- Lancez Visual Studio Code et tapez `CTRL+SHIFT+P` puis `Terminal` pour sélectionner le profil `Git Bash`
+
+  ![Changer le profil du terminal](./images/changer-le-profil-du-terminal.jpg)
+
+  Et sélectionnez `Git Bash`:
+
+  ![Sélectionner git bash](./images/selectionner-git-bash.jpg)
+
 - Tapez `CTRL+ù` pour ouvrir le terminal avec `Git Bash`
+
   ![Le terminal est lancé avec Git Bash](./images/le-terminal-est-lance-avec-git-bash.jpg)
 
 Vous êtes prêts à cloner les dépôts !

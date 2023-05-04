@@ -29,19 +29,31 @@ De nos jours, il existe beaucoup de méthodes pour créer son site web. J'en pr�
 
 ## Pré-requis
 
-- Avoir réaliser l'étape de préparation de son PC.
+- Avoir réaliser [l'étape de préparation de son PC](../preparer-un-env-pour-un-site-moderne-rapide/README.md).
 
 ## Cloner les dépôts
 
-:::tip Optionnellement, créer un dossier `Git`
-Dans le disque C ou D de votre ordinateur ou ailleurs, cela permettra d'organiser vos dépôts locaux.
+:::tip Optionnellement, créer un dossier <em>Git</em>
+A la raine du disque C ou D de votre ordinateur ou ailleurs, cela permettra d'organiser vos dépôts locaux.
 :::
 
-- Lancer la commande `git clone https://github.com/VotrePseudoGitHub/NomDeVotreDepot` qui crée un dossier `NomDeVotreDepot`.
-  - Dans mon cas, j'utiliserai le dépôt `JeremieLitzler/mon-site-demo-tutoriel` (disponible [ici](https://github.com/JeremieLitzler/mon-site-demo-tutoriel)).
-- Lancer la commande `git clone https://github.com/Puzzlout/TemplateVuepress/` pour clôner le dépôt contenant la structure du site à réaliser.
-  - Le dépôt est sauvegardé dans le dossier `TemplateVuepress` à l'endroit où vous stockez vous dépôt.
-  - Pour moi, ce sera `D:/Git/GitHub/
+- Lancer la commande suivante qui crée un dossier `NomDeVotreDepot`.
+
+```sh
+git clone https://github.com/VotrePseudoGitHub/NomDeVotreDepot
+```
+
+- Dans mon cas, j'utiliserai le dépôt `JeremieLitzler/mon-site-demo-tutoriel` (disponible [ici](https://github.com/JeremieLitzler/mon-site-demo-tutoriel)).
+
+- Lancer la commande suivant pour clôner le dépôt contenant la structure du site à réaliser.
+
+```sh
+git clone https://github.com/Puzzlout/TemplateVuepress/
+```
+
+Le dépôt est sauvegardé dans le dossier `TemplateVuepress` à l'endroit où vous stockez vous dépôt.
+
+Pour moi, ce sera `D:/Git/GitHub/
 
 ## Initialiser le site web à partir du modèle
 
@@ -51,7 +63,7 @@ Maintenant que les dépôts sont clonés :
 
 On copiera les fichiers du dossier `TemplateVuepress` dans le dossier `NomDeVotreDepot`, incluant le dossier `.vscode` pour les snippets de code.
 
-:::warning Sauf le dossier <em>.git</em> et <em>github</em>
+:::warning Sauf le dossier <em>.git</em> et <em>.github</em>
 :::
 
 ![Fichiers à copier du dépôt modèle vers votre dépôt](./images/fichiers-a-copier-du-depot-modele-vers-votre-depot.jpg)
@@ -63,21 +75,53 @@ Au minimum les fichiers suivants doivent être personnalisé, incluant :
 - les fichiers définissant l'élément `head` global dans le dossier `docs/.vuepress/configs/head`.
 
   - vous trouverez un fichier `js` par locale ou langue que le site propose.
+  - il faut au minimum modifier, **par chaque fichier `js`** :
+
+    - la variable `websiteDomain` avec l'URL de votre site. On reviendra dessous après [le déploiement](../deployer-son-site-moderne-rapide/README.md)
+    - la variable `titleDefault`, qui doit être inférieur à 60 caractères
+    - la variable `descriptionDefault`, qui doit être compris entre 50 à 160 caractères
+
+    - la variable `themeColor` qu'on remplacera globalement avec `CTRL+SHIF+H`
+
+      - pour le choix de la couleur, en utilisant [ce site](https://huemint.com/brand-intersection/) et choisissez une couleur sombre.
+      - sauvegarder la palette de couleur générée dans `docs/.vuepress/styles/palette.scss`
+
+    - la variable `repoLink` où l'on remplacera globalement avec `CTRL+SHIF+H` la valeur `GitHubUsername/GitRepoName` par `VotrePseudoGitHub/NomDeVotreDepot`
+    - concernant le tag meta `og:url`, en fonction de votre langue principal, il faudra adapter l'URL :
+      - sur le modèle `TemplateVuepress`, la langue par défaut est l'anglais.
+      - sur [le site construit pour le tutoriel](https://github.com/JeremieLitzler/mon-site-demo-tutoriel), la langue par défaut est le français.
 
 - les fichiers définissant l'élément `nav` pour le menu de navigation dans le dossier `docs/.vuepress/configs/navbar` - vous trouverez un fichier `js` par locale ou langue que le site propose.
 
+  - en fonction de votre langue principal, il faudra adapter les URL :
+
+    - pour votre langue principale, pas besoin de mettre `/[[locale-courte]]/ma-page`
+    - sur le modèle `TemplateVuepress`, la langue par défaut est l'anglais.
+    - sur [le site construit pour le tutoriel](https://github.com/JeremieLitzler/mon-site-demo-tutoriel), la langue par défaut est le français.
+
+  - les liens peuvent s'afficher avec un texte :
+    - soit implicite, c'est-à-dire la valeur du `title` dans le fichier Markdown.
+    - soit explicite, c'est-à-dire la valeur `text`
+
+![Liens implicites vs liens explicites dans le menu de navigation](./images/liens-implicites-vs-liens-explicites-dans-le-menu-de-navigation.jpg)
+
 - le fichier `docs/.vuepress/public/admin/config.yml` définissant l'interface avec NetlifyCMS, si vous l'activer (voir plus loin comme l'activer).
 
-  - il faudra alors mettre à jour le nom du dépôt.
+  - il faudra alors mettre à jour le nom du dépôt, normalement déjà réaliser précédement sur le remplacement de la valeur `GitHubUsername/GitRepoName` par `VotrePseudoGitHub/NomDeVotreDepot`.
 
 - les fichiers `docs/.vuepress/public/site.webmanifest` et les variantes par locale, qui définissent l'application web
 
   - vous trouvez ce fichier déclaré dans le fichier `js` correspondant à la locale dans le dossier `docs/.vuepress/configs/head`.
+  - suivez les règles listées par [MDN Web Docs](https://developer.mozilla.org/fr/docs/Web/Manifest) sur le sujet.
+  - à propos de `start_url`, la même règle s'applique que précédemment concernant la présence de la locale dans l'URL.
 
 - le fichier `docs/.vuepress/config.js` qui définit :
 
   - la locale par défaut, à ajuster selon votre besoin.
   - les locales actives, à ajuster selon votre besoin.
+  - la même règle s'applique que précédemment concernant la locale par défaut.
+    - sur le modèle `TemplateVuepress`, la langue par défaut est l'anglais.
+    - sur [le site construit pour le tutoriel](https://github.com/JeremieLitzler/mon-site-demo-tutoriel), la langue par défaut est le français.
 
 ### Personnaliser le thème
 
@@ -91,7 +135,7 @@ A travers le fichier `docs/.vuepress/theme.ts`, qui définit certains valeurs à
 
 - le `repo` correspondant à l'identification du dépôt sur GitHub.
 
-  - Vous pouvez réaliser un `CTRL + SHIFT + H` et exécuter un remplacement de `GitHubUsername/GitRepoName` en `VotrePseudoGitHub/VotreNomDeDepotGit` par exemple.
+  - normalement déjà réaliser précédement sur le remplacement de la valeur `GitHubUsername/GitRepoName` par `VotrePseudoGitHub/NomDeVotreDepot`.
 
 - les `docsBranch`, `docsDir`, `editLinkPattern` n'ont pas besoin d'être modifiés.
 
@@ -109,7 +153,7 @@ A travers le fichier `docs/.vuepress/theme.ts`, qui définit certains valeurs à
 
 - les listes des `plugins` est configuré de façon optiomal pour un usage basique, mais reste toutefois riche. Si vous souhaitez davantage, visitez [le site du thème VuePress](https://theme-hope.vuejs.press/).
 
-  - le plugin `blog` fournit .
+  - le plugin `blog` fournit par le thème.
 
     - l'index du blog (ex : page `/[locale]/article/`) liste tous les articles, sauf pour les fichiers `.md` déclarant `article: false`,
     - des catégories (ex : `/[locale]/category/ma-category/`),
@@ -128,6 +172,29 @@ A travers le fichier `docs/.vuepress/theme.ts`, qui définit certains valeurs à
 
   - le plugin `pwa` a été désactivé même s'il génère encore un fichier `service-worker.js` à la racine du site (`https://example.com/service-worker.js`).
 
+### Création du logo et icônes
+
+Vous devrez remplacer les images dans `docs/.vuepress/public/icons`
+
+En utilisant [ce générateur](https://favicon.io/favicon-generator/), vous pouvez créer un logo à partir de quelques caractères.
+
+1. Utlisez la couleur du thème choisi précédemment et une autre couleur (claire).
+2. Modifiez la couleur _Font Color_ avec la couleur claire et _Background color_ avec la couleur sombre.
+3. Saisissez votre texte. J'utilise en général une ou deux lettres pour tout soit affiché. Utilisez la _Font Size_ pour ajuster cela.
+4. Sélectionner le style _Background_ et la famille de police.Select the font you prefer and the font size.
+5. Cliquez `Download`.
+6. Extrayez les fichiers en renommant `about.txt` en `about-light-over-dark.txt`.
+7. Copiez tout **sauf le fichier manifest** dans `docs/.vuepress/public/icons` pour remplacer les fichiers existants.
+8. Inverser les couleurs dans [le générateur](https://favicon.io/favicon-generator/).
+9. Cliquez `Download` à nouveau.
+10. Extrayez les fichiers et
+
+- renommez`about.txt` en `about-dark-over-light.txt`
+- préfixez toutes les images avec `dark-`.
+
+11. Copiez tout **sauf le fichier manifest** dans `docs/.vuepress/public/icons` pour remplacer les fichiers existants.
+12. Copiez de `docs/.vuepress/public/icons` le fichier `favicon.ico` dans `docs/.vuepress/public`.
+
 ### Personnaliser les pages par défaut
 
 Je ne détaillerai pas comment créer votre site, car cela dépend beaucoup de votre besoin.
@@ -141,6 +208,6 @@ Voici les exemples de sites :
 
 Pour des conseils et des besoins particuliers, [contactez-moi](../../page/contactez-moi/README.md).
 
-Sinon, continuer avec [l'étape de déploiement](../deployer-son-site-moderne-rapide/README.md)
+Sinon, continuons avec [l'étape de déploiement](../deployer-son-site-moderne-rapide/README.md)
 
 [< Retour à la table des matières](../comment-realiser-son-site-moderne-et-rapide/README.md)

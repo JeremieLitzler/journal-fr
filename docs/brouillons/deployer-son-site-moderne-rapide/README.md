@@ -29,14 +29,14 @@ Avec les services de Netlify, le déploiement n'a jamais été aussi simple.
 
 Maintenant que le contenu est prêt :
 
-1. Lancer le terminal avec `CTRL+ù`, s'il n'est pas déjà ouvert.
+1. Lancer le terminal avec `CTRL+ù` dans Visual Studio Code, s'il n'est pas déjà ouvert.
 2. Lancer la commande suivante :
 
 ```sh
 git add -A && git commit "pousser le contenu sur GitHub" && git push
 ```
 
-## Commande le domaine personnalisé
+## Commande du domaine personnalisé
 
 Sauf si vous avez besoin de mon aide, le seul coût sera celui du domaine personnalisé. Ex : `mon-super-domaine.fr`.
 
@@ -54,11 +54,47 @@ J'ai eu une fois un temps de propagation de la suppression de l'entrée `A` sur 
 Soyez patients ;)
 :::
 
-### Mettre à jour l'application sur Netlify avec un domaine personnalisé
+## Déployer le site sur Netlify
+
+Rendez-vous sur [app.netlify.com](https://app.netlify.com) en vous connectant avec votre compte GitHub.
+
+![Connexion netlify via github sso](./images/connexion-netlify-via-github-sso.jpg)
+
+Vous devez alors autoriser l'accès à votre compte par Netlify (pour lire la liste des dépôt).
+
+Une fois connecté, sélectionnez `Add new site` puis `Import an existing project` :
+
+![Ajouter un site](./images/ajouter-un-site.jpg)
+
+Sélectionnez `GitHub` :
+
+![Sélectionner GitHub](./images/selectionner-github.jpg)
+
+Rechercher et sélectionner votre dépôt :
+
+![Rechercher et sélectionner votre dépôt](./images/recherche-et-selectionner-votre-depôt.jpg)
+
+Configurez le déploiement en modifiant :
+
+- `Base directory` par `docs/.vuepress`.
+- `Build command` par `yarn && npm run docs:build`.
+- `Publish directory` en ajouter `dist` à la valeur.
+
+![Configurer le déploiement](./images/configurer-le-deploiement.jpg)
+
+Le déploiement ne devrait pas prendre plus de 2 minutes.
+
+En attendant, allez dans `Site settings` et cliquez `Change site name`.
+
+La valeur par défaut est aléatoire. Je mets en général une valeur plus sympa.
+
+Dans mon cas, ce sera `mon-site-demo-tutoriel`. Le site est alors disponible sur `https://mon-site-demo-tutoriel.netlify.app`.
+
+## Mettre à jour l'application sur Netlify avec un domaine personnalisé
 
 Une fois la zone DNS prête,
 
-- ajouter le domaine dans Netlify en sélectionnant votre site depuis [app.netlify.com](https://app.netlify.com), puis en cliquant `Domain settings`.
+- ajouter le domaine dans Netlify en sélectionnant votre site depuis [app.netlify.com](https://app.netlify.com), puis en cliquant `Site settings` puis `Domain management`.
   - dans `Production domains`, cliquer `Add domain` et confirmer l'ajout sans passer par `Netlify DNS`
 
 :::warning Netlify DNS
