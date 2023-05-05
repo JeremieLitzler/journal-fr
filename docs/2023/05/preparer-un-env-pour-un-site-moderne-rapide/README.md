@@ -3,20 +3,19 @@ title: 'Préparer un environnement de gestion de son site web sur un PC lambda e
 description: "La première étape pour créer son site web moderne et rapide, c'est de préparer le PC pour le créer."
 heroImage: /images/2023-04-19-jamstack-javascript-apis-markup.webp
 heroAlt: Diagramme expliquant l'organisation de la JAMSTACK
-date: 2023-04-19
+date: 2023-05-08
 head:
   - [
       link,
       {
         rel: canonical,
-        href: https://jeremielitzler.fr/2023/??/preparer-un-env-pour-un-site-moderne-rapide/,
+        href: https://jeremielitzler.fr/2023/05/preparer-un-env-pour-un-site-moderne-rapide/,
       },
     ]
 category:
   - Tutoriels
 tag:
   - Web
-article: false
 ---
 
 ![Diagramme expliquant l’organisation de la JAMSTACK](/images/2023-04-19-jamstack-javascript-apis-markup.webp 'Image issue de l\'article ["New to Jamstack? Everything You Need to Know to Get Started"](https://snipcart.com/blog/jamstack) de Snipcart.')

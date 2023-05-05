@@ -3,20 +3,19 @@ title: 'Déployer votre site web moderne pour moins de 10 euros !'
 description: "Avec les services de Netlify, le déploiement n'a jamais été aussi simple."
 heroImage: /images/2023-04-19-jamstack-javascript-apis-markup.webp
 heroAlt: Diagramme expliquant l'organisation de la JAMSTACK
-date: 2023-04-19
+date: 2023-05-15
 head:
   - [
       link,
       {
         rel: canonical,
-        href: https://jeremielitzler.fr/2023/??/deployer-son-site-moderne-rapide/,
+        href: https://jeremielitzler.fr/2023/05/deployer-son-site-moderne-rapide/,
       },
     ]
 category:
   - Tutoriels
 tag:
   - Web
-article: false
 ---
 
 ![Diagramme expliquant l’organisation de la JAMSTACK](/images/2023-04-19-jamstack-javascript-apis-markup.webp 'Image issue de l\'article ["New to Jamstack? Everything You Need to Know to Get Started"](https://snipcart.com/blog/jamstack) de Snipcart.')

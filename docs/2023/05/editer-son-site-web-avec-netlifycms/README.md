@@ -3,13 +3,13 @@ title: "Activer l'édition du contenu de son site web"
 description: "A la place d'une solution comme WordPress, NetlifyCMS permet de gérer son contenu sans les difficultés connues de WordPress."
 heroImage: /images/2023-04-19-jamstack-javascript-apis-markup.webp
 heroAlt: Diagramme expliquant l'organisation de la JAMSTACK
-date: 2023-04-19
+date: 2023-05-18
 head:
   - [
       link,
       {
         rel: canonical,
-        href: https://jeremielitzler.fr/2023/??/editer-son-site-web-avec-netlifycms/,
+        href: https://jeremielitzler.fr/2023/05/editer-son-site-web-avec-netlifycms/,
       },
     ]
 category:

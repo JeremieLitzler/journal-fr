@@ -3,20 +3,19 @@ title: 'Construire son site moderne et rapide !'
 description: 'Dans cet article, je décris les étapes concrètes pour créer, configurer le site et personnaliser son contenu.'
 heroImage: /images/2023-04-19-jamstack-javascript-apis-markup.webp
 heroAlt: Diagramme expliquant l'organisation de la JAMSTACK
-date: 2023-04-19
+date: 2023-05-11
 head:
   - [
       link,
       {
         rel: canonical,
-        href: https://jeremielitzler.fr/2023/??/creer-son-site-moderne-rapide/,
+        href: https://jeremielitzler.fr/2023/05/creer-son-site-moderne-rapide/,
       },
     ]
 category:
   - Tutoriels
 tag:
   - Web
-article: false
 ---
 
 ![Diagramme expliquant l’organisation de la JAMSTACK](/images/2023-04-19-jamstack-javascript-apis-markup.webp 'Image issue de l\'article ["New to Jamstack? Everything You Need to Know to Get Started"](https://snipcart.com/blog/jamstack) de Snipcart.')
