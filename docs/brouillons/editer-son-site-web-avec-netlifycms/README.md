@@ -49,7 +49,7 @@ Les étapes sont assez simples :
 10. De retour sur Netlify, rendez vous sur `Access Control`
 11. Allez dans `OAuth` et cliquez `Install provider` en sélectionnant `GitHub`.
 12. Saisissez le client secret copié à l'étape 9 et copiez-collez le client ID avant de cliquer `Install`.
-13. Pour finir, rendez-vous sur `mon-site.fr/admin` et cliquez `Login with GitHub`.
+13. Pour finir, rendez-vous sur `https://mon-super-domaine.fr/admin` et cliquez `Login with GitHub`.
 
 :::warning Pour accèder à NetlifyCMS de votre site, soyez sûr de pouvoir vous connecter à GitHub.
 :::
