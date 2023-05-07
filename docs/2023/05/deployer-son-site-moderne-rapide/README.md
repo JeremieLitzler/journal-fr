@@ -9,7 +9,7 @@ head:
       link,
       {
         rel: canonical,
-        href: https://jeremielitzler.fr/2023/05/deployer-son-site-moderne-rapide/,
+        href: https://iamjeremie.substack.com/p/deployer-votre-site-web-moderne,
       },
     ]
 category:
