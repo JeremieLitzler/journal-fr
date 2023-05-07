@@ -9,7 +9,7 @@ head:
       link,
       {
         rel: canonical,
-        href: https://jeremielitzler.fr/2023/05/preparer-un-env-pour-un-site-moderne-rapide/,
+        href: https://iamjeremie.substack.com/p/preparer-lenvironnement-pour-creer-son-site-web,
       },
     ]
 category:
