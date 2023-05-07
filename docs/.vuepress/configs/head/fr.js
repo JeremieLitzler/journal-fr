@@ -5,10 +5,11 @@ export const frHeadConfig = {
   lang: 'fr-FR',
   title: titleFr,
   description: descriptionFr,
+  repo: 'https://github.com/JeremieLitzler/journal-fr',
   head: [
     ['meta', { property: 'og:title', content: titleFr }],
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:url', content: 'https://iamjeremie.me/' }],
+    ['meta', { property: 'og:url', content: 'https://jeremielitzler.fr/' }],
     [
       'meta',
       {
@@ -58,6 +59,6 @@ export const frHeadConfig = {
         href: '/icons/apple-touch-icon.png',
       },
     ],
-    ['link', { rel: 'manifest', href: '/site.fr.webmanifest' }],
+    ['link', { rel: 'manifest', href: '/site.webmanifest' }],
   ],
 };

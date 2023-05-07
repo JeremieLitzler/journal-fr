@@ -61,6 +61,5 @@ export const enHeadConfig = {
         href: '/icons/apple-touch-icon.png',
       },
     ],
-    ['link', { rel: 'manifest', href: '/site.webmanifest' }],
   ],
 };
