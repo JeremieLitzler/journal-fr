@@ -129,3 +129,12 @@ Dans de nombreux dérèglements liés au foie, le pissenlit vient donner un coup
 - les problèmes articulaires
 
 On utilise alors le pissenlit, non pas comme un acteur principal, mais comme un acteur secondaire, qui vient débloquer la situation, en facilitant le métabolisme global et une meilleure évacuation des déchets.
+
+Pour continuer à lire des articles comme celui, n'hésitez pas et abonnez-vous !
+
+:::center
+⏬⏬⏬
+:::
+
+<!-- markdownlint-disable MD033 -->
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

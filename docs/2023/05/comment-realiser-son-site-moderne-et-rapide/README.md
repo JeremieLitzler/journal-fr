@@ -34,4 +34,4 @@ Je décris en détail les étapes pour créer votre site vous-même dans les art
 - _Éditer son site web depuis le navigateur_ (à venir...)
 <!-- - [Éditer son site web depuis le navigateur](../editer-son-site-web-avec-netlifycms/README.md) -->
 
-Si vous pensez que ce serait utile que je réalise une série de tutoriels vidéos, [dites-le-moi](../../page/contactez-moi/README.md) !
+Si vous pensez que ce serait utile que je réalise une série de tutoriels vidéos, [dites-le-moi](../../../page/contactez-moi/README.md) !

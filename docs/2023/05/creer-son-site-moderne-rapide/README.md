@@ -205,7 +205,7 @@ Voici les exemples de sites :
 - le site d’une productrice de quinoa que j’ai réalisé au premier semestre 2023 : [www.inflorescences-quinoa.fr/](https://www.inflorescences-quinoa.fr/)
 - le site de la méthode _Passons le C.A.P_ : [wwww.passonslecap.fr](http://passonslecap.fr/)
 
-Pour des conseils et des besoins particuliers, [contactez-moi](../../page/contactez-moi/README.md).
+Pour des conseils et des besoins particuliers, [contactez-moi](../../../page/contactez-moi/README.md).
 
 Sinon, continuons avec [l’étape de déploiement](../deployer-son-site-moderne-rapide/README.md)
 

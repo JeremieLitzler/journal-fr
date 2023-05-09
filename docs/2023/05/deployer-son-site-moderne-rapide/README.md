@@ -35,7 +35,7 @@ Maintenant que le contenu est prêt :
 npm run docs:build
 ```
 
-3. Si vous avez une erreur, [contactez-moi](../../page/contactez-moi/README.md) en fournissant l’URL du dépôt. Sinon, continuez avec :
+3. Si vous avez une erreur, [contactez-moi](../../../page/contactez-moi/README.md) en fournissant l’URL du dépôt. Sinon, continuez avec :
 
 ```sh
 git add -A && git commit "pousser le contenu sur GitHub" && git push
