@@ -43,6 +43,10 @@ Vous pouvez retrouver les vlogs dont je me suis inspiré pour cet article dans l
 - [On vous dit tout sur le pissenlit !](https://www.youtube.com/watch?v=e-9ekFPNNO4)
 - [Le pissenlit est un trésor !](https://www.youtube.com/watch?v=gVgyiE39AIc)
 - [Le pissenlit est notre ami](https://www.youtube.com/watch?v=Yk9PGNGASFE)
+- [Rosettes, pissenlit and co](https://www.youtube.com/watch?v=smO_1exJktE)
+- [Les salades sauvages, pissenlits, laiterons, laitues](https://www.youtube.com/watch?v=j1BTDWmCOCA)
+- [5 confusions du pissenlit](https://www.youtube.com/watch?v=nI2n-pNHF2w)
+- [Les picrides proches du pissenlit](https://www.youtube.com/watch?v=2ed_FeQmvi8)
 
 J’ajouterai ici les compléments d’information sur le pissenlit que je n’ai pas déjà mentionné sur [l’article rédigé à partir du vlog de l’autre Christophe sur Altheaprovence](../le-pissenlit-altheaprocence/README.md).
 
@@ -242,7 +246,11 @@ Au printemps, on peut facilement distinguer le pissenlit des autres plantes lui 
 Pour toutes les autres plantes, les inflorescences se développent une fois la tige déjà bien haute.
 
 ::: Pour toutes les confusions qui suivent…
-Pas de danger, sauf pour le coquelicot et la laitue vireuse où il est préférable d’éviter de consommer les feuilles.
+Pas de danger pour toutes les plantes de la famille des Asteraceae.
+
+Plus les feuilles sont jeunes, plus c'est comestibles.
+
+Toutefois, on évitera quand même le coquelicot et la laitue vireuse.
 :::
 
 ### Confusion avec la bourse-à-pasteur
@@ -283,6 +291,8 @@ Pour différencier ces laitues du pissenlit, c’est le troisième critère qui 
 
 Comme les laitues, la nervure triangulaire marque la différence avec le pissenlit.
 
+Ils sont comestibles. On connait le laiteron rude (la feuille est plutôt rêche) et le laiteron maraicher.
+
 ### Confusion avec la chicorée sauvage
 
 Nom scientifique : _Cichorium intybus_.
@@ -297,11 +307,21 @@ Il y a déjà la picride fausse épervière (_Picris hieracioides_).
 
 ![Plant de picride fausse épervière](./images/plant-de-picride-fausse-eperviere.jpg 'Crédits : image extraite du vlog du chemin de la nature')
 
+_Hieracioides_ signigie :
+
+- _"oides"_ : qui ressemble à
+- _"Hieracium"_ : l'épervière ou la piloselle
+
 La picride a des poils durs qui permettent d’utiliser les feuilles en magnifique badge sur son t-shirt. Le pissenlit ne le permet pas.
 
-Il y a aussi la picride fausse vipèrine (_Helminthotheca echioides_).
+Il y a aussi la picride fausse vipèrine (_Picris echioides_).
 
 ![Plant de picride fausse vipèrine](./images/plant-de-picride-fausse-viperine.jpg 'Crédits : image extraite du vlog de Le chemin de la nature')
+
+_Echioides_ signigie :
+
+- _"oides"_ : qui ressemble à
+- _"Echium"_ : la vipérine
 
 Celle-ci présente des sortes de pustules sur les feuilles.
 
