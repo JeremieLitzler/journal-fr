@@ -31,4 +31,4 @@ iframe.newsletter-embed {
 
 ## Ou prenez rendez-vous pour se parler directement
 
-En utilisant [ce lien](https://calendly.com/iamjeremie/first-call), vous trouverez mes disponibilités.
+En utilisant [ce lien](https://calendly.com/jeremielitzler/first-call), vous trouverez mes disponibilités.

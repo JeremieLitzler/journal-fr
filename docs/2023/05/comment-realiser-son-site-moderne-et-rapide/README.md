@@ -9,7 +9,7 @@ head:
       link,
       {
         rel: canonical,
-        href: https://iamjeremie.me/2023/05/comment-realiser-son-site-moderne-et-rapide/,
+        href: https://jeremielitzler.fr/2023/05/comment-realiser-son-site-moderne-et-rapide/,
       },
     ]
 category:
