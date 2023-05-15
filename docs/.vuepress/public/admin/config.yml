@@ -1,3 +1,4 @@
+locale: fr
 backend:
   name: github
   repo: JeremieLitzler/journal-fr

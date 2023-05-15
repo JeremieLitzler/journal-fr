@@ -152,3 +152,11 @@ Une fois que le certificat est déployé, vous pourrez accéder à votre site we
 ![Certificat Let’s Encrypt est actif. Votre site web est sécurisé.](./images/certificat-lets-encrypt-est-actif-votre-site-web-est-securise.jpg 'Certificat Let’s Encrypt est actif. Votre site web est sécurisé ! Crédits: image extraite du site Netlify')
 
 Si vous souhaitez éditer le contenu depuis n’importe quel PC, cela est possible avec NetlifyCMS. Je vous explique [comment l’activer sur votre site web](../editer-son-site-web-avec-netlifycms/README.md).
+
+## Limitations
+
+Pour un blog de très grande taille (plus de 400 pages générées incluant les pseudos liens si vous utilisez les catégories et les tags), l’hébergement sur Netlify risque d’être limite.
+
+Toutefois, l’astuce serait de déployer le dossier `dist` généré sur votre PC et de le pousser sur GitHub ensuite. Cela donne le même résultat.
+
+Je ne l’ai toutefois pas encore testé.
