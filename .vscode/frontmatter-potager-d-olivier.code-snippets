@@ -4,7 +4,7 @@
     "prefix": "set frontmatter olivier",
     "body": [
       "---",
-      "title: $1, par Le potager d'Olivier",
+      "title: $1, avec Le potager d'Olivier",
       "description: \"$7\"",
       "heroImage: /images/$2-$3.jpg",
       "heroAlt: $4",

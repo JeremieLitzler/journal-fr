@@ -8,14 +8,14 @@ prev:
 #next:
 #  text: ''
 #  link: ..//README.md
-#head:
-#  - [
-#      meta,
-#      {
-#        rel: canonical,
-#        href: url,
-#      },
-#    ]
+head:
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://jeremielitzler.fr/2023/01/que-faire-au-jardin-en-janvier-damien-dekarz/,
+      },
+    ]
 category:
   - Jardin
 tag:

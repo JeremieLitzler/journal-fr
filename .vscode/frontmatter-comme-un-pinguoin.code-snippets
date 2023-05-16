@@ -4,7 +4,7 @@
     "prefix": "set frontmatter pinguin",
     "body": [
       "---",
-      "title: \"$1, par Comme un pingouin dans le desert\"",
+      "title: \"$1, avec Comme un pingouin dans le desert\"",
       "description: \"$7\"",
       "heroImage: /images/$2-$3.jpg",
       "heroAlt: $4",

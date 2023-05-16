@@ -4,7 +4,7 @@
     "prefix": "set frontmatter chem nature",
     "body": [
       "---",
-      "title: $1, par Le chemin de la nature",
+      "title: $1, avec Le chemin de la nature",
       "description: \"$7\"",
       "heroImage: /images/$2-$3.jpg",
       "heroAlt: $4",
