@@ -51,7 +51,7 @@ Pour information, d'après [La Ferme de Sainte-Marthe](https://www.fermedesainte
 Le risque de gèle est toujours important en janvier et les semis n'y résisteraient pas.
 
 :::tip Note personnelle
-Quand je vois la vidéo d'Olivier, je vois une contradiction avec Damien, surtout dans [ces notes que j'ai prises](../que-faire-au-jardin-en-janvier--damien-dekarz/README.md#planter-lail).
+Quand je vois la vidéo d'Olivier, je vois une contradiction avec Damien, surtout dans [ces notes que j'ai prises](../que-faire-au-jardin-en-janvier-damien-dekarz/README.md#planter-lail).
 
 Damien dit _On peut planter l'ail_, Olivier attend février ou mars pour l'ail, fève, pois pour en semer en pleine terre.
 

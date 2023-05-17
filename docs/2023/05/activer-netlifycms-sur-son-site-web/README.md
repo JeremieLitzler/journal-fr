@@ -1,6 +1,6 @@
 ---
 title: "Activer l'édition du contenu de son site web"
-description: "A la place d'une solution comme WordPress, NetlifyCMS permet de gérer son contenu sans les difficultés connues de WordPress."
+description: 'À la place d’une solution comme WordPress, NetlifyCMS permet de gérer son contenu sans toutes les difficultés connues du CMS le plus utilisé dans le monde.'
 heroImage: /images/2023-04-19-jamstack-javascript-apis-markup.webp
 heroAlt: Diagramme expliquant l'organisation de la JAMSTACK
 date: 2023-05-18
@@ -16,12 +16,11 @@ category:
   - Tutoriels
 tag:
   - Web
-article: false
 ---
 
 ![Diagramme expliquant l'organisation de la JAMSTACK](/images/2023-04-19-jamstack-javascript-apis-markup.webp 'Image issue de l\'article ["New to Jamstack? Everything You Need to Know to Get Started"](https://snipcart.com/blog/jamstack) de Snipcart.')
 
-À la place d’une solution comme WordPress, NetlifyCMS permet de gérer son contenu sans les difficultés connues de WordPress.
+À la place d’une solution comme WordPress, NetlifyCMS permet de gérer son contenu sans toutes les difficultés connues du CMS le plus utilisé dans le monde.
 
 <!-- more -->
 
@@ -29,15 +28,21 @@ article: false
 
 Par défaut, le modèle de site VuePress contient le dossier `admin` de base il faudra mettre à jour quelques éléments.
 
-Les étapes sont assez simples :
+Les étapes sont assez simples.
 
-1. Modifiez le fichier `config.yml` se trouvant dans le dossier `docs/.vuepress/public/admin` en mettant à jour la valeur du nom du dépôt GitHub et la langue de votre site (`fr` pour Français, `en` pour Anglais, etc).
-2. Dans Netlify, rendez-vous dans `https://app.netlify.com/sites/votre-site/settings/general` dans le formulaire et cliquez `Identity`
-3. Cliquez `Enable Identity`.
-4. Modifiez-les `Registration preferences` pour permettre les souscriptions sans ou avec invitations. Par défaut, configurer `Invite only`.
-5. Sans changer de page, descendez jusqu’à `Git Gateway` et cliquez `Enable Git Gateway`.
-6. Passez sur GitHub une fois que vous êtes connectés sur votre compte : naviguer sur [https.://github.com/settings/developers](https://github.com/settings/developers) pour ajouter une nouvelle `OAuth App`. Cliquez `New OAuth App`.
-7. Fournissez dans le formulaire comme suit :
+### Dans le dépôt Git
+
+On modifie le fichier `config.yml` se trouvant dans le dossier `docs/.vuepress/public/admin` en mettant à jour la valeur du nom du dépôt GitHub et la langue de votre site (`fr` pour Français, `en` pour Anglais, etc).
+
+Je ne détaillerai pas le reste, car la configuration par défaut correspond à un besoin de base. Pour plus d'information, je vous invite à visiter [le site DecapCMS](https://decapcms.org/).
+
+### Dans GitHub
+
+Rendez-vous sur GitHub une fois que vous êtes connectés sur votre compte.
+
+Naviguez sur [https://github.com/settings/developers](https://github.com/settings/developers) pour ajouter une nouvelle `OAuth App`. Cliquez `New OAuth App`.
+
+Fournissez dans le formulaire comme suit :
 
 - Le nom de l’application dans le champ `Application name`. Ex : _Mon site web_.
 - L’URL de la page d’accueil de votre site dans le champ `Homepage URL`.
@@ -46,35 +51,52 @@ Les étapes sont assez simples :
 
 ![Le formulaire rempli pour la création de l'application OAuth App](./images/le-formulaire-rempli-pour-la-creation-de-lapplication-oauth-app.jpg)
 
-8. Une fois validé, vous verrez le `Client ID` (1) et le bouton pour générer le `Client Secret` via le bouton `Generate a new client secret` (2).
+Une fois validé, vous verrez le `Client ID` (1) et le bouton pour générer le `Client Secret` via le bouton `Generate a new client secret` (2).
 
 ![Ecran récapitulatif de l'application OAuth avec le bouton pour générer le Client Secret](./images/ecran-recapitulatif-de-lapplication-oauth-avec-le-bouton-pour-generer-le-client-secret.jpg)
 
-9. Cliquez le bouton pour générer le Client secret et copiez la valeur générée.
+Cliquez le bouton pour générer le Client secret et copiez la valeur générée.
 
 ![Bouton de copie du Client Secret](./images/bouton-de-copie-du-client-secret.jpg)
 
-10. De retour sur Netlify, revenez sur votre site web, puis `Site settings` rendez-vous sur `Access Control` tout en bas.
+### Dans Netlify
+
+Rendez-vous sur Netlify et allez sur `https://app.netlify.com/sites/votre-site/settings/general` et cliquez `Identity`
+
+Cliquez `Enable Identity`.
+
+Modifiez-les `Registration preferences` pour permettre les souscriptions sans ou avec invitations. Par défaut, configurer `Invite only`.
+
+Sans changer de page, descendez jusqu’à `Git Gateway` et cliquez `Enable Git Gateway`.
+
+Dans les `Site settings`, rendez-vous sur `Access Control` tout en bas.
 
 ![Configurer "Access Control" du site](./images/configurer-access-control-du-site.jpg)
 
-11. Allez dans `OAuth` et cliquez `Install provider` en sélectionnant `GitHub`.
-12. Saisissez le client secret copié à l’étape 9 et copiez-collez le client ID avant de cliquer `Install`.
+Allez dans `OAuth` et cliquez `Install provider` en sélectionnant `GitHub`.
+
+Saisissez le _client secret_ copié dans GitHub et copiez-collez le client ID avant de cliquer `Install`.
 
 ![Configurer la liaison entre GitHub et le site Netlify](./images/configurer-la-liaison-entre-github-et-le-site-netlify.jpg)
 
-13. Pour finir, rendez-vous sur `https://mon-super-domaine.fr/admin` et cliquez `Se connecter avec GitHub`.
+:::tip Si vous n'avez pas copié le _client secret_...
+Regénérez-en un, tout simplement :)
+:::
+
+Pour finir, rendez-vous sur `https://mon-super-domaine.fr/admin` et cliquez `Se connecter avec GitHub`.
 
 ![Ecran de connexion à NetlifyCMS sur votre site](./images/ecran-de-connexion-a-netlifycms-sur-votre-site.jpg)
 
 :::warning Pour accéder à NetlifyCMS de votre site, soyez sûr de pouvoir vous connecter à GitHub.
 :::
 
-14. L’écran suivant s’affiche où il suffit de cliquer `Authorize VotrePseudoGitHub`.
-    ![Écran d’autorisation pour netlify.com vers GitHub.com](./images/ecran-dautorisation-pour-netlify.com-vers-github.com.jpg)
+L’écran suivant s’affiche où il suffit de cliquer `Authorize VotrePseudoGitHub`.
 
-15. Vous arrivez alors sur la page d’accueil de l’interface de gestion NetlifyCMS de votre site
-    ![Accueil de NetlifyCMS d’un site démonstration](./images/accueil-de-netlifycms-dun-site-demonstration.jpg)
+![Écran d’autorisation pour netlify.com vers GitHub.com](./images/ecran-dautorisation-pour-netlify.com-vers-github.com.jpg)
+
+Vous arrivez alors sur la page d’accueil de l’interface de gestion NetlifyCMS de votre site
+
+![Accueil de NetlifyCMS d’un site démonstration](./images/accueil-de-netlifycms-dun-site-demonstration.jpg)
 
 Je n'irai pas dans le détail ici de comment utiliser NetlifyCMS.
 
