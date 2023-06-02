@@ -1,6 +1,6 @@
 ---
 home: true
-containerClass: home-page
+containerClass: jli-home-page
 heroFullScreen: true
 title: 'Accueil'
 heroText: 'Bonjour,'
