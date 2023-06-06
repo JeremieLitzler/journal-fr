@@ -32,7 +32,7 @@ La première étape pour créer son site web moderne et rapide, c’est de prép
   - un disque de 256 Go SSD
   - et un processeur Intel Celeron Quad Core
 - Un compte e-mail (Google ou autre) (par ici [avec Gmail](https://accounts.google.com/) ou [avec Infomaniak](https://www.infomaniak.com/fr/email-gratuit))
-- Un compte GitHub (créé avec votre compte e-mail) en [le créant par ici](https://github.com/signup.)
+- Un compte GitHub (créé avec votre compte e-mail) en [le créant par ici](https://github.com/signup)
 - Un compte [chez Netlify](https://app.netlify.com/) (lié à votre compte GitHub)
 - Optionnellement, un compte chez un registar de domaines (OVH, Infomaniak, etc.). Cela est utile pour le nom de domaine, si vous souhaitez une URL 100 % personnalisée.
 

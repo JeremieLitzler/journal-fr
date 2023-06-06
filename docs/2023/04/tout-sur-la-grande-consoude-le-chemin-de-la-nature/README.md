@@ -15,7 +15,7 @@ head:
       link,
       {
         rel: canonical,
-        href: https://jeremielitzler.fr/2023/04/tout-sur-la-grande-consoude--le-chemin-de-la-nature,
+        href: https://jeremielitzler.fr/2023/04/tout-sur-la-grande-consoude-le-chemin-de-la-nature,
       },
     ]
 category:

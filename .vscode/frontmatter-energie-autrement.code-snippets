@@ -4,7 +4,7 @@
     "prefix": "set frontmatter barnabé",
     "body": [
       "---",
-      "title: $1, par Barnabé Chaillot",
+      "title: $1, avec Barnabé Chaillot",
       "description: \"$7\"",
       "heroImage: /images/$2-$3.jpg",
       "heroAlt: $4",

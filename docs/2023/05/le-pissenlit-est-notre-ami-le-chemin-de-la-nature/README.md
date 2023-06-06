@@ -43,11 +43,16 @@ Vous pouvez retrouver les vlogs dont je me suis inspiré pour cet article dans l
 - [On vous dit tout sur le pissenlit !](https://www.youtube.com/watch?v=e-9ekFPNNO4)
 - [Le pissenlit est un trésor !](https://www.youtube.com/watch?v=gVgyiE39AIc)
 - [Le pissenlit est notre ami](https://www.youtube.com/watch?v=Yk9PGNGASFE)
+- [Rosettes, pissenlit and co](https://www.youtube.com/watch?v=smO_1exJktE)
+- [Les salades sauvages, pissenlits, laiterons, laitues](https://www.youtube.com/watch?v=j1BTDWmCOCA)
+- [5 confusions du pissenlit](https://www.youtube.com/watch?v=nI2n-pNHF2w)
+- [Les picrides proches du pissenlit](https://www.youtube.com/watch?v=2ed_FeQmvi8)
 
 J’ajouterai ici les compléments d’information sur le pissenlit que je n’ai pas déjà mentionné sur [l’article rédigé à partir du vlog de l’autre Christophe sur Altheaprovence](../le-pissenlit-altheaprocence/README.md).
 
 ## Botanique
 
+On le nom _taraxacum officinale_ ou _taraxacum sp._.
 Il existe d’espèces et de formes de pissenlit (de la famille _taraxacum_), que les botanistes ont classé par section. Toutefois, pour le cueilleur de plantes sauvages, tous les pissenlits sont bons.
 
 On trouve les pissenlits partout en France, même en Corse, jusqu’à 2000 mètres d’altitude, et même en Corse. Dans le monde, seule la région d’Asie du Sud-Est semble ne pas être adaptée à la plante.
@@ -76,6 +81,8 @@ Leurs formes peuvent varier.
 
 ![Trois feuilles de pissenlit de formes différentes](./images/trois-feuilles-de-pissenlit-de-formes-differentes.jpg 'Crédits : image extraite du vlog du chemin de la nature')
 
+Aussi, les feuilles ne présentent pas de poils, contraitement à d'autres plantes de la famille des Asteraceae. Voir [plus loin sur les confusions possibles](#precautions).
+
 :::warning Un point important à retenir.
 La nervure principale de la feuille est parfaitement ronde.
 
@@ -89,8 +96,10 @@ Voici la chronologie de l’inflorescence :
 ::: tabs
 @tab Inflorescence en bouton
 ![Une inflorescence en bouton](./images/une-inflorescence-en-bouton.jpg 'Crédits : image extraite du vlog du chemin de la nature')
+Ils se mangent revenus à la poêle ou macérer comme les câpres.
 @tab Inflorescence épanouie
 ![Une inflorescence épanouie](./images/une-inflorescence-epanouie.jpg 'Crédits : image extraite du vlog du chemin de la nature')
+
 @tab Inflorescence fanée
 ![Une inflorescence fanée](./images/une-inflorescence-fanee.jpg 'Crédits : image extraite du vlog du chemin de la nature')
 @tab Les soies sont formées
@@ -103,15 +112,25 @@ Un arkène est un _fruit sec_. Ci-dessous, on distingue clairement l’arkène d
 ![Vue zoomée sur les arkènes et les aigrettes, le petit parachute de l’arkène](./images/vue-zoomee-sur-les-arkenes-et-les-aigrettes-le-petit-parachute-de-larkene.jpg 'Crédits : image extraite du vlog du chemin de la nature')
 :::
 
-La fleur du pissenlit n’est pas cette grosse boule jaune.
+La fleur du pissenlit n’est pas cette grosse boule jaune, qu'on appelle **le capitule**.
+A la base de l'inflorescence, on trouve un involucre de bractées. La bractée représente une petite feuille à la base d'un capitule.
 
-C’est juste ça :
+![L'involucre de bractées de l'inflorescence de pissenlit](./images/linvolucre-de-bractees-de-linflorescence-de-pissenlit.jpg 'Crédits : image extraite du vlog de Le chemin de la nature')
+
+Une seule fleur, c'est uniquement ceci :
 
 ![Une fleur ligulée](./images/fleur-ligulee.jpg 'Crédits : image extraite du vlog du chemin de la nature')
 
 La fleur n’est pas ce qu’on pense, d’où le nom d’inflorescence, qui signifie _Mode de groupement des fleurs d’une plante (ex. en grappes, en ombelles…)_. Pour plus de détail, allez lire [l’article de Wikipédia](https://fr.wikipedia.org/wiki/Inflorescence).
 
-La fleur se compose d’un pétale soudé (il y a en réalité 5 pétales soudés).
+La fleur ligulée se compose d’un pétale soudé (il y a en réalité 5 pétales soudés, d'où le nom de _ligule_).
+
+En cuisine, on peut réaliser une sorte de sirop ou _miel de pissenlit_ nommé la cramaillotte (originaire de Franche-Comté). Elle se confectionne avec des fleurs sans l'involucre de bractées, du sucre et de l'agar-agar pour gélifier l'infusion / décoction finale.
+
+La décoction se réalise à une légère ébullition à couvert pendant 30 min. Christophe suggère d'ajouter du citron ou de l'orange entière en petits morceaux ou du gingembre frais.
+On laisse ensuite infuser 1h avant de filtrer dans une passoire très fine ou un sac à jus.
+
+Ensuite, on ajoute l'équivalent en poids d'infusion en sucre. On fait bouillir 10 min, on ajoute l'agar-agar et on met ça dans des flacons.
 
 ### Le latex dans le pissenlit
 
@@ -123,6 +142,8 @@ Sur la racine c’est la même chose quand on la coupe.
 
 Elle est dite _pivotante_ et allée très profond dans le sol.
 
+Elle se casse comme une carotte et on le déguste grillée à la poêle afin de diminuer l'amertume qu'elle contient et d'amener des saveurs intéressantes.
+
 ## Quand le récolter
 
 La période maximale optimale de floraison se trouve entre avril et mai.
@@ -131,6 +152,8 @@ Pour les feuilles, ce sera en mars où les feuilles sont tendres et fraiches.
 
 :::tip Note personnelle
 Je consomme autant les feuilles d’avril ou mai, même si elles sont plus coriaces.
+
+Christophe insiste sur le fait que l'amertume peut être facilement supprimée avec la cuisson.
 :::
 
 ![Identification du collet sur un pissenlit](./images/identification-du-collet-sur-un-pissenlit.jpg 'Crédits : image extraite du vlog du chemin de la nature')
@@ -223,7 +246,11 @@ Au printemps, on peut facilement distinguer le pissenlit des autres plantes lui 
 Pour toutes les autres plantes, les inflorescences se développent une fois la tige déjà bien haute.
 
 ::: Pour toutes les confusions qui suivent…
-Pas de danger, sauf pour le coquelicot et la laitue vireuse où il est préférable d’éviter de consommer les feuilles.
+Pas de danger pour toutes les plantes de la famille des Asteraceae.
+
+Plus les feuilles sont jeunes, plus c'est comestibles.
+
+Toutefois, on évitera quand même le coquelicot et la laitue vireuse.
 :::
 
 ### Confusion avec la bourse-à-pasteur
@@ -264,6 +291,8 @@ Pour différencier ces laitues du pissenlit, c’est le troisième critère qui 
 
 Comme les laitues, la nervure triangulaire marque la différence avec le pissenlit.
 
+Ils sont comestibles. On connait le laiteron rude (la feuille est plutôt rêche) et le laiteron maraicher.
+
 ### Confusion avec la chicorée sauvage
 
 Nom scientifique : _Cichorium intybus_.
@@ -278,11 +307,21 @@ Il y a déjà la picride fausse épervière (_Picris hieracioides_).
 
 ![Plant de picride fausse épervière](./images/plant-de-picride-fausse-eperviere.jpg 'Crédits : image extraite du vlog du chemin de la nature')
 
+_Hieracioides_ signigie :
+
+- _"oides"_ : qui ressemble à
+- _"Hieracium"_ : l'épervière ou la piloselle
+
 La picride a des poils durs qui permettent d’utiliser les feuilles en magnifique badge sur son t-shirt. Le pissenlit ne le permet pas.
 
-Il y a aussi la picride fausse vipèrine (_Helminthotheca echioides_).
+Il y a aussi la picride fausse vipèrine (_Picris echioides_).
 
 ![Plant de picride fausse vipèrine](./images/plant-de-picride-fausse-viperine.jpg 'Crédits : image extraite du vlog de Le chemin de la nature')
+
+_Echioides_ signigie :
+
+- _"oides"_ : qui ressemble à
+- _"Echium"_ : la vipérine
 
 Celle-ci présente des sortes de pustules sur les feuilles.
 

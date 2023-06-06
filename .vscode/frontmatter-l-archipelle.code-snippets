@@ -4,7 +4,7 @@
     "prefix": "set frontmatter archipelle",
     "body": [
       "---",
-      "title: \"$1, par l'Archi'Pelle\"",
+      "title: \"$1, avec l'Archi'Pelle\"",
       "description: \"$7\"",
       "heroImage: /images/$2-$3.jpg",
       "heroAlt: $4",

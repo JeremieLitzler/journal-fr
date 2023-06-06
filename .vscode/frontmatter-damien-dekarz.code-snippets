@@ -4,7 +4,7 @@
     "prefix": "set frontmatter damien",
     "body": [
       "---",
-      "title: $1, par Damien Dekarz",
+      "title: $1, avec Damien Dekarz",
       "description: \"$7\"",
       "heroImage: /images/$2-$3.jpg",
       "heroAlt: $4",
