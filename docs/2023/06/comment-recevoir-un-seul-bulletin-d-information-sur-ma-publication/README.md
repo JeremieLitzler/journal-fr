@@ -1,8 +1,8 @@
 ---
-title: 'How to toggle a single newsletter on my Substack publication'
-description: "If you subscribed before April 2023, you will find this useful."
+title: 'Comment recevoir un seul bulletin d information sur ma publication'
+description: "Si vous vous êtes abonné avant avril 2023, cela vous sera utile."
 heroImage: /images/2023-06-06-substack-logo.avif
-heroAlt: Substack logo
+heroAlt: Le logo de Substack
 date: 2023-06-07
 head:
   - [
@@ -17,12 +17,12 @@ tag:
 article: false
 ---
 
-![Substack logo](/images/2023-06-06-substack-logo.avif)
+![Le logo de Substack](/images/2023-06-06-substack-logo.avif)
 
-If you subscribed before April 2023, you will find this useful.
+Si vous vous êtes abonné avant avril 2023, cela vous sera utile.
 
 <!-- more -->
 
-Following [this link](../how-to-setup-substack-publication-for-2-languages-in-2023/welcome-email.md#enable-the-newsletter-s-you-need), it will explain you how to opt-in to the newsletter you want.
+Cliquez [ce lien](../comment-configurer-substack-avec-plusieurs-langues-en-2023/welcome-email.md#activez-la-ou-les-newsletters-dont-vous-avez-besoin) pour découvrir comment configurer ce que vous recevez de ma publication.
 
-[Contact me](../../../page/contact-me/README.md) if you need further assistance.
+[Contactez-moi](../../../page/contactez-moi//README.md) si vous avez besoin d'aide supplémentaire.
