@@ -144,7 +144,7 @@ Voici leur réponse :
 
 Soyons patients et espérons pour une mise à disposition dans peu de temps !
 
-: ::center
+:::center
 ⏬⏬⏬
 :::
 
