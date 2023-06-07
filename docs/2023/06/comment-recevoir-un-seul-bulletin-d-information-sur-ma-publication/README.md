@@ -14,7 +14,6 @@ head:
     ]
 tag:
   - Substack
-article: false
 ---
 
 ![Le logo de Substack](/images/2023-06-06-substack-logo.avif)
