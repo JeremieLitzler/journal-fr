@@ -1,3 +1,6 @@
+const version = '1.0.655';
+const publishDate = new Date(Date.now()).toDateString();
+
 //https://v2.vuepress.vuejs.org/reference/default-theme/extending.html
 
 import { hopeTheme } from 'vuepress-theme-hope';
@@ -33,7 +36,7 @@ export default hopeTheme({
   },
   displayFooter: true,
   footer:
-    'License GPLv3 | <a href="https://jeremielitzler.fr/page/mentions-legales/" title="Lire les mentions légales">Mentions légales</a>',
+    `License GPLv3 | <a href="https://jeremielitzler.fr/page/mentions-legales/" title="Lire les mentions légales">Mentions légales</a> | v${version} publié le ${publishDate}`,
   plugins: {
     blog: true,
     comment: {

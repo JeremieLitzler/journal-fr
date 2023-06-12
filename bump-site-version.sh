@@ -8,7 +8,7 @@ echo "PREV => "$PREV_VERSION
 NEXT_VERSION=$(echo $PREV_VERSION | awk -F. '/[0-9]+\./{$NF++;print}' OFS=.)
 echo "NEXT => "$NEXT_VERSION
 
-#update config.js
-sed -i 's/'$PREV_VERSION'/'$NEXT_VERSION'/' docs/.vuepress/config.js
+#update theme.ts
+sed -i 's/'$PREV_VERSION'/'$NEXT_VERSION'/' docs/.vuepress/theme.ts
 #update package.json
 sed -i 's/'$PREV_VERSION'/'$NEXT_VERSION'/' package.json
