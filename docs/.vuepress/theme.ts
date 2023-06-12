@@ -1,4 +1,4 @@
-const version = '1.0.655';
+const version = '1.0.656';
 const publishDate = new Date(Date.now()).toDateString();
 
 //https://v2.vuepress.vuejs.org/reference/default-theme/extending.html
