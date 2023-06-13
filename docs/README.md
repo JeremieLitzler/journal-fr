@@ -3,9 +3,9 @@ home: true
 containerClass: jli-home-page
 heroFullScreen: true
 title: 'Accueil'
-heroText: 'Bonjour,'
+heroText: 'Bonjour et bienvenue !'
 description: "Ce journal rassemble les notes et les expériences de Jérémie Litzler (disponible hors connexion après  installation) sur un large éventail de sujets pour un mode de vie respectueux de l'environnement"
-tagline: "et bienvenue sur mon blog. J'espère que vous y trouverez ce que vous cherchez !"
+tagline: "Je partage ici mes notes issues de plusieurs dizaines de vidéos d'experts dans de nombreux domaines où j'expérimente : jardin, plantes, énergie et bien d'autres. <br> <br>J'espère que vous y trouverez ce que vous cherchez !"
 heroImage: /images/profilepic-400w.jpg
 head:
   - [link, { rel: canonical, href: https://jeremielitzler.fr/ }]
@@ -22,7 +22,7 @@ features:
     link: /tag/damien-dekarz/
 
   - title: Energie et autonomie
-    details: "Plus que jamais, l'énergie devient une ressource centrale dans notre vie. Venez lire mon expérience avec le photovoltaïque (mais pas que...) et je vous garantie que vous apprendrez quelque chose aujourd'hui."
+    details: "Plus que jamais, l'énergie devient une ressource centrale dans notre vie. Venez lire mon expérience avec le photovoltaïque (mais pas que...) et je vous garantis que vous apprendrez quelque chose aujourd'hui."
     link: /category/energie/
 
   - title: Permaculture
