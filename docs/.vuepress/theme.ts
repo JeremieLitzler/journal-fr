@@ -1,3 +1,12 @@
+const version = '1.0.652';
+const publishDate = new Date(Date.now());
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat
+const publishDateFormatted = new Intl.DateTimeFormat('fr-FR', {
+  dateStyle: 'full',
+  timeStyle: 'long',
+  timeZone: 'Europe/Paris',
+}).format(publishDate);
+
 //https://v2.vuepress.vuejs.org/reference/default-theme/extending.html
 
 import { hopeTheme } from 'vuepress-theme-hope';
@@ -32,8 +41,7 @@ export default hopeTheme({
     },
   },
   displayFooter: true,
-  footer:
-    'License GPLv3 | <a href="https://jeremielitzler.fr/page/mentions-legales/" title="Lire les mentions légales">Mentions légales</a>',
+  footer: `License GPLv3 | <a href="https://jeremielitzler.fr/page/mentions-legales/" title="Lire les mentions légales">Mentions légales</a> | v${version} publiée le ${publishDateFormatted}`,
   plugins: {
     blog: true,
     comment: {
