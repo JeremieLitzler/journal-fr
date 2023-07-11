@@ -9,9 +9,7 @@ article: false
 
 ![Jérémie gravissant la viaferrata à Kandersteg, Suisse](/images/profilepic-400w.jpg) {.author-image}
 
-::: center
-[Lire la version anglaise](https://iamjeremie.me/page/about/)
-:::
+::: center [Lire la version anglaise](https://iamjeremie.me/page/about/) :::
 
 Tout a une histoire. Voici la mienne, jusqu'à présent.
 
@@ -19,8 +17,7 @@ J'ai créé ce site web pour sauvegarder mes notes and experiences qui pourraien
 
 ## Parcours professionnel
 
-En 2009, j'ai démarré ma carrière dans l'informatique.
-De Trust5 à Dublin en Irlande à Conduent Business Solutions à Guilherand-Granges en France, j'ai trouvé une passion dans le métier d'améliorer la vie quotidienne d'entreprise, individus et bien d'autres à travers des applications and services développés avec les technologies du Web.
+En 2009, j'ai démarré ma carrière dans l'informatique. De Trust5 à Dublin en Irlande à Conduent Business Solutions à Guilherand-Granges en France, j'ai trouvé une passion dans le métier d'améliorer la vie quotidienne d'entreprise, individus et bien d'autres à travers des applications and services développés avec les technologies du Web.
 
 J'ai acquis un large panel de compétences dans le développement pour le Web et je me rejouis d'apprendre de nouvelles astuces chaque jour.
 
@@ -33,7 +30,7 @@ Entre autres, je parlerai des sujets suivants :
 - Fondamentaux du Web
 - Avis sur des formations auxquelles j'ai participé
 - Avis sur des produits logiciels que j'ai utilisés
-- Astuces du développement sur le Web
+- Astuces et Tutoriels du développement sur le Web
 - Organisation du travail
 <!-- - Gestion d'une équipe -->
 
@@ -47,7 +44,7 @@ Cela inclut donc, et n'est pas limité à :
 
 - Conscience de l'impact de la santé et la nutrition dans nos vies
 - Utilisation de l'énergie
-- Jardinage
+- Jardin et Plantesage
 - Avis de produits achetés et utilisés
 
 ## Quoi d'autre

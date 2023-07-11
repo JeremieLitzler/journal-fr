@@ -18,9 +18,9 @@ head:
     ]
 category:
   - Santé
+  - Plantes
 tag:
   - Christophe Bernard
-  - Plantes
   - Cynorhodon
 ---
 
@@ -28,8 +28,7 @@ tag:
 
 Le rosier est l'ancêtre des rosiers cultivés et il n'existe pas un seul rosier sauvage. Cette plante est douce et utile dans beaucoup de domaines. Christophe d'Altheaprovence nous explique.
 
-Merci à lui pour le partage de son savoir !
-Cet article résume mes notes du vlog réalisé Par Christophe sur sa chaîne Altheaprovence.
+Merci à lui pour le partage de son savoir ! Cet article résume mes notes du vlog réalisé Par Christophe sur sa chaîne Altheaprovence.
 
 <!-- more -->
 
@@ -47,9 +46,7 @@ On trouve entre autres :
 
 La bonne nouvelle est que toutes les variétés sont comestibles et médicinales.
 
-:::warning Eviter la variété _rosa gallica_ ou rosier de France ou rosier de Provins
-Il s'agit d'une espèce rare et protégée en France.
-:::
+:::warning Eviter la variété _rosa gallica_ ou rosier de France ou rosier de Provins Il s'agit d'une espèce rare et protégée en France. :::
 
 ## Utilisation de la fleur
 
@@ -80,15 +77,11 @@ Christophe suggère plutôt l'utilisation plus simple pour les mêmes actions :
 - avec de la feuille de ronce et de camomille matricaire.
 - avec des feuilles de noisetier avec des fleurs de mauve.
 
-:::tip Utilisation cutanée
-En macérat huileux, Christophe trouve l'utilisation des pétales plus adaptée, car cela ne demande que peu de pétales.
+:::tip Utilisation cutanée En macérat huileux, Christophe trouve l'utilisation des pétales plus adaptée, car cela ne demande que peu de pétales.
 
-On utilisera une huile végétale bio et on laissera macérer 4 à 6 semaines avant de filtrer.
-:::
+On utilisera une huile végétale bio et on laissera macérer 4 à 6 semaines avant de filtrer. :::
 
-:::tip Utilisation pour l'émotionnel
-En combinaison avec les sommités fleuries d'aubépine, les pétales infusés se révèlent efficaces dans des moments difficiles émotionnellement.
-:::
+:::tip Utilisation pour l'émotionnel En combinaison avec les sommités fleuries d'aubépine, les pétales infusés se révèlent efficaces dans des moments difficiles émotionnellement. :::
 
 Enfin, l'eau de rose, hydrolat des pétales, s'utilise plus pour la tonification de la peau.
 
@@ -132,8 +125,7 @@ Autrement, on peut faire sécher les cynorhodons entre 30° et 40° au four ou s
 
 Pour préparer le cynorhodon, il faut privilégier les méthodes qui permettent de conserver au maximum la vitamine C, sans en faire une obsession.
 
-:::tip Méthode de Bernard
-Avec 50 g de faux fruits séchés, il réalise les étapes suivantes :
+:::tip Méthode de Bernard Avec 50 g de faux fruits séchés, il réalise les étapes suivantes :
 
 - mettre les cynorhodons dans 1 litre d'eau froid à macérer une nuit
 - le lendemain, séparer l'eau et les cynorhodons
@@ -142,8 +134,7 @@ Avec 50 g de faux fruits séchés, il réalise les étapes suivantes :
 - faire chauffer à 80° max.
 - dès les 80° atteints, laisser infuser 15 min à couvert
 - passer le mélange à travers un filtre à café non blanchi ou un tissu en coton fin
-- consommer ce liquide pendant les 2 jours qui suivent.
-  :::
+- consommer ce liquide pendant les 2 jours qui suivent. :::
 
 ### Consommation des faux fruits frais
 
@@ -155,9 +146,7 @@ Les poils possèdent un effet antiparasitaire contre les oxyures.
 
 Les poils démangent sur la peau, toutefois ils ne démangent pas dans le système digestif.
 
-:::tip Astuce des anciens
-On disait aux enfants de manger 5 ou 6 cynorhodons crus et entiers pour plusieurs jours d'affilé pour supprimer les vers.
-:::
+:::tip Astuce des anciens On disait aux enfants de manger 5 ou 6 cynorhodons crus et entiers pour plusieurs jours d'affilé pour supprimer les vers. :::
 
 ### Renforcement et adoucissant
 
@@ -183,9 +172,7 @@ Bien sûr, il faudrait un petit pressoir pour la réaliser chez vous.
 
 Il n'y en a aucune donc allez-y.
 
-:::warning Ah si, quand même...
-Les rameaux sont équipés d'épines, mais personnellement, c'est moins compliqué avec l'églantier qu'avec la ronce 😅
-:::
+:::warning Ah si, quand même... Les rameaux sont équipés d'épines, mais personnellement, c'est moins compliqué avec l'églantier qu'avec la ronce 😅 :::
 
 ## Conclusion
 
@@ -195,9 +182,7 @@ Encore une fois, [l'article](../le-rosier-sauvage-bourgeons-et-cynorhodons-le-ch
 
 Et comment toujours, pour ne rien rater...
 
-:::center
-⏬⏬⏬
-:::
+:::center ⏬⏬⏬ :::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

@@ -18,8 +18,7 @@ head:
     ]
 category:
   - Jardin
-  - Biodiversite
-  - Agroécologie
+  - Biodiversité et Agroécologie
 tag:
   - Damien Dekarz
   - Prêle
@@ -29,8 +28,7 @@ tag:
 
 Damien nous parle ici de la prêle dans son application au jardin.
 
-Merci à Damien pour le partage de son savoir !
-Cet article résume mes notes du vlog réalisé par Damien sur sa chaîne _Permaculture, agroécologie, etc_.
+Merci à Damien pour le partage de son savoir ! Cet article résume mes notes du vlog réalisé par Damien sur sa chaîne _Permaculture, agroécologie, etc_.
 
 <!-- more -->
 
@@ -55,9 +53,7 @@ Damien a un très bon retour d'expérience du jardinage avec la prêle.
 
 ### Consommation de jeune tige
 
-:::warning Soyez sûrs de la variété de prêles avant
-Voir [cet article](../les-vertus-de-la-prele-des-champs-le-chemin-de-la-nature/README.md#precautions) et [celui-ci pour l'identification](../../01/prele-des-champs-equisetum-arvense-altheaprocence/README.md#precautions).
-:::
+:::warning Soyez sûrs de la variété de prêles avant Voir [cet article](../les-vertus-de-la-prele-des-champs-le-chemin-de-la-nature/README.md#precautions) et [celui-ci pour l'identification](../../01/prele-des-champs-equisetum-arvense-altheaprocence/README.md#precautions). :::
 
 Il faut simplement _éplucher_ la tige et de supprimer la partie fertile comme le montre Damien à partir de [1:32 du vlog](https://youtu.be/FzHxym4jeEA?t=92).
 

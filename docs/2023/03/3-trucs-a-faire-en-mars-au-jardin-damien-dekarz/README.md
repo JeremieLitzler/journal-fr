@@ -11,21 +11,19 @@ prev:
 #  text: ''
 #  link: ..//README.md
 head:
-  - [link, { rel: canonical, href: url }]
+  - [link, { rel: canonical, href: https://jeremielitzler.fr/2023/03/3-trucs-a-faire-en-mars-au-jardin-damien-dekarz/ }]
 category:
   - Jardin
 tag:
   - Damien Dekarz
-  - En mars
-article: false
+  - En Mars
 ---
 
 ![Une branche avec 2 bourgeons.](/images/2023-03-20-une-branche-avec-2-bourgeons.jpg 'Crédits: image extraite du vlog de Damien Dekarz')
 
 Que peut-on faire en mars au jardin ? Damien nous détaille 3 actions concrètes en ce premier mois de printemps :)
 
-Merci à Damien pour le partage de son savoir !
-Cet article résume mes notes du vlog réalisé par Damien sur sa chaîne _Permaculture, agroécologie, etc_.
+Merci à Damien pour le partage de son savoir ! Cet article résume mes notes du vlog réalisé par Damien sur sa chaîne _Permaculture, agroécologie, etc_.
 
 <!-- more -->
 
@@ -40,8 +38,7 @@ Vous pouvez retrouver [la vidéo sur YouTube](https://www.youtube.com/watch?v=UM
 
 Si chaque jardinier faisait un petit geste, l’impact serait énorme.
 
-Ce qu’enseigne Damien permet de vraiment faire la différence.
-:::
+Ce qu’enseigne Damien permet de vraiment faire la différence. :::
 
 ## Des pots au potager
 
@@ -53,9 +50,7 @@ Il aime bien protéger les cultures du froid avec un voile.
 
 ![Les demi-tonneaux couverts par des voiles maintenus par des arceaux en branche de saule.](./images/les-demi-tanneaux-couverts-par-des-voiles-maintenus-par-des-arceaux-en-branche-de-saule.jpg 'Crédits: image extraite du vlog de Damien Dekarz')
 
-:::tip Note personnelle
-J’aime beaucoup l’idée des arceaux en branches de saule pleureur :)
-:::
+:::tip Note personnelle J’aime beaucoup l’idée des arceaux en branches de saule pleureur :) :::
 
 Le fait de couvrir les légumes à cette époque de l’année, la croissance est aussi beaucoup plus rapide.
 
@@ -66,16 +61,13 @@ Damien ajoute :
 - des pierres autour du trou pour éviter qu’il ne se colmate.
 - du foin dans une bonne moitié du fond
 
-:::tip Note personnelle
-Si vous avez des feuilles mortes proches de chez vous, ramassez-en en grande quantité. Ça apportera des champignons avec votre mix de foin.
-:::
+:::tip Note personnelle Si vous avez des feuilles mortes proches de chez vous, ramassez-en en grande quantité. Ça apportera des champignons avec votre mix de foin. :::
 
 - de la terre de taupinières jusqu’en haut
 - du composte sur les 3 derniers centimètres.
 - de la paille pour éviter le dessèchement par le vent ou la chaleur.
 
-::::tip Quels autres récipients utiliser pour les pots ?
-Soit :
+::::tip Quels autres récipients utiliser pour les pots ? Soit :
 
 - on construit les pots en bois soi-même
 - on réutilise les poubelles de 50 à 100 L
@@ -86,18 +78,13 @@ Les avantages des poubelles sont :
 - la durabilité
 - la flexibilité : réaliser des trous à plusieurs niveaux permet de gérer les absences en été. Ainsi, avec plusieurs niveaux d’eau plus ou moins importants, le jardin s'en trouve plus résilient.
 
-:::warning On évitera les coupelles
-En effet, cela attirera les moustiques trop facilement !
-:::
+:::warning On évitera les coupelles En effet, cela attirera les moustiques trop facilement ! :::
 
-L’inconvénient est le plastique qui se détériorera sous le soleil. Il faut donc les changer une fois tous les 3 ans.
-::::
+L’inconvénient est le plastique qui se détériorera sous le soleil. Il faut donc les changer une fois tous les 3 ans. ::::
 
-:::tip Note personnelle
-J’ai des barils bleus en PEHD qui ne m’ont rien coûté. Je les ai depuis 8 ans et il n’y a aucun signe de faiblesse. Il faut juste les réduire en hauteur.
+:::tip Note personnelle J’ai des barils bleus en PEHD qui ne m’ont rien coûté. Je les ai depuis 8 ans et il n’y a aucun signe de faiblesse. Il faut juste les réduire en hauteur.
 
-A tester cette année.
-:::
+A tester cette année. :::
 
 On a demandé à Damien pourquoi il a gardé des fonds dans ses pots. En fait, le but est de montrer qu’avec une terrasse ou un petit espace, on peut cultiver des légumes. Oui, les vers de terre et la vie du sol ne viendront pas dans le pot, mais Damien veut démontrer qu’on peut s’en sortir et produire sa nourriture en pots.
 
@@ -149,18 +136,14 @@ Je résume l’explication ainsi :
 - il faut un bon sécateur, bien aiguisé.
 - il faut nettoyer les excès de branches
 - il ne faut pas couper trop bas pour pouvoir recommencer si la greffe ne prend pas bien
-- il faut que les cambiums du greffon et du porte-greffe se touchent pour réussir la greffe. Si le greffon est plus fin que le porte-greffe, il faudra positionner le greffon sur le côté.
-  ![Explication de ce qu’est le cambium](./images/explication-de-ce-quest-le-cambium.jpg 'Crédits: image extraite du vlog de Damien Dekarz')
-- on termine avec un élastique à greffer et du mastic à greffer
-  ![Application de l’élastique à greffer et du mastic](./images/application-de-lelastique-a-greffer-et-du-mastic.jpg 'Crédits: image extraite du vlog de Damien Dekarz')
+- il faut que les cambiums du greffon et du porte-greffe se touchent pour réussir la greffe. Si le greffon est plus fin que le porte-greffe, il faudra positionner le greffon sur le côté. ![Explication de ce qu’est le cambium](./images/explication-de-ce-quest-le-cambium.jpg 'Crédits: image extraite du vlog de Damien Dekarz')
+- on termine avec un élastique à greffer et du mastic à greffer ![Application de l’élastique à greffer et du mastic](./images/application-de-lelastique-a-greffer-et-du-mastic.jpg 'Crédits: image extraite du vlog de Damien Dekarz')
 
 Concernant les yeux sur le greffon, plus le porte-greffe est gros, plus on peut laisser des yeux, dans la limite de 3.
 
 L’autre avantage des porte-greffe hauts (50 cm environ) se trouve dans la protection contre les limaces ou lapins.
 
-:::tip Prenez des pansements avec vous…
-Pourquoi ? Il n’est pas rare de se couper en réalisant les greffes :|
-:::
+:::tip Prenez des pansements avec vous… Pourquoi ? Il n’est pas rare de se couper en réalisant les greffes :| :::
 
 On ne peut pas greffer n’importe quoi sur n’importe quoi.
 
@@ -168,8 +151,7 @@ Pour cela, je vous invite à lire [le livre de Damien](https://amzn.to/3yRpBlG) 
 
 On commence par les fruits à noyau puis on finira jusqu’à début avril pour les fruits à pépins.
 
-:::warning On éviter les greffes par temps froid ou humide
-:::
+:::warning On éviter les greffes par temps froid ou humide :::
 
 ## Climat et météo
 
@@ -191,14 +173,11 @@ Cela vous permettra d’identifier les écarts entre les prévisions météo sur
 
 Pour Damien, il a noté qu’il fait en général 2 °C de moins que les prévisions.
 
-:::tip Ne regarder pas au-delà de 7 jours
-:::
+:::tip Ne regarder pas au-delà de 7 jours :::
 
 Selon Damien, comprendre les températures à venir permet d’anticiper les vagues de froid.
 
-:::center
-⏬⏬⏬
-:::
+:::center ⏬⏬⏬ :::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

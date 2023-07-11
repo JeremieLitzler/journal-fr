@@ -21,7 +21,7 @@ head:
 category:
   - Plantes
 tag:
-  - Hiver
+  - Saison Hiver
   - Plantes sauvages
 ---
 
@@ -29,8 +29,7 @@ tag:
 
 À la sortie de l’hiver, les arbres n’ont pas encore leurs feuilles. C’est l’occasion pour les plantes couvre-sol de se développer.
 
-Merci à Brian et [Rémi du jardin d’émerveille](https://www.youtube.com/channel/UC9Q8WeyCb3yxySC3P3mGpBw) ([site Internet de Rémi](https://www.lejardindemerveille.net/)) pour le partage de son savoir !
-Cet article résume mes notes du vlog réalisé par Brian sur sa chaîne _L’Archi'Pelle_.
+Merci à Brian et [Rémi du jardin d’émerveille](https://www.youtube.com/channel/UC9Q8WeyCb3yxySC3P3mGpBw) ([site Internet de Rémi](https://www.lejardindemerveille.net/)) pour le partage de son savoir ! Cet article résume mes notes du vlog réalisé par Brian sur sa chaîne _L’Archi'Pelle_.
 
 <!-- more -->
 
@@ -109,26 +108,22 @@ Aussi, certaines ne sont pas forcément consommées comme aliment, mais peuvent 
 
 ![Des feuilles d’angélique](./images/des-feuilles-dangelique.jpg 'Crédits: image extraite du vlog de L’Archipelle')
 
-- la cardamine, de la famille des crucifères (choux, radis...)
-  ![Une cardamine](./images/une-cardamine.jpg 'Crédits: image extraite du vlog de L’Archipelle')
+- la cardamine, de la famille des crucifères (choux, radis...) ![Une cardamine](./images/une-cardamine.jpg 'Crédits: image extraite du vlog de L’Archipelle')
 
   - Le goût est fort à cause du soufre qu’elle contient.
 
-- La valériane, pour bien dormir pour les humains, mais attention, ça excite les chats ! On consomme la racine.
-  ![Des feuilles de valériane](./images/des-feuilles-de-valeriane.jpg 'Crédits: image extraite du vlog de L’Archipelle')
+- La valériane, pour bien dormir pour les humains, mais attention, ça excite les chats ! On consomme la racine. ![Des feuilles de valériane](./images/des-feuilles-de-valeriane.jpg 'Crédits: image extraite du vlog de L’Archipelle')
 
   - La valériane (Valeriana officinalis) est une plante commune et réputée en Europe.
   - Elle doit sa réputation à ses parties souterraines qui renferment des principes actifs aux propriétés relaxantes.
   - Ces derniers contribuent à apaiser l’organisme, lutter contre la nervosité et prévenir les troubles du sommeil.
   - Source : [Dieti Natura](<https://www.dieti-natura.com/plantes-actifs/valeriane.html#:~:text=La%20val%C3%A9riane%20(Valeriana%20officinalis)%20est,pr%C3%A9venir%20les%20troubles%20du%20sommeil.>)
 
-- Le lierre terrestre, pour confectionner les sirops pour la toux et à consommer en cuisine.
-  ![Du lierre terrestre](./images/du-lierre-terrestre.jpg 'Crédits: image extraite du vlog de L’Archipelle')
+- Le lierre terrestre, pour confectionner les sirops pour la toux et à consommer en cuisine. ![Du lierre terrestre](./images/du-lierre-terrestre.jpg 'Crédits: image extraite du vlog de L’Archipelle')
 
 - La pulmonaire officinale
 
-- L’achillée mille-feuille
-  ![Une feuille d’achillée mille-feuilles](./images/une-feuille-dachillee-mille-feuilles.jpg 'Crédits: image extraite du vlog de L’Archipelle')
+- L’achillée mille-feuille ![Une feuille d’achillée mille-feuilles](./images/une-feuille-dachillee-mille-feuilles.jpg 'Crédits: image extraite du vlog de L’Archipelle')
 
   - Elle aide à cicatriser.
 
@@ -145,21 +140,17 @@ Toutes ces plantes apportent principalement des oligoéléments et des minéraux
 :::warning Attention  
 Sur les plantes sauvages, on fera attention où l’on cueille, mais aussi, les possibles parasites et urines des animaux sauvages.
 
-Laver sa cueillette peut être utile avant de la consommer.
-:::
+Laver sa cueillette peut être utile avant de la consommer. :::
 
-:::warning Attention aux plantes proches de l’eau
-Si vous cueillez proche d’une source d’eau, on fera attention à la douve du foie.
+:::warning Attention aux plantes proches de l’eau Si vous cueillez proche d’une source d’eau, on fera attention à la douve du foie.
 
 La grande douve du foie est un trématode de grande taille. C’est un ver plat parasite qui infecte le foie et les voies biliaires des herbivores ruminants, particulièrement les ovins, souvent les bovins, et occasionnellement l’homme.
 
-Source : [Wikipédia](https://fr.wikipedia.org/wiki/Fasciola_hepatica)
-:::
+Source : [Wikipédia](https://fr.wikipedia.org/wiki/Fasciola_hepatica) :::
 
 ## Des plantes à éviter
 
-- l’arôme, qui ressemble à l’oseille
-  ![Feuille d’arôme](./images/feuille-darome.jpg 'Crédits: image extraite du vlog de L’Archipelle')
+- l’arôme, qui ressemble à l’oseille ![Feuille d’arôme](./images/feuille-darome.jpg 'Crédits: image extraite du vlog de L’Archipelle')
 
 ## D’autres plantes intéressantes
 
@@ -191,9 +182,7 @@ Au lieu d’utiliser cela, qui peut saturer le sol en cuivre, on peut aussi réa
 
 Si vous aimez ce genre d'article, partageant des notes de ce genre de vlogs, [soutenez-moi](../../../page/soutenez-moi/README.md) ou abonnez-vous à mon bulletin d’information.
 
-:::center
-⏬⏬⏬
-:::
+:::center ⏬⏬⏬ :::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

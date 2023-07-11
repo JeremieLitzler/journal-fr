@@ -30,8 +30,7 @@ tag:
 
 Bernard Bertrand a beaucoup inspiré Damien avant même qu’il commence sa chaîne YouTube.
 
-Merci à Damien pour le partage de son savoir !
-Cet article résume mes notes du vlog réalisé par Damien sur sa chaîne _Permaculture, agroécologie, etc_.
+Merci à Damien pour le partage de son savoir ! Cet article résume mes notes du vlog réalisé par Damien sur sa chaîne _Permaculture, agroécologie, etc_.
 
 <!-- more -->
 
@@ -52,8 +51,7 @@ Bernard a combattu cet acte pendant plus de 10 ans autour de l’utilisation des
 
 ## Pourquoi cette guerre entre le gouvernement et de simples citoyens
 
-La pression des lobbies fut importante pour influencer le ministère de l’Agriculture.
-Ils voulaient et veulent encore garder la main mise sur le marché des produits permettant d’aider à la croissance dans le jardin.
+La pression des lobbies fut importante pour influencer le ministère de l’Agriculture. Ils voulaient et veulent encore garder la main mise sur le marché des produits permettant d’aider à la croissance dans le jardin.
 
 Il ne pouvait pas être accepté que des citoyens puissent se rendre autonomes avec des produits réalisables très simplement chez soi à partir de matière première gratuite dans la nature.
 
@@ -65,11 +63,8 @@ Toutefois, les extraits végétaux ne sont toujours pas reconnus (par un numéro
 
 Il faut cependant nommer les produits indirectement, c’est-à-dire sans pouvoir explicitement décrire à quoi cela sert.
 
-:::note Au passage, c’est la même chose pour les plantes médicinales…
-:::
+:::note Au passage, c’est la même chose pour les plantes médicinales… :::
 
-:::tip Note personnelle
-J’utilise le purin d’ortie et de prêle chez moi depuis des années et il n’y a pas de doute sur leur efficacité.
+:::tip Note personnelle J’utilise le purin d’ortie et de prêle chez moi depuis des années et il n’y a pas de doute sur leur efficacité.
 
-Il est vrai que l’odeur n’attire personne autour du liquide, mais les avantages dépassent largement cet inconvénient.
-:::
+Il est vrai que l’odeur n’attire personne autour du liquide, mais les avantages dépassent largement cet inconvénient. :::

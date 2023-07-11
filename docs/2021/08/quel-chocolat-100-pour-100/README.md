@@ -6,14 +6,11 @@ date: 2021-08-23
 heroImage: '/images/.jpg'
 heroAlt: Les 3 produits évalués dans cet article
 category:
-  - Avis de produits
-tag:
   - Alimentation
 article: false
 ---
 
-Je connais quelqu'un qui aime beaucoup le chocolat.
-Parce que nous croyons que le sucre est très mauvais pour la santé, nous sélectionnons uniquement des chocolat sans sucre ajouté.
+Je connais quelqu'un qui aime beaucoup le chocolat. Parce que nous croyons que le sucre est très mauvais pour la santé, nous sélectionnons uniquement des chocolat sans sucre ajouté.
 
 En d'autres termes, nous achetons du chocolat _pur pâte de cacao_ (ou presque, vous verrez pourquoi).
 

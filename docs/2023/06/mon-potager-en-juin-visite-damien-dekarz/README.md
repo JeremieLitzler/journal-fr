@@ -29,8 +29,7 @@ tag:
 
 À quoi ressemble le potager de Damien en juin ? Il nous montre dans cet article.
 
-Merci à Damien pour le partage de son savoir !
-Cet article résume mes notes du vlog réalisé par Damien sur sa chaîne _Permaculture, agroécologie, etc_.
+Merci à Damien pour le partage de son savoir ! Cet article résume mes notes du vlog réalisé par Damien sur sa chaîne _Permaculture, agroécologie, etc_.
 
 <!-- more -->
 
@@ -77,11 +76,9 @@ Il sera bientôt l’heure de récolter la céréale.
 
 Tout pousse super bien !
 
-:::tip Le <em>Fun fact</em>
-Le comble de Damien est le fait qu’il n’y a que très peu de mauvaise ou plante sauvage dans le mini potager. Même, les nouvelles plantes sauvages sont les pommes de terre, plantées il y a 2 ans, qu’il ne ramasse jamais entièrement et qui repoussent chaque année volontairement !
+:::tip Le <em>Fun fact</em> Le comble de Damien est le fait qu’il n’y a que très peu de mauvaise ou plante sauvage dans le mini potager. Même, les nouvelles plantes sauvages sont les pommes de terre, plantées il y a 2 ans, qu’il ne ramasse jamais entièrement et qui repoussent chaque année volontairement !
 
-Je connais la même chose chez moi !
-:::
+Je connais la même chose chez moi ! :::
 
 ## Dans les bacs de culture
 
@@ -111,9 +108,7 @@ Damien a réorganisé la serre avec une zone de culture en moins, cela permet de
 
 Les vignes qu’il y a plantées sont extrêmement fertiles et productives. Je vous invite à voir [le passage à 11:15](https://youtu.be/6aS2fXJ6xs8?t=675).
 
-:::center
-⏬⏬⏬
-:::
+:::center ⏬⏬⏬ :::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

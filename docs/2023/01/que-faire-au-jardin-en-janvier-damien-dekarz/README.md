@@ -27,8 +27,7 @@ tag:
 
 En janvier, le jardin est au repos. Il reste toutefois pas mal de choses à réaliser. Damien va nous expliquer.
 
-Merci à Damien pour le partage de son savoir !
-Cet article résume mes notes du vlog réalisé par Damien sur sa chaîne _Permaculture, agroécologie, etc_.
+Merci à Damien pour le partage de son savoir ! Cet article résume mes notes du vlog réalisé par Damien sur sa chaîne _Permaculture, agroécologie, etc_.
 
 <!-- more -->
 
@@ -74,9 +73,7 @@ On place ensuite les pots en extérieur, à mi-ombre.
 
 Normalement, les pépins ne germent pas avant le printemps, mais s’il fait doux, ils germeront plus vite et il faudra les placer dans une serre.
 
-:::tip Astuce pour obtenir une meilleure germination
-Faites tromper les pépins une nuit dans du vinaigre.
-:::
+:::tip Astuce pour obtenir une meilleure germination Faites tromper les pépins une nuit dans du vinaigre. :::
 
 ## Plantes sauvages
 
@@ -102,9 +99,7 @@ En janvier, vous pouvez trouver un bon nombre de plantes sauvages pour la consom
 
 ![Brocoli sauvage](./images/brocoli-sauvage.jpg 'Crédits : image extraite du vlog de Damien')
 
-:::warning Plus simple à reconnaitre au printemps
-Damien nous montrera quand les plants sont en fleurs dans quelques mois.
-:::
+:::warning Plus simple à reconnaitre au printemps Damien nous montrera quand les plants sont en fleurs dans quelques mois. :::
 
 - La centranthe rouge, ou aussi appelé _lilas d’Espagne_ dont les feuilles sont moins amères en hiver qu’en été.
 
@@ -157,9 +152,7 @@ Utilisez le temps disponible en janvier pour préparer, anticiper, car dans quel
 
 Et comme, toujours si vous trouvez mon travail utile, pensez à vous abonner pour ne rien manquer. Merci.
 
-:::center
-⏬⏬⏬
-:::
+:::center ⏬⏬⏬ :::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

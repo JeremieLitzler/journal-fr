@@ -27,8 +27,7 @@ tag:
 
 La ronce, vous connaissez ? On en a peur, car elle pique et nous envahit. Mais, la connaissez-vous vraiment ? Christophe nous partage dans son vlog qui est vraiment cette plante.
 
-Merci à Christophe pour le partage de son savoir !
-Cet article résume mes notes du vlog réalisé par Le chemin de la nature.
+Merci à Christophe pour le partage de son savoir ! Cet article résume mes notes du vlog réalisé par Le chemin de la nature.
 
 <!-- more -->
 
@@ -63,9 +62,7 @@ La jeune tige de ronce est très riche en eau, c'est frais quand on se promène 
 
 Bien sûr, les fruits sont ce que nous recherchons le plus.
 
-:::warning Attention aux épines
-Quand j'étais jeune, on ramassait de belles quantités et à la fin de la récolte, nos doigts étaient bien tachés, du jus sombre.
-:::
+:::warning Attention aux épines Quand j'étais jeune, on ramassait de belles quantités et à la fin de la récolte, nos doigts étaient bien tachés, du jus sombre. :::
 
 ## Les jeunes feuilles
 
@@ -75,9 +72,7 @@ Pour les gargarismes, elles se révèlent utiles en cas de maux de gorge.
 
 On infuse les jeunes feuilles.
 
-:::warning Attention
-La ronce est astringente. Voir [mes notes, sur la ronce, issue du vlog de Christophe Bernard](../ronce-murier-mure-bienfaits-et-usages-altheaprocence/README.md), de la chaine Altheaprovence, sur le sujet avant de démarrer les gargarismes.
-:::
+:::warning Attention La ronce est astringente. Voir [mes notes, sur la ronce, issue du vlog de Christophe Bernard](../ronce-murier-mure-bienfaits-et-usages-altheaprocence/README.md), de la chaine Altheaprovence, sur le sujet avant de démarrer les gargarismes. :::
 
 ### LEs jeunes pousses
 
@@ -85,18 +80,13 @@ La ronce est astringente. Voir [mes notes, sur la ronce, issue du vlog de Christ
 
 En gemmothérapie, les jeunes pousses sont utiles.
 
-:::tip Note personnelle
-Je prévois de commencer à réaliser de la gemmothérapie au printemps 2023, pas forcément avec la ronce, mais le rosier sauvage.
-:::
+:::tip Note personnelle Je prévois de commencer à réaliser de la gemmothérapie au printemps 2023, pas forcément avec la ronce, mais le rosier sauvage. :::
 
-:::note Définition de gemmothérapie
-La gemmothérapie consiste à utiliser les propriétés des tissus embryonnaires végétaux en croissance : les bourgeons et les jeunes pousses d’arbres et d’arbustes.
+:::note Définition de gemmothérapie La gemmothérapie consiste à utiliser les propriétés des tissus embryonnaires végétaux en croissance : les bourgeons et les jeunes pousses d’arbres et d’arbustes.
 
-Pour en savoir plus, allez [cet article de Herbalgam.fr](https://www.herbalgem.fr/fr/content/10-la-gemmotherapie).
-:::
+Pour en savoir plus, allez [cet article de Herbalgam.fr](https://www.herbalgem.fr/fr/content/10-la-gemmotherapie). :::
 
-:::note Réalisation d'une solution en gemmothérapie
-Il est important, lors de la récolte, de mettre les bourgeons dans le solvant immédiatement.
+:::note Réalisation d'une solution en gemmothérapie Il est important, lors de la récolte, de mettre les bourgeons dans le solvant immédiatement.
 
 Le solvant se compose :
 
@@ -121,9 +111,7 @@ Aussi, les problèmes ostéo-articulaires peuvent être traités par la gemmoth�
 
 Les affections ostéo-articulaires sont généralement caractérisées par des douleurs (souvent persistantes) et des limitations de la mobilité, de la dextérité et du niveau global de fonctionnement, et réduisent donc la possibilité de travailler (source : [OMS](https://www.who.int/fr/news-room/fact-sheets/detail/musculoskeletal-conditions#:~:text=Les%20affections%20ost%C3%A9o%2Darticulaires%20et%20musculaires%20sont%20g%C3%A9n%C3%A9ralement%20caract%C3%A9ris%C3%A9es%20par,donc%20la%20possibilit%C3%A9%20de%20travailler.)).
 
-:::warning Attention
-La ronce est astringente. Voir [mes notes, sur la ronce, issues du vlog de Christophe Bernard](../ronce-murier-mure-bienfaits-et-usages-altheaprocence/README.md), de la chaine Altheaprovence, sur le sujet avant de démarrer une prise de ronce en gemmothérapie. Il ne faut pas faire n'importe quoi.
-:::
+:::warning Attention La ronce est astringente. Voir [mes notes, sur la ronce, issues du vlog de Christophe Bernard](../ronce-murier-mure-bienfaits-et-usages-altheaprocence/README.md), de la chaine Altheaprovence, sur le sujet avant de démarrer une prise de ronce en gemmothérapie. Il ne faut pas faire n'importe quoi. :::
 
 ## Théorie botanique
 
@@ -178,9 +166,7 @@ On appelle chaque petit fruit _une drupe_.
 
 Allez, cette année, qui est votre amie ?
 
-:::center
-⏬⏬⏬
-:::
+:::center ⏬⏬⏬ :::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

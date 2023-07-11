@@ -16,13 +16,11 @@ heroAlt: Des semis de divers choux
 category:
   - Jardin
 tag:
-  - Octobre
+  - En Octobre
   - Potager d Olivier
 ---
 
-Merci à Olivier pour le partage de son savoir !
-Cet article résume mes notes du vlog.
-Vous pouvez retrouver [la vidéo sur YouTube](https://www.youtube.com/watch?v=awu7IKRwVw0).
+Merci à Olivier pour le partage de son savoir ! Cet article résume mes notes du vlog. Vous pouvez retrouver [la vidéo sur YouTube](https://www.youtube.com/watch?v=awu7IKRwVw0).
 
 ## Zones climatiques en France
 
@@ -54,8 +52,7 @@ On peut les planter en toutes les saisons, mais on n'aura pas la productivité d
 
 Les cosses sont comestibles et, en les consommant, cela permet d'obtenir une quantité importante de nourriture.
 
-Dans les climats 4 et 5, le plantage a lieu fin octobre,
-Dans les climats 6 à 8, on attendra début novembre. Cela évitera que les plants soient trop hauts en plein hiver et se plient en deux.
+Dans les climats 4 et 5, le plantage a lieu fin octobre, Dans les climats 6 à 8, on attendra début novembre. Cela évitera que les plants soient trop hauts en plein hiver et se plient en deux.
 
 Dans les climats plus froids, il est vraiment préférable d'attendre le printemps.
 
@@ -67,9 +64,7 @@ _Credits : image extraite du vlog d'Olivier_
 
 Les fèves se sèment individuellement (espacées de 10-15cm) ou par poquet de 3 graines (plus espacées de 30-40cm).
 
-:::tip Information
-Les fèves font partie de la famille des _Fabaceae_, ou Leguminosae (Légumineuses).
-Cela signifie qu'elles capturent l'azote de l'air dans les racines.
+:::tip Information Les fèves font partie de la famille des _Fabaceae_, ou Leguminosae (Légumineuses). Cela signifie qu'elles capturent l'azote de l'air dans les racines.
 
 ![Racines d'un plant de fèves](./images/racines-de-feves.jpg)
 
@@ -79,8 +74,7 @@ Elles sont donc un très bon engrais vert où on compostera les plants après la
 
 Cela permet d'enrichir le sol.
 
-Enfin, leurs racines puissantes décompactent bien le sol où elles ont poussé.
-:::
+Enfin, leurs racines puissantes décompactent bien le sol où elles ont poussé. :::
 
 ### L'ail
 
@@ -96,11 +90,9 @@ L'ail blanc et l'ail violet seront ceux que l'on plantera à l'automne.
 
 Toutes les régions sont concernées pour la plantation à ce moment de l'année.
 
-:::warning Important
-Les anciens disaient que l'ail ne s'enterre pas. Il fallait juste les recouvrir de terre meuble.
+:::warning Important Les anciens disaient que l'ail ne s'enterre pas. Il fallait juste les recouvrir de terre meuble.
 
-On veut aussi faire affleurer les caïeux d'ail.
-:::
+On veut aussi faire affleurer les caïeux d'ail. :::
 
 On peut se servir des caïeux d'ail achetés dans les magasins d'alimentation, toutefois, ceux issus de jardineries seront plus qualitatifs.
 
@@ -110,9 +102,7 @@ Il faudra un climat assez doux pour cette culture.
 
 Donc les climats 1 à 3 devront attendre le printemps tandis que les climats 4 à 8 peuvent commencer en octobre et novembre.
 
-:::warning Recommandation
-Il faut bien tuteurer des grillages, grilles ou filets sur les plants pour éviter qu'ils ne s'effondrent et qu'ils soient dans trop d'humidité au sol.
-:::
+:::warning Recommandation Il faut bien tuteurer des grillages, grilles ou filets sur les plants pour éviter qu'ils ne s'effondrent et qu'ils soient dans trop d'humidité au sol. :::
 
 Le semi se fait bien serré, tous les 2-3 cm.
 
@@ -122,11 +112,9 @@ _Credits : image extraite du vlog d'Olivier_
 
 Les petits pois vont sortir de 20-30 cm quelques semaines après et la croissance stagnera le reste de l'hiver.
 
-:::tip Conseil d'Olivier
-Les petits pois à cosse lisse résistent mieux au froid que les petits pois à cosse ridée.
+:::tip Conseil d'Olivier Les petits pois à cosse lisse résistent mieux au froid que les petits pois à cosse ridée.
 
-Cela est spécifié sur les sachets de graines.
-:::
+Cela est spécifié sur les sachets de graines. :::
 
 ### Les artichauts
 
@@ -180,15 +168,11 @@ On peut les planter depuis 2 mois et en ce mois d'octobre, on est encore bon pou
 
 L'épinard pousse bien à 15°C.
 
-:::warning Attention
-Dès que les gelées arrivent, on plantera ou on protègera sous abri à partir de décembre.
-:::
+:::warning Attention Dès que les gelées arrivent, on plantera ou on protègera sous abri à partir de décembre. :::
 
 Et...
 
-:::warning Les limaces...
-Voir [ce vlog d'Olivier](https://www.youtube.com/watch?v=j-dKPtWlsaY) pour ses astuces sur ces gastéropodes...
-:::
+:::warning Les limaces... Voir [ce vlog d'Olivier](https://www.youtube.com/watch?v=j-dKPtWlsaY) pour ses astuces sur ces gastéropodes... :::
 
 ### Les oignons
 
@@ -196,8 +180,7 @@ Voir [ce vlog d'Olivier](https://www.youtube.com/watch?v=j-dKPtWlsaY) pour ses a
 
 _Credits : image extraite du vlog d'Olivier_
 
-Cette culture est réservée aux régions aux climats 4 à 8 pour une culture à partir d'octobre.
-Pour les autres climats, on attendra le printemps, car il y a un trop gros risque que cela pourrisse à cause du gel.
+Cette culture est réservée aux régions aux climats 4 à 8 pour une culture à partir d'octobre. Pour les autres climats, on attendra le printemps, car il y a un trop gros risque que cela pourrisse à cause du gel.
 
 Ce qui peut se passer en plantant en octobre est que les oignons montent en graines au printemps.
 

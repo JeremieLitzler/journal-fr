@@ -19,7 +19,7 @@ head:
       },
     ]
 category:
-  - Temoignages
+  - Témoignages
 tag:
   - Brian Ejarque
   - Ortie
@@ -29,8 +29,7 @@ tag:
 
 Brian partage avec nous la rencontre avec Raymonde Gal. Raymond connait très l’ortie et elle partage ici son savoir.
 
-Merci à Brian pour le partage !
-Cet article résume mes notes du vlog réalisé par Brian sur sa chaîne _L’Archi'Pelle_.
+Merci à Brian pour le partage ! Cet article résume mes notes du vlog réalisé par Brian sur sa chaîne _L’Archi'Pelle_.
 
 <!-- more -->
 

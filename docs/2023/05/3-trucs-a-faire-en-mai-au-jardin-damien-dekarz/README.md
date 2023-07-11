@@ -22,15 +22,14 @@ category:
   - Jardin
 tag:
   - Damien Dekarz
-  - En mai
+  - En Mai
 ---
 
 ![Un homme ramasse des radis dans un jardin surélevé](/images/2023-05-17-un-homme-ramasse-des-radis-dans-un-jardin-sureleve.jpg 'Crédits: image extraite du vlog de Damien Dekarz')
 
 En mai, fais ce qu’il te plait, comme dis le dicton. Et au jardin, est-ce la même chose ? Damien nous explique !
 
-Merci à Damien pour le partage de son savoir !
-Cet article résume mes notes du vlog réalisé par Damien sur sa chaîne _Permaculture, agroécologie, etc_.
+Merci à Damien pour le partage de son savoir ! Cet article résume mes notes du vlog réalisé par Damien sur sa chaîne _Permaculture, agroécologie, etc_.
 
 <!-- more -->
 
@@ -115,15 +114,13 @@ Dans ce potager, les techniques d’arrosage en goutte-à-goutte et de protectio
 
 Par contre, pour du maraîchage, on doit procéder autrement. [Le film _Une ferme sur sol vivant_](https://www.youtube.com/watch?v=T6cFPxLRkTs) est un très bon début pour un projet de maraîchage. J’ai aussi écrit [plusieurs articles sur le sujet grâce aux vlogs du _Dutch Farmer_](https://iamjeremie.me/tag/the-dutch-farmer/).
 
-:::tip Note personnelle
-Je pratique la culture sur sol vivant depuis 3 ans en couvrant tout mon jardin chaque hiver 20 cm de feuilles mortes.
+:::tip Note personnelle Je pratique la culture sur sol vivant depuis 3 ans en couvrant tout mon jardin chaque hiver 20 cm de feuilles mortes.
 
 Jusqu’à l’été, les feuilles à elles seules me permettent de garder une humidité surprenante et je ne vous dis pas la taille des vers de terre qui naviguent sous la couverture de feuilles.
 
 Par exemple, ce début d’année 2023 a été particulièrement peu arroser par le ciel. Et pourtant, 5 cm sous la couche de feuilles, l’humidité est là.
 
-Je préfère les feuilles au foin ou la paille, car c’est plus économique. Surtout, j’en trouve en abondance dans un grand parce communale proche de chez moi qui est très sauvage avec de très grands arbres produisant des petites feuilles. Ces feuilles se décomposent sans problème et en juillet, je dois même en rajouter pour tenir jusqu’à l’automne.
-:::
+Je préfère les feuilles au foin ou la paille, car c’est plus économique. Surtout, j’en trouve en abondance dans un grand parce communale proche de chez moi qui est très sauvage avec de très grands arbres produisant des petites feuilles. Ces feuilles se décomposent sans problème et en juillet, je dois même en rajouter pour tenir jusqu’à l’automne. :::
 
 ## Entretenir les greffes
 
@@ -141,9 +138,7 @@ En gros, avec une bonne observation et le respect de la faune sauvage, on peut v
 
 Quelle différence avec les pratiques conventionnelles, n’est-ce pas ?
 
-:::center
-⏬⏬⏬
-:::
+:::center ⏬⏬⏬ :::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

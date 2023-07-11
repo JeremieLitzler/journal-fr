@@ -22,15 +22,14 @@ category:
   - Jardin
 tag:
   - Damien Dekarz
-  - En fevrier
+  - En Février
 ---
 
 ![Des graines de courges à planter pour la nouvelle année au jardin.](/images/2023-02-21-graines-de-courges-a-planter-pour-la-nouvelle-annee.jpg 'Crédits: image extraite du vlog de Damien Dekarz')
 
 Il y a beaucoup de choses à faire en février et dans cet article, nous regardons ensemble ce que Damien suggère.
 
-Merci à lui pour le partage de son savoir !
-Cet article résume mes notes du vlog réalisé par Damien sur sa chaîne _Permaculture, agroécologie, etc_.
+Merci à lui pour le partage de son savoir ! Cet article résume mes notes du vlog réalisé par Damien sur sa chaîne _Permaculture, agroécologie, etc_.
 
 <!-- more -->
 
@@ -43,8 +42,7 @@ Vous pouvez retrouver [la vidéo sur YouTube](https://www.youtube.com/watch?v=VD
 
 ### Récupérer les graines de courges
 
-![3 courges produites par Damien](./images/3-courges-produites-par-damien.jpg 'Crédits : image extraite du vlog de Damien')
-Si vous avez encore des courges, récoltées l’automne dernier, récupérez les graines. Elles conservent 6 ans.
+![3 courges produites par Damien](./images/3-courges-produites-par-damien.jpg 'Crédits : image extraite du vlog de Damien') Si vous avez encore des courges, récoltées l’automne dernier, récupérez les graines. Elles conservent 6 ans.
 
 Les courges comme la _Jack O’Lantern_ (ou _Cucurbita pepo_), la _courge de Siam_ (ou _cucurbita ficifolia_) ou encore le _potimarron vert_ (ou _cucurbita maxima_) ne peuvent pas s’hybrider.
 
@@ -129,9 +127,7 @@ Pour les semis qui réussissent, suivez ces recommandations :
 
 Tant que les graines n’ont pas germées, il est même préférable de garder les semis dans le noir.
 
-:::center
-⏬⏬⏬
-:::
+:::center ⏬⏬⏬ :::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

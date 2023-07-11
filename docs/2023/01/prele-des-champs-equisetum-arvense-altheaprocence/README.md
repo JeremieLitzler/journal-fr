@@ -27,8 +27,7 @@ tag:
 
 La prêle se trouve dans les zones humides et j'ai le bonheur d'en avoir juste à côté de chez moi. Nous l'utilisons pour le jardin et la santé. Dans ce dernier domaine, Christophe nous détaille son usage.
 
-Merci à Christophe pour le partage de son savoir !
-Cet article résume mes notes du vlog réalisé par Christophe sur sa chaîne Altheaprovence.
+Merci à Christophe pour le partage de son savoir ! Cet article résume mes notes du vlog réalisé par Christophe sur sa chaîne Altheaprovence.
 
 <!-- more -->
 
@@ -44,11 +43,9 @@ Celle dont on parlera ici se nomme _Equisetum arvense_ ou prêle des champs.
 
 Vous trouverez aussi la prêle des marais (_Equisetum palustre_), la prêle d'hiver (_Equisetum hyemale_), la grande prêle (_Equisetum telmateia_) et bien d'autres.
 
-:::warning Toxicité
-Pour les distinguer les unes des autres, cela ne revèle pas si facile que ça, surtout que certaines sont toxiques, en particulier la grande prêle et la prêle des marais.
+:::warning Toxicité Pour les distinguer les unes des autres, cela ne revèle pas si facile que ça, surtout que certaines sont toxiques, en particulier la grande prêle et la prêle des marais.
 
-Nous verrons plus comment les distinguer, principalement pour utiliser les non toxiques.
-:::
+Nous verrons plus comment les distinguer, principalement pour utiliser les non toxiques. :::
 
 ### Structure
 
@@ -72,9 +69,7 @@ On nomme aussi chaque tube d'une tige secondaire un article.
 
 ## Comment distinguer la prêle des champs des autres prêles
 
-:::tip Article de Christophe
-Je ne vais pas répéter en détail ce que Christophe décrit déjà dans [un de ses articles à lire ici](https://www.altheaprovence.com/reconnaitre-prele-champs/).
-:::
+:::tip Article de Christophe Je ne vais pas répéter en détail ce que Christophe décrit déjà dans [un de ses articles à lire ici](https://www.altheaprovence.com/reconnaitre-prele-champs/). :::
 
 ### Le premier _article_
 
@@ -96,12 +91,9 @@ Elle se trouve dans un endroit humide, donc on fera attention au lieu de récolt
 
 On pense que les rhizomes peuvent descendre à plusieurs mettre de profondeur.
 
-:::note Pour la petite histoire...
-En Amérique du Nord, les Indiens utilisaient la prêle pour déceler l'eau souterraine.
-:::
+:::note Pour la petite histoire... En Amérique du Nord, les Indiens utilisaient la prêle pour déceler l'eau souterraine. :::
 
-L'enlever du jardin, si elle s'est installée, se révélera difficile.
-Toutefois, il ne semblerait pas faire concurrence aux autres plantes comme le chiendent...
+L'enlever du jardin, si elle s'est installée, se révélera difficile. Toutefois, il ne semblerait pas faire concurrence aux autres plantes comme le chiendent...
 
 ## Plus de détails sur la toxicité
 
@@ -122,11 +114,9 @@ La thiaminase correspond à une enzyme qui dégrade la thiamine, ou vitamine B1.
 
 Avec la chaleur, la thiaminase serait détruite, mais il semble que cela dépende du type de thiaminase.
 
-:::tip Chaleur dans l'eau vs chaleur sèche
-Une préparation sous forme d'infusion de l'eau à 100°C, la thiaminase serait détruite au passage.
+:::tip Chaleur dans l'eau vs chaleur sèche Une préparation sous forme d'infusion de l'eau à 100°C, la thiaminase serait détruite au passage.
 
-Toutefois, le séchage ne détruit pas la thiaminase. Par contre, sous forme sèche, les autres nutriments utiles de la prêle seraient alors plus assimilables qu'en infusion.
-:::
+Toutefois, le séchage ne détruit pas la thiaminase. Par contre, sous forme sèche, les autres nutriments utiles de la prêle seraient alors plus assimilables qu'en infusion. :::
 
 ### Conclusion
 
@@ -193,31 +183,25 @@ Dans le cas des problèmes au niveau de ces tissus, lorsqu'ils sont abimés, enf
 
 ### Pour les artères
 
-:::note Par exemple
-La rigidité des artères pourrait être freinée avec un meilleur apport en silicium pour apporter plus d'élasticité à celles-ci.
+:::note Par exemple La rigidité des artères pourrait être freinée avec un meilleur apport en silicium pour apporter plus d'élasticité à celles-ci.
 
 En effet, le silicium est nécessaire pour créer le collagène et l'élastine qui compose les artères.
 
-On peut le vérifier chez l'animal. La prise du silicium agit comme un agent anti-plaque.
-:::
+On peut le vérifier chez l'animal. La prise du silicium agit comme un agent anti-plaque. :::
 
 ### Pour les inflammations articulaires et les os
 
 La supplémentation par la prêle vient reformer et reconstruire les tendons, les joints et les ligaments douloureux.
 
-C'est idem pour les os qui deviennent fragiles avec l'âge.
-C'est toutefois aussi vrai pour booster la réparation de l'os, suite à une fracture ou fêlure.
+C'est idem pour les os qui deviennent fragiles avec l'âge. C'est toutefois aussi vrai pour booster la réparation de l'os, suite à une fracture ou fêlure.
 
 ### Pour la peau et les cheveux
 
 Le silicium intervient encore dans la qualité de la peau, des ongles et des cheveux. Voilà pourquoi si vous avez des problèmes de cheveux cassants ou des ongles cassants, le silicium renforce.
 
-Pour la peau, les pathologies, comme l'eczéma, profitent du silicium de la prêle.
-Une application interne ou externe est réalisable selon la situation.
+Pour la peau, les pathologies, comme l'eczéma, profitent du silicium de la prêle. Une application interne ou externe est réalisable selon la situation.
 
-:::tip Refermer les plais difficiles à se refermer
-Par une simple décoction, de vieux ouvrages rapportent des effets prouvés de l'action du silicium pour réparer la peau.
-:::
+:::tip Refermer les plais difficiles à se refermer Par une simple décoction, de vieux ouvrages rapportent des effets prouvés de l'action du silicium pour réparer la peau. :::
 
 ### Pour les muqueuses
 
@@ -230,15 +214,11 @@ On retrouve le même effet bénéfique :
 
 Cette très ancienne utilisation de la prêle pour ses propriétés hémostatiques se révèle aussi utile pour les saignements de nez ou d'hémorroïdes.
 
-:::warning Consulter d'abord pour connaitre la cause des saignements
-Masquer les saignements n'est pas toujours une bonne idée et le problème racine a peut-être besoin d'une autre action.
-:::
+:::warning Consulter d'abord pour connaitre la cause des saignements Masquer les saignements n'est pas toujours une bonne idée et le problème racine a peut-être besoin d'une autre action. :::
 
 <!-- markdownlint-disable MD033 -->
 
-:::note Une autre plante <i>cousine</i>
-L'ortie aide une peu de la même façon. Je reviendrais longuement sur l'ortie. Christophe Bernard, d'Altheaprovence, et Christophe De Hody, du Chemin de la Nature, en parlent dans bon nombre de vidéos (21 en tout).
-:::
+:::note Une autre plante <i>cousine</i> L'ortie aide une peu de la même façon. Je reviendrais longuement sur l'ortie. Christophe Bernard, d'Altheaprovence, et Christophe De Hody, du Chemin de la Nature, en parlent dans bon nombre de vidéos (21 en tout). :::
 
 ### Pour des effets diurétiques
 
@@ -270,13 +250,11 @@ Peut-être c'est le cas. Mais le jus de prêle est généralement issu d'un labo
 
 La prêle a fait ses preuves.
 
-:::tip Parallèle avec la vitamine C
-Aurons-nous autant de vitamine C dans un petit bouquet de persil ou un kiwi que dans 3 ou 4 compromis de vitamine C naturelle concentrée ?
+:::tip Parallèle avec la vitamine C Aurons-nous autant de vitamine C dans un petit bouquet de persil ou un kiwi que dans 3 ou 4 compromis de vitamine C naturelle concentrée ?
 
 Bien sûr que non.
 
-Mais, on peut varier et on ne dépend pas d'une forme de laboratoire.
-:::
+Mais, on peut varier et on ne dépend pas d'une forme de laboratoire. :::
 
 Pour le silicium, en plus de la prêle, on peut utiliser l'ortie et la paille d'avoine.
 
@@ -300,9 +278,7 @@ Donc étalez-la pour la sécher et stockez-la dans des sacs en papier après dé
 
 Vous moudrez la prêle sèche au moulin à café et tamiser la poudre.
 
-:::warning Finesse du tamis
-Pour éviter d'avoir l'impression de sable dans la bouche, utiliser un tamis le plus fin possible.
-:::
+:::warning Finesse du tamis Pour éviter d'avoir l'impression de sable dans la bouche, utiliser un tamis le plus fin possible. :::
 
 On prend environ 1 g à 5 g par jour avec de la compote ou de l'eau pendant 3 semaines, espacées d'une pause.
 
@@ -310,8 +286,7 @@ Si nécessaire, on reprendra la cure, **si nécessaire**.
 
 Pour des dosages plus importants, on le réalisera sur une courte durée. Christophe ne rentre pas dans les détails, car cela dépend de la situation.
 
-:::warning Consulter d'abord pour connaitre la cause du problème
-:::
+:::warning Consulter d'abord pour connaitre la cause du problème :::
 
 ### En décoction
 
@@ -331,11 +306,9 @@ Si vous n'en avez pas autant, à 50 g de plante sèche, cela fera l'affaire.
 
 D'après Mickaël Moore, l'infusion et décoction donne le même résultat.
 
-:::tip Infusion vs décoction
-L'infusion chaude consiste à faire bouillir de l'eau avant de la verser sur la plante, puis de laisser la plante dans cette eau quelques minutes. La décoction consiste à plonger la plante dans l'eau bouillante et à maintenir l'ébullition quelques minutes.
+:::tip Infusion vs décoction L'infusion chaude consiste à faire bouillir de l'eau avant de la verser sur la plante, puis de laisser la plante dans cette eau quelques minutes. La décoction consiste à plonger la plante dans l'eau bouillante et à maintenir l'ébullition quelques minutes.
 
-Source : [Arcadie.fr](https://www.arcadie.fr/blog/infusion-decoction-maceration-difference/#:~:text=L'infusion%20chaude%20consiste%20%C3%A0,maintenir%20l'%C3%A9bullition%20quelques%20minutes.)
-:::
+Source : [Arcadie.fr](https://www.arcadie.fr/blog/infusion-decoction-maceration-difference/#:~:text=L'infusion%20chaude%20consiste%20%C3%A0,maintenir%20l'%C3%A9bullition%20quelques%20minutes.) :::
 
 ## Précautions
 
@@ -353,9 +326,7 @@ On en reparlera avec [Damien Dekarz](../../../tag/damien-dekarz).
 
 En attendant...
 
-:::center
-⏬⏬⏬
-:::
+:::center ⏬⏬⏬ :::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

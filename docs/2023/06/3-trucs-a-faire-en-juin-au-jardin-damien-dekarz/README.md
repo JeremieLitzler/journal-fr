@@ -22,15 +22,14 @@ category:
   - Jardin
 tag:
   - Damien Dekarz
-  - En juin
+  - En Juin
 ---
 
 ![Vue aérienne du jardin de Damien](/images/2023-06-12-vue-aerienne-du-jardin-de-damien.jpg 'Crédits: image extraite du vlog de Damien Dekarz')
 
 Au mois de juin, on récolte, on paille et on crée de l’engrais liquide. C’est parti !
 
-Merci à Damien pour le partage de son savoir !
-Cet article résume mes notes du vlog réalisé par Damien sur sa chaîne _Permaculture, agroécologie, etc_.
+Merci à Damien pour le partage de son savoir ! Cet article résume mes notes du vlog réalisé par Damien sur sa chaîne _Permaculture, agroécologie, etc_.
 
 <!-- more -->
 
@@ -76,11 +75,9 @@ Pourquoi le faire en juin ?
 
 En juin, les plants de courge par exemple ne sont pas encore trop étalés et donc disposer le paillage est simple. Plus tard, ce serait bien plus compliqué.
 
-:::tip Avant de pailler
-Marquez le départ de vos plants de courges.
+:::tip Avant de pailler Marquez le départ de vos plants de courges.
 
-Pourquoi ? Ça permet de savoir où est le pied pour arroser quand le plant est très grand.
-:::
+Pourquoi ? Ça permet de savoir où est le pied pour arroser quand le plant est très grand. :::
 
 On étalera donc une bonne couche, de 20 cm si possible.
 
@@ -92,11 +89,9 @@ Il recommande aussi le paillage de consoude, car cette plante contient beaucoup 
 
 La plante repousse plusieurs fois dans l’année et elle pousse énormément et facilement.
 
-:::tip Note personnelle
-Cette année, la couche de feuilles de peupliers, que j’utilise pour le jardin d’hiver, arrive à un point où il faut la renouveler.
+:::tip Note personnelle Cette année, la couche de feuilles de peupliers, que j’utilise pour le jardin d’hiver, arrive à un point où il faut la renouveler.
 
-Heureusement, j’ai collecté assez de feuilles pour avoir encore 1-2 mètres cubes disponibles.
-:::
+Heureusement, j’ai collecté assez de feuilles pour avoir encore 1-2 mètres cubes disponibles. :::
 
 ### Paillage et arrosage
 
@@ -108,9 +103,7 @@ Si le sol est sableux, on réalisera plutôt un arrosage court et fréquent.
 
 Avec plusieurs années de paillage, la couche d’humus, qui sera présente sur le sol, forme une éponge dans le sol et la rétention d’eau s'en trouve optimisée.
 
-:::tip Note personnelle
-Je confirme, qu’après 2-3 années de paillage toute l’année, cet avantage d’arrosage moins fréquent dont parle Damien.
-:::
+:::tip Note personnelle Je confirme, qu’après 2-3 années de paillage toute l’année, cet avantage d’arrosage moins fréquent dont parle Damien. :::
 
 ## Créer un engrais liquide
 
@@ -160,9 +153,7 @@ Dans le jardin, les résultats sont excellents.
 
 Dans la maison, pour les plantes en pot, cela fonctionne aussi très bien.
 
-:::center
-⏬⏬⏬
-:::
+:::center ⏬⏬⏬ :::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

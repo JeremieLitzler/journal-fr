@@ -21,18 +21,15 @@ category:
 tag:
   - Damien Dekarz
   - Vie du sol
-  - Plantes
   - Mycorhizes
   - Champignons
-  - Biodiversite
 ---
 
 ![Image diagramme décrivant le cycle d'échanges entre les plantes et les mycorhizes](./images/2022-10-12-comment-jardiner-avec-un-sol-vivant-permaculture--agroecologie--etc-hero.png)
 
 _Credits : image extraite de l'article Wikipedia ["Réseau mycorhizien"](https://fr.wikipedia.org/wiki/R%C3%A9seau_mycorhizien)_
 
-Merci à Damien pour le partage de son savoir !
-Cet article résume mes notes du vlog réalisé par Permaculture, agroécologie, etc.
+Merci à Damien pour le partage de son savoir ! Cet article résume mes notes du vlog réalisé par Permaculture, agroécologie, etc.
 
 Vous pouvez retrouver [la vidéo sur YouTube](https://www.youtube.com/watch?v=WApK6d1ucz4).
 
@@ -49,8 +46,7 @@ Toute cette vie va permettre la création de l'humus.
 
 Aussi, une vie dans le sol permet d'obtenir une bonne structure du sol, c'est-à-dire qu'il est bien décompacté.
 
-Par conséquent, cela permet une bonne gestion de l'eau. Dans un sol très compacté, l'eau ne peut pas bien pénétrer.
-Au contraire, un sol décompacté favorise le développement des micro-organismes, comme le mycélium.
+Par conséquent, cela permet une bonne gestion de l'eau. Dans un sol très compacté, l'eau ne peut pas bien pénétrer. Au contraire, un sol décompacté favorise le développement des micro-organismes, comme le mycélium.
 
 ![Du mycélium dans les feuilles mortes](./images/micelium.jpg 'Crédits : image extraite du vlog de Damien')
 
@@ -66,8 +62,7 @@ Pourquoi ?
 
 Car la vie anaérobie se retrouve à l'air et elle meurt et l'inverse est vrai pour la vie aérobie.
 
-Les champignons ne peuvent vivre dans un sol labouré.
-C'est pour ça qu'on est amené à _booster_ le sol avec des produits toxiques, même en agriculture biologique.
+Les champignons ne peuvent vivre dans un sol labouré. C'est pour ça qu'on est amené à _booster_ le sol avec des produits toxiques, même en agriculture biologique.
 
 Même le cuivre pour tuer les champignons, le pyrèthre pour tuer les insectes.
 
@@ -144,9 +139,7 @@ Pour un mètre de racine, il y a 1000 mètres de réseaux mycéliens.
 
 En mettant des engrais dans le sol, on détruit à la fois le support des mycorhizes aux plantes et on rend les plantes dépendantes de nos engrais, qui n'importent pas le même équilibre que la nature.
 
-:::tip Important à savoir
-80% des plantes sont mycorhiziennes
-:::
+:::tip Important à savoir 80% des plantes sont mycorhiziennes :::
 
 ## N'utilisez pas les engrais
 
@@ -154,11 +147,9 @@ Le cuivre par exemple, autorisé en agriculture biologique, détruit les mycorhi
 
 Ça empêche vraiment les plantes de devenir autonomes...
 
-:::tip Fait intéressant
-Le plus grand champignon vit en Orégon. On le nomme _Armillaria gallica_.
+:::tip Fait intéressant Le plus grand champignon vit en Orégon. On le nomme _Armillaria gallica_.
 
-Il serait le plus grand organisme vivant du monde, en s'étendant sur 8.9 km² et pesant environ 400 à 600 tonnes.
-:::
+Il serait le plus grand organisme vivant du monde, en s'étendant sur 8.9 km² et pesant environ 400 à 600 tonnes. :::
 
 ## Les bactéries
 
@@ -207,8 +198,7 @@ Un organisme autotrophe est un organisme capable de générer sa propre matière
 
 Ce n'est pas le cas des êtres vivants comme les animaux ou les êtres humains.
 
-Les champignons ne sont pas autotrophes, comme nous, et le réseau mycélien est comme un grand système digestif ouvert sur le monde.
-Les champignons mettent en commun via ce réseau l'ensemble des nutriments pour eux-mêmes, mais aussi tous les autres champignons et aussi les plantes.
+Les champignons ne sont pas autotrophes, comme nous, et le réseau mycélien est comme un grand système digestif ouvert sur le monde. Les champignons mettent en commun via ce réseau l'ensemble des nutriments pour eux-mêmes, mais aussi tous les autres champignons et aussi les plantes.
 
 ## Les mycorhizes et leur nourriture
 

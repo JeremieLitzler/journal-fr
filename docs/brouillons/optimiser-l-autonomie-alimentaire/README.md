@@ -15,7 +15,6 @@ heroAlt: ???
 category:
   - Alimentation
 tag:
-  - Jardin
   - Lacto-fermantation
   - Conservation
   - Optimisation

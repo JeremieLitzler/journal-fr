@@ -30,8 +30,7 @@ tag:
 
 Il y a tellement de choses à dire sur l’ortie ! Ces notes représentent un concentré d’informations sur cette plante incroyable.
 
-Merci à Christophe pour le partage de son savoir !
-Cet article résume mes notes du vlog réalisé par Christophe sur sa chaîne Altheaprovence.
+Merci à Christophe pour le partage de son savoir ! Cet article résume mes notes du vlog réalisé par Christophe sur sa chaîne Altheaprovence.
 
 <!-- more -->
 
@@ -40,11 +39,9 @@ Vous pouvez retrouver [la vidéo sur YouTube](https://www.youtube.com/watch?v=O9
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
 
-:::note Pour information
-Cet article contiendra uniquement les informations médicales sur la plante. Christophe fournit un descriptif botanique sur [son article lié à la vidéo](https://www.altheaprovence.com/ortie-urtica-dioica-urens/).
+:::note Pour information Cet article contiendra uniquement les informations médicales sur la plante. Christophe fournit un descriptif botanique sur [son article lié à la vidéo](https://www.altheaprovence.com/ortie-urtica-dioica-urens/).
 
-Aussi, allez lire [l’article du Chemin de la nature](../lortie-brulante-le-chemin-de-la-nature/README.md) pour plus d’informations botaniques.
-:::
+Aussi, allez lire [l’article du Chemin de la nature](../lortie-brulante-le-chemin-de-la-nature/README.md) pour plus d’informations botaniques. :::
 
 ## L’ortie : une bombe nutritive
 
@@ -56,8 +53,7 @@ Elle contient un large spectre :
 
 La teneur en éléments va dépendre du terrain de récolte, mais, quel que soit le lieu où elle pousse, elle restera riche.
 
-:::warning Attention au lieu de récolte
-Comme il s’agit d’une plante qui absorbe les éléments dans le sol, on évitera :
+:::warning Attention au lieu de récolte Comme il s’agit d’une plante qui absorbe les éléments dans le sol, on évitera :
 
 - les champs traités par des produits phytosanitaires
 - les bords de route
@@ -108,8 +104,7 @@ Il est intéressant de coupler l’ortie, qui agit sur les reins, et une plante 
 
 Dans le cas de problème de peau (par ex. eczema), des migraines chroniques, des problèmes inflammatoires articulaires, l’ortie vient aider.
 
-:::warning Attention
-L’ortie ne va pas forcément résoudre le problème.
+:::warning Attention L’ortie ne va pas forcément résoudre le problème.
 
 Quand il y a un problème de santé, il faut regarder le problème globalement et utiliser plusieurs axes de travail pour résoudre le problème.
 
@@ -123,8 +118,7 @@ Pour exemple, sur les articulations, on peut avoir :
 
 L’ortie se trouve dans l’axe n° 3.
 
-> L’ortie est un musicien dans l’orchestre, mais elle ne peut pas tout faire à elle seule. Elle doit se faire aider.
-> — Christophe Bernard
+> L’ortie est un musicien dans l’orchestre, mais elle ne peut pas tout faire à elle seule. Elle doit se faire aider. — Christophe Bernard
 
 :::
 
@@ -154,9 +148,7 @@ Les graines sont consommées avec la nourriture, à raison d’une cuillère à 
 
 - Couper le plus de tiges possible quand l’ortie est montée en graines.
 
-:::warning L’ortie est une plante dioïque
-Voir [l’article du Chemin de la nature](../lortie-brulante-le-chemin-de-la-nature/README.md) pour distinguer l’ortie mâle de l’ortie femelle.
-:::
+:::warning L’ortie est une plante dioïque Voir [l’article du Chemin de la nature](../lortie-brulante-le-chemin-de-la-nature/README.md) pour distinguer l’ortie mâle de l’ortie femelle. :::
 
 - Faire sécher la tête en bas
 - Secouer dans un sac en papier pour obtenir les graines
@@ -196,11 +188,9 @@ Ceci est applicable pour les racines sèches.
 
 Idéalement, un rhum à 55° fera l’affaire.
 
-:::tip Note personnelle
-Je me suis essayé à la teinture avec un alcool à 45° de feuilles et racines fraiches.
+:::tip Note personnelle Je me suis essayé à la teinture avec un alcool à 45° de feuilles et racines fraiches.
 
-Je dois bientôt extraire la teinture.
-:::
+Je dois bientôt extraire la teinture. :::
 
 ## Conclusion
 
@@ -208,9 +198,7 @@ Non, l’ortie n’est pas un parasite dans le jardin !
 
 Alors qu’attendez-vous pour commencer à l’utiliser ?
 
-:::center
-⏬⏬⏬
-:::
+:::center ⏬⏬⏬ :::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

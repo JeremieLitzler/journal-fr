@@ -29,8 +29,7 @@ tag:
 
 Semis, plantations, boutures, arrosages, récoltes sauvages, etc… En juin, on est bien occupé !
 
-Merci à Damien pour le partage de son savoir !
-Cet article résume mes notes du vlog réalisé par Damien sur sa chaîne _Permaculture, agroécologie, etc_.
+Merci à Damien pour le partage de son savoir ! Cet article résume mes notes du vlog réalisé par Damien sur sa chaîne _Permaculture, agroécologie, etc_.
 
 <!-- more -->
 
@@ -84,9 +83,7 @@ Comme lui, j’utilise des ficelles pour suspendre ou _encercler_ les plantes qu
 
 Avec les oyas, c’est-à-dire des pots en terre cuite, Damien profite de la porosité pour diffuser lentement mais sûrement l’eau aux plantes proches de l’oya.
 
-:::tip Note personnelle
-C’est une technique que j’ai découverte cette année, mais je ne la testerai pas avant l’année prochaine, car les pots ne sont pas donnés.
-:::
+:::tip Note personnelle C’est une technique que j’ai découverte cette année, mais je ne la testerai pas avant l’année prochaine, car les pots ne sont pas donnés. :::
 
 Au passage, Damien rappelle 2-3 choses concernant l’arrosage :
 
@@ -109,9 +106,7 @@ Tout est consommable dans la massette.
 
 Par exemple, le cœur des tiges est très bon !
 
-:::center
-⏬⏬⏬
-:::
+:::center ⏬⏬⏬ :::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

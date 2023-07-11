@@ -28,8 +28,7 @@ tag:
 
 Vous en avez sûrement chez vous si vous vivez à la campagne, proche d'une zone sauvage. On essaye souvent de s'en débarrasser. Toutefois, saviez-vous qu'il s'agit plutôt d'une amie ? Christophe nous raconte tout dans son vlog sur cette plante incroyable.
 
-Merci à Christophe pour le partage de son savoir !
-Cet article résume mes notes du vlog réalisé par Christophe sur sa chaîne Altheaprovence.
+Merci à Christophe pour le partage de son savoir ! Cet article résume mes notes du vlog réalisé par Christophe sur sa chaîne Altheaprovence.
 
 <!-- more -->
 
@@ -103,8 +102,7 @@ Après, si l'on n'a pas le temps, on simplement ramasser au besoin. On est très
 
 Christophe récolte des rameaux qu'il met à sécher pour rendre la récolte des feuilles plus simples.
 
-:::warning Evidemment, mettez des gants :)
-:::
+:::warning Evidemment, mettez des gants :) :::
 
 ## Utilisation alimentaire
 
@@ -119,8 +117,7 @@ Ils aident aussi :
 - à prévenir le dépôt de la plaque artérielle,
 - à prévenir la formation des caillots.
 
-Ensuite, du côté des jeunes pousses, nommés aussi _turions_, ils se consomment à la vapeur comme des asperges.
-Il faut les peler au préalable.
+Ensuite, du côté des jeunes pousses, nommés aussi _turions_, ils se consomment à la vapeur comme des asperges. Il faut les peler au préalable.
 
 ## Utilisation thérapeutique
 
@@ -141,13 +138,11 @@ Cela assèche les muqueuses.
 
 On utilise donc la ronce dans le cas ==d'une forte inflammation== des muqueuses avec hypersécrétion.
 
-:::warning Il faut bien choisir le moment pour utiliser les plantes astringentes
-Et ce n'est pas dès le départ.
+:::warning Il faut bien choisir le moment pour utiliser les plantes astringentes Et ce n'est pas dès le départ.
 
 Une petite inflammation ne requiert pas un traitement par les plantes astringentes, car elles assèchent trop.
 
-Au contraire, cela risque d'irriter la muqueuse.
-:::
+Au contraire, cela risque d'irriter la muqueuse. :::
 
 ## Application dans la bouche
 
@@ -161,16 +156,13 @@ Pour les aphtes, la ronce rend service.
 
 On retrouve aussi la ronce pour traiter les angines. Encore une fois, on ne parle pas d'un petit mal de gorge, mais plutôt du cas où les amygdales sont rouges et gonflées.
 
-:::warning Consulter d'abord pour connaitre la cause de l'angine (virale ou bactérienne)
-:::
+:::warning Consulter d'abord pour connaitre la cause de l'angine (virale ou bactérienne) :::
 
-:::tip Préparation de la décoction des feuilles de ronces
-Une fois que la décoction est devenue tiède, vous la salez.
+:::tip Préparation de la décoction des feuilles de ronces Une fois que la décoction est devenue tiède, vous la salez.
 
 Le sel rajoute un effet thérapeutique bien connu pour les angines.
 
-On utilisera une cuillère à café pour 250 ml de décoction.
-:::
+On utilisera une cuillère à café pour 250 ml de décoction. :::
 
 ### Pour une inflammation sévère de l'estomac ou de l'intestin
 
@@ -240,9 +232,7 @@ On retrouve la même remarque pour la prise de médicaments et de compléments a
 
 Si vous êtes constipés, on évitera la ronce à cause de ses propriétés asséchant.
 
-:::center
-⏬⏬⏬
-:::
+:::center ⏬⏬⏬ :::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

@@ -30,8 +30,7 @@ tag:
 
 Très facile à cultiver au jardin, cette plante est très connue pour ses propriétés réparatrice et cicatrisante.
 
-Merci à Christophe pour le partage de son savoir !
-Cet article résume mes notes du vlog réalisé par Christophe sur sa chaîne Altheaprovence.
+Merci à Christophe pour le partage de son savoir ! Cet article résume mes notes du vlog réalisé par Christophe sur sa chaîne Altheaprovence.
 
 <!-- more -->
 
@@ -40,11 +39,9 @@ Vous pouvez retrouver [la vidéo sur YouTube](https://www.youtube.com/watch?v=JY
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
 
-:::note
-Pour ne pas répéter, je mettrai ici les notes complémentaires uniquement.
+:::note Pour ne pas répéter, je mettrai ici les notes complémentaires uniquement.
 
-J'ai écrit [un autre article](../tout-sur-la-grande-consoude-le-chemin-de-la-nature/README.md) sur le sujet avec l'aide d'un autre Christophe (chaîne _Chemin de la Nature_).
-:::
+J'ai écrit [un autre article](../tout-sur-la-grande-consoude-le-chemin-de-la-nature/README.md) sur le sujet avec l'aide d'un autre Christophe (chaîne _Chemin de la Nature_). :::
 
 ## Au jardin
 
@@ -67,9 +64,7 @@ La consoude peut se préparer :
 
 L’usage le plus connu est la réparation des os, n’importe quel os.
 
-:::warning Attention !
-Elle aide à réparer une fracture et une fêlure plus rapidement, mais cela n’empêche pas d’aller aux urgences.
-:::
+:::warning Attention ! Elle aide à réparer une fracture et une fêlure plus rapidement, mais cela n’empêche pas d’aller aux urgences. :::
 
 Le cataplasme de racines fraiches est la première forme d’utilisation.
 
@@ -85,17 +80,13 @@ Du point de vue de l’efficacité entre les racines et les feuilles, Christope 
 
 La différence se trouve plutôt sur le travail des racines, plus agréable, parce qu’elles n’ont pas les poils et elles contiennent plus de mucilage.
 
-:::warning A propos des poils…
-Les poils peuvent se révéler irritants chez certaines personnes, chez qui la peau va rougir.
+:::warning A propos des poils… Les poils peuvent se révéler irritants chez certaines personnes, chez qui la peau va rougir.
 
-On utilisera alors plus une infusion appliquée sur des compresses, si l’on n’a pas de racines à disposition.
-:::
+On utilisera alors plus une infusion appliquée sur des compresses, si l’on n’a pas de racines à disposition. :::
 
-:::tip Note personnelle
-Christophe mentionne l'intérêt de la poudre de racine qui permet d'obtenir une pâte super rapidement.
+:::tip Note personnelle Christophe mentionne l'intérêt de la poudre de racine qui permet d'obtenir une pâte super rapidement.
 
-Je pense que je vais essayer de sécher les racines. Je verrai comment les réduire en poudre afin de l’utiliser ultérieurement avec un peu d’eau chaude.
-:::
+Je pense que je vais essayer de sécher les racines. Je verrai comment les réduire en poudre afin de l’utiliser ultérieurement avec un peu d’eau chaude. :::
 
 ### Pour les ligaments, muscles ou tendons
 
@@ -105,8 +96,7 @@ Par exemple, après une entorse de cheville, un déchirement d’un muscle, on a
 
 Pour les blessures ==en surface==, la consoude accélère la guérison.
 
-:::warning Attention !
-Des fois, la consoude agit trop rapidement. C’est pour cela que, pour les blessures profondes, ==**on n’utilisera pas la consoude**==, car la consoude referme la blessure en surface avant même que les couches profondes soient réparées.
+:::warning Attention ! Des fois, la consoude agit trop rapidement. C’est pour cela que, pour les blessures profondes, ==**on n’utilisera pas la consoude**==, car la consoude referme la blessure en surface avant même que les couches profondes soient réparées.
 
 Ce problème est bien connu.
 
@@ -140,29 +130,21 @@ Ce sont ces dérivés qui viennent détruire les veines à l’intérieur du foi
 
 Ceci a été démontré : voir [cet article de l’office fédéral de la sécurité alimentaire et des affaires vétérinaires](https://www.blv.admin.ch/blv/fr/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/stoffe-im-fokus/kontaminanten/pyrrolizidinalkaloide.html) en Suisse ou [cette étude du CNRS](https://dumas.ccsd.cnrs.fr/dumas-01675622) sur la Grande consoude.
 
-:::tip Note personnelle
-Je pense que les avantages en externe sont suffisants pour m’en tenir à cela.
+:::tip Note personnelle Je pense que les avantages en externe sont suffisants pour m’en tenir à cela.
 
 Le foie est l’organe qui encaisse toute la charge toxique de notre vie. Si on le sollicite un peu plus par orgueil, les conséquences n’apparaitront que bien plus tard…
 
 C’est d’autant plus vrai pour les jeunes enfants ou les femmes enceintes.
 
-On peut remplacer la consoude en interne par le souci (_Calendula officinale_).
-:::
+On peut remplacer la consoude en interne par le souci (_Calendula officinale_). :::
 
-:::warning Attention aux hybrides
-Le consoude de Russie (_symphytum x uplandicum_) contient beaucoup plus d’alcaloïdes.
-:::
+:::warning Attention aux hybrides Le consoude de Russie (_symphytum x uplandicum_) contient beaucoup plus d’alcaloïdes. :::
 
-:::note Mais la peau transmet-elle les alcaloïdes dans le sang ?
-Non, la pénétration est très très faible, surtout qu’on ne casse pas un os tous les jours !
-:::
+:::note Mais la peau transmet-elle les alcaloïdes dans le sang ? Non, la pénétration est très très faible, surtout qu’on ne casse pas un os tous les jours ! :::
 
 Si vous aimez cet article, pensez à souscrire à mon bulletin d’informations :)
 
-:::center
-⏬⏬⏬
-:::
+:::center ⏬⏬⏬ :::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

@@ -19,11 +19,10 @@ head:
       },
     ]
 category:
-  - Jardin
+  - Alimentation
 tag:
   - Damien Dekarz
   - Plantes sauvages
-  - Alimentation
 ---
 
 ![Une prairie garnie de fleurs variées](/images/2022-07-20-5-sauvages-1.jpg)
@@ -35,9 +34,7 @@ Merci à Damien pour le partage de son savoir !
 <!-- more -->
 <!-- markdownlint-disable MD033 -->
 
-<a href="https://unsplash.com/@chris23?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Crédits de l'image à Chris</a> sur <a href="https://unsplash.com/s/photos/wild-flowers?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-Ce qui suit sont mes notes de la vidéo publiée sur la chaîne Permaculture, agroecologie, etc.
-Vous pouvez retrouver [la vidéo sur YouTube](https://www.youtube.com/watch?v=sw-_HTEgOxM).
+<a href="https://unsplash.com/@chris23?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Crédits de l'image à Chris</a> sur <a href="https://unsplash.com/s/photos/wild-flowers?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> Ce qui suit sont mes notes de la vidéo publiée sur la chaîne Permaculture, agroecologie, etc. Vous pouvez retrouver [la vidéo sur YouTube](https://www.youtube.com/watch?v=sw-_HTEgOxM).
 
 ## Comment poussent les plantes sauvages
 
@@ -78,8 +75,7 @@ Ses utilités :
   - 1 cueillière à café de fleurs sèchés dans une grande tasse en infusion.
   - Il ne faut pas en abusé (max. 3 tasses par jour), car elle contient de l'acide cianirique qui est toxique à grande dose.
 
-On peut la manger cuite, ce qui supprimera l'acide cianirique.
-Son goût est très prononcé.
+On peut la manger cuite, ce qui supprimera l'acide cianirique. Son goût est très prononcé.
 
 _Pour information :_ on consomme souvent des plantes "toxiques", comme la pomme de terre, la tomate, l'épinard, la blette, et bien d'autres. On a l'habitude de consommer ces plantes toxiques quand on sait comment bien les consommer (cuites, bien mûres entre autre).
 

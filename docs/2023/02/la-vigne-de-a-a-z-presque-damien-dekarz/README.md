@@ -31,8 +31,7 @@ tag:
 
 Damien nous explique tout sur le vigne, comment la cultiver, comment les tailler et quelles variétés sont à privilégier.
 
-Merci à Damien pour le partage de son savoir !
-Cet article résume mes notes du vlog réalisé par Damien sur sa chaîne _Permaculture, agroécologie, etc_.
+Merci à Damien pour le partage de son savoir ! Cet article résume mes notes du vlog réalisé par Damien sur sa chaîne _Permaculture, agroécologie, etc_.
 
 <!-- more -->
 
@@ -143,9 +142,7 @@ Mal tailler peut causer une non production.
 
 La taille a lieu à la fin de l’hiver (février) à un moment où la taille fait pleurer la vigne;
 
-:::tip Note personnelle
-💡 Voir [cette vidéo pour le détail sur la taille](https://www.youtube.com/watch?v=w0efTjemrFY).
-:::
+:::tip Note personnelle 💡 Voir [cette vidéo pour le détail sur la taille](https://www.youtube.com/watch?v=w0efTjemrFY). :::
 
 ## Comment et quand la récolter
 

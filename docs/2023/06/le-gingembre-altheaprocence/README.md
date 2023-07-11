@@ -30,8 +30,7 @@ tag:
 
 Le gingembre : qui ne le connait pas ? Cette plante dont on consomme la racine, ou rhizome, est très appréciée dans le monde entier. Christophe nous explique.
 
-Merci à Christophe pour le partage de son savoir !
-Cet article résume mes notes du vlog réalisé par Christophe sur sa chaîne Altheaprovence.
+Merci à Christophe pour le partage de son savoir ! Cet article résume mes notes du vlog réalisé par Christophe sur sa chaîne Altheaprovence.
 
 <!-- more -->
 
@@ -102,9 +101,7 @@ La forme sèche est considérée plus chaud et épicée. Faites le test !
 
 Comme évoqué plus haut, la forme fraiche se rape ou se coupe en petits morceaux.
 
-:::tip Pour besoin d’enlever la peau si vous achetez bio
-Par contre, laver le rhizome, car des traces de terre peuvent être présentes.
-:::
+:::tip Pour besoin d’enlever la peau si vous achetez bio Par contre, laver le rhizome, car des traces de terre peuvent être présentes. :::
 
 Il est possible de réaliser des teintures ou aussi des macérats.
 
@@ -125,7 +122,6 @@ Pas vraiment.
 
 Le gingembre va permettre l’arrivée de sang vers les organes sexuels, mais le désir ou l’envie sexuelle n’est pas _induite_ par la consommation de gingembre.
 
-> Les plantes médicinales ne peuvent pas réparer une relation qui bat de l’aile
-> ~ Christophe Bernard
+> Les plantes médicinales ne peuvent pas réparer une relation qui bat de l’aile ~ Christophe Bernard
 
 Pour plus d’informations, allez [lire l’article associé au vlog de Christophe](https://www.altheaprovence.com/gingembre-zingiber-officinale/).

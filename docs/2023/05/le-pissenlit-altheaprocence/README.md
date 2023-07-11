@@ -30,8 +30,7 @@ tag:
 
 Vous marchez sûrement dessus à chaque fois que vous vous promenez ! Mais connaissez-vous le pissenlit, véritable bombe nutritive ?
 
-Merci à Christophe pour le partage de son savoir !
-Cet article résume mes notes du vlog réalisé Par Christophe sur sa chaîne Altheaprovence.
+Merci à Christophe pour le partage de son savoir ! Cet article résume mes notes du vlog réalisé Par Christophe sur sa chaîne Altheaprovence.
 
 <!-- more -->
 
@@ -52,15 +51,13 @@ Toutes les parties de la plante s’utilisent :
 
 - la feuille en salade
 
-:::tip Note personnelle
-En ce moment, c’est l’heure du pissenlit. J’ai la chance d’en avoir au jardin (implanté tout seul).
+:::tip Note personnelle En ce moment, c’est l’heure du pissenlit. J’ai la chance d’en avoir au jardin (implanté tout seul).
 
 Depuis 2 ans, il y a des plants de grandes tailles qui poussent au même endroit chaque année, produisant de larges feuilles.
 
 Je vous recommande de couper finement les feuilles pour une meilleure expérience culinaire.
 
-Bernard, lui, les consomme avec de l’huile d’olive, de l’ail et des anchois.
-:::
+Bernard, lui, les consomme avec de l’huile d’olive, de l’ail et des anchois. :::
 
 - la fleur se consomme aussi en salade ou en confiture (nommée _cramaillotte_).
 
@@ -132,9 +129,7 @@ On utilise alors le pissenlit, non pas comme un acteur principal, mais comme un 
 
 Pour continuer à lire des articles comme celui, n'hésitez pas et abonnez-vous !
 
-:::center
-⏬⏬⏬
-:::
+:::center ⏬⏬⏬ :::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
