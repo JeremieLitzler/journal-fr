@@ -22,7 +22,7 @@ category:
   - Jardin
 tag:
   - Damien Dekarz
-  - Mois de juin
+  - En Juin
 ---
 
 ![Titre du vlog](/images/2023-06-26-titre-du-vlog.jpg 'Crédits: image extraite du vlog de Damien Dekarz')

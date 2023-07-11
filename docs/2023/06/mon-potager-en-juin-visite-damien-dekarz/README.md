@@ -22,7 +22,7 @@ category:
   - Jardin
 tag:
   - Damien Dekarz
-  - Mois de juin
+  - En Juin
 ---
 
 ![Vue aérienne du jardin de Damien](/images/2023-06-27-vue-aerienne-du-jardin-de-damien.jpg 'Crédits : image extraite du vlog de Damien Dekarz')
