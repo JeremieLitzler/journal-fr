@@ -16,7 +16,7 @@ export default defineUserConfig({
   bundler: viteBundler(),
   plugins: [],
   onPrepared: async (app) => {
-    const searchIndex = SearchIndexBuilder.BuildIndex(pagesData);
+    // const searchIndex = SearchIndexBuilder.BuildIndex(pagesData);
     //await app.writeTemp(
     //  'searchIndex.js',
     //  `export default ${JSON.stringify(searchIndex)}`,
