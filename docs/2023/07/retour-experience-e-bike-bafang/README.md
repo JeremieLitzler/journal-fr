@@ -25,6 +25,9 @@ Voilà plus de 5 ans que je roule en VAE, au début sur une base de Scott CX C
 
 <!-- more -->
 
+<!-- markdownlint-disable MD033 -->
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
+
 ## Pourquoi et quand
 
 Au printemps 2018, la SNCF subit une grève majeure qui [lui coûtera 890 millions d’euros](https://www.google.com/search?q=gr%C3%A8ve+scnf+printemps+2018).
@@ -351,3 +354,12 @@ De plus, je ne parle pas des bienfaits pour la santé et cela, ça ne se chiffre
 C’est [par là](../../../page/contactez-moi/README.md) ou dans le menu « Contact » dans le menu du site.
 
 Merci.
+
+:::center
+
+⏬⏬⏬
+
+:::
+
+<!-- markdownlint-disable MD033 -->
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
