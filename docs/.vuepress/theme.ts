@@ -11,7 +11,7 @@ const publishDateFormatted = new Intl.DateTimeFormat('fr-FR', {
 
 import { hopeTheme } from 'vuepress-theme-hope';
 
-import { enNavBarConfig, frNavBarConfig } from './configs/navbar';
+import { frNavBarConfig } from './configs/navbar';
 
 export default hopeTheme({
   //path.resolve(__dirname, './theme'),
@@ -31,11 +31,6 @@ export default hopeTheme({
   locales: {
     '/': {
       navbar: frNavBarConfig,
-      sidebar: false,
-      headerDepth: 3,
-    },
-    '/en/': {
-      navbar: enNavBarConfig,
       sidebar: false,
       headerDepth: 3,
     },

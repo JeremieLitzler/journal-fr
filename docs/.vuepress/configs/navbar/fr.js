@@ -22,4 +22,5 @@ export const frNavBarConfig = navbar([
   },
   { text: 'Soutenez-moi', link: '/page/soutenez-moi/' },
   { text: 'Contact', link: '/page/contactez-moi/' },
+  { text: 'Blog in English', link: 'https://iamjeremie.me/' },
 ]);
