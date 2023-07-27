@@ -24,6 +24,16 @@ Il y a 7 ans, nous avons acheté notre maison et la propriété fait environ 400
 
 Ce n'était rien de très accueillant pour planter quelque chose (on a essayé et l'on continue d'essayer avec la méthode ["_No Dig_" de Charles Dowding](https://www.youtube.com/c/CharlesDowding1nodig) et [les conseils de Damien Dekarz](https://www.youtube.com/c/permacultureetc)...), mais qui semblait exploitable pour poser quelques panneaux PV.
 
+<!-- more -->
+
+## La série d'articles
+
+- [Installation PV - quel retour d'expérience après 9 mois ? (partie 1)](../../12/retour-d-experience-sur-une-installation-pv-9mois-partie-1/README.md)
+- [Installation PV - quel retour d'expérience après 9 mois ? (partie 2)](../../12/retour-d-experience-sur-une-installation-pv-9mois-partie-2/README.md)
+- [Installation PV - quel retour d'expérience après 1 an ?](../../../2023/03/retour-d-experience-sur-une-installation-pv-1an/README.md)
+
+<hr>
+
 Nous chauffons notre eau chaude sanitaire (ECS) en heures creuses et nous avons isolé, avec 10 cm de laine de mouton brute, le cumulus de 200 litres le premier hiver, car il se trouve dans le garage et il peut y faire 8°C... Je sais, ce n'est pas idéal, mais nous n'avons pas de local technique dans la maison de 72 m².
 
 Cela nous avait permis de réduire de 12-13kWh pour chauffer l'ECS à 8-10kWh pour une journée et pour une consommation d'ESC équivalente.

@@ -38,6 +38,14 @@ Le 27 mars 2022, nous avons mis en service notre installation photovoltaïque. 
 
 <!-- more -->
 
+## La série d'articles
+
+- [Installation PV - quel retour d'expérience après 2 mois ?](../../../2022/06/retour-d-experience-sur-une-installation-pv-1mois/README.md)
+- [Installation PV - quel retour d'expérience après 9 mois ? (partie 1)](../../../2022/12/retour-d-experience-sur-une-installation-pv-9mois-partie-1/README.md)
+- [Installation PV - quel retour d'expérience après 9 mois ? (partie 2)](../../../2022/12/retour-d-experience-sur-une-installation-pv-9mois-partie-2/README.md)
+
+<hr>
+
 ## Usage du cumulus en hiver
 
 Avec le recul d’un an, on peut conclure que chauffer l’eau en hiver n’est pas exactement la même chose qu’en été.

@@ -24,6 +24,14 @@ En cet hiver 2022-2023, il devient de plus en plus intéressant de produire sa 
 
 <!-- more -->
 
+## La série d'articles
+
+- [Installation PV - quel retour d'expérience après 2 mois ?](../../06/retour-d-experience-sur-une-installation-pv-1mois/README.md)
+- [Installation PV - quel retour d'expérience après 9 mois ? (partie 1)](../../12/retour-d-experience-sur-une-installation-pv-9mois-partie-1/README.md)
+- [Installation PV - quel retour d'expérience après 1 an ?](../../../2023/03/retour-d-experience-sur-une-installation-pv-1an/README.md)
+
+<hr>
+
 ## Quelques rappels
 
 En mars, nous avons mis en service l’installation photovoltaïque sur ma propriété.

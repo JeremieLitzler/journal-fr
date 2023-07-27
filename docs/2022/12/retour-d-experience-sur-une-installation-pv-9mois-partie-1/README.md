@@ -24,6 +24,14 @@ Depuis la mise en route, j’ai réalisé un bon nombre de modifications, princi
 
 <!-- more -->
 
+## La série d'articles
+
+- [Installation PV - quel retour d'expérience après 2 mois ?](../../06/retour-d-experience-sur-une-installation-pv-1mois/README.md)
+- [Installation PV - quel retour d'expérience après 9 mois ? (partie 2)](../../12/retour-d-experience-sur-une-installation-pv-9mois-partie-2/README.md)
+- [Installation PV - quel retour d'expérience après 1 an ?](../../../2023/03/retour-d-experience-sur-une-installation-pv-1an/README.md)
+
+<hr>
+
 ## Ajustements extérieurs de l’installation
 
 ### Orientation verticale des champs de panneaux
