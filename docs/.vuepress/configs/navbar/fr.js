@@ -2,7 +2,6 @@ import { navbar } from 'vuepress-theme-hope';
 
 export const frNavBarConfig = navbar([
   '/',
-  '/page/a-propos/',
   {
     text: 'Lire',
     children: [

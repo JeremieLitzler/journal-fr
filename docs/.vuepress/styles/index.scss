@@ -40,20 +40,6 @@ img {
 }
 
 /* END - TYPOGRAPHY */
-/* LAYOUT */
-@media (max-width: 50em) {
-  // figure {
-  //   margin: 0;
-  // }  
-}
-// .jli-home-page {
-//     background: url("/images/wallpaper.webp") center/cover no-repeat;
-// }
-// .jli-home-page header,
-// .jli-home-page .hero-info,
-// .jli-home-page .home.project .hero .description {
-//   color: white
-// }
 
 /* Theme style overrides */
 
@@ -109,6 +95,12 @@ img {
 /* END - Theme style overrides */
 
 /* Custom styles */
+
+.author-image {
+  margin: 0 auto;
+  width: 25em;
+}
+
 iframe.contact-form {
   height: 50em;
 }
