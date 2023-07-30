@@ -5,18 +5,14 @@ description: Cet article résume mes notes du vlog réalisé par Permaculture, a
 date: 2022-10-11
 heroImage: '/images/2022-10-11-que-faire-au-jardin-en-octobre--permaculture--agroecologie--etc-hero.jpg'
 heroAlt: Une courge verte raillée sur du paillage
-#head:
-#  - [
-#      meta,
-#      {
-#        rel: canonical,
-#        href: url,
-#      },
-#    ]
-next:
-  text: 'Comment jardiner avec un sol vivant, par Permaculture, agroecologie, etc'
-  link: ../comment-jardiner-avec-un-sol-vivant-damien-dekarz/
-
+head:
+  - [
+      meta,
+      {
+       rel: canonical,
+        href: 'https://jeremielitzler.fr/2022/10/que-faire-au-jardin-en-octobre-damien-dekarz/',
+      },
+    ]
 category:
   - Jardin
 tag:

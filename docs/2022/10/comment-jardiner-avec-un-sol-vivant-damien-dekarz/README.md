@@ -13,9 +13,6 @@ head:
         href: https://jeremielitzler.fr/2022/10/comment-jardiner-avec-un-sol-vivant-damien-dekarz/,
       },
     ]
-next:
-  text: 'Que faire au jardin en octobre, par Permaculture, agroécologie, etc'
-  link: ../que-faire-au-jardin-en-octobre-damien-dekarz/
 category:
   - Jardin
 tag:
