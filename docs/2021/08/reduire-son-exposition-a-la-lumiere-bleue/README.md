@@ -2,6 +2,15 @@
 title: Réduire son exposition à la lumiere bleue
 description: Cela vous aidera beaucoup si vous passez beaucoup devant un écran
 date: 2021-08-25
+head:
+  - [
+      link,
+      {
+        rel: canonical,
+        href: https://jeremielitzler.fr/2021/08/reduire-son-exposition-a-la-lumiere-bleue/,
+      },
+    ]
+
 category:
   - Santé
 ---

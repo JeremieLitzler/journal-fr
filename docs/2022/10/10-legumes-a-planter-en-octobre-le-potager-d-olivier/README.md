@@ -5,14 +5,14 @@ description: Cet article résume mes notes du vlog réalisé par Olivier
 date: 2022-10-05
 heroImage: '/images/2022-10-05-10-legumes-a-planter-en-octobre-au-potager-le-potager-d-olivier-hero.jpg'
 heroAlt: Des semis de divers choux
-#head:
-#  - [
-#      meta,
-#      {
-#        rel: canonical,
-#        href: url,
-#      },
-#    ]
+head:
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://jeremielitzler.fr/2022/10/10-legumes-a-planter-en-octobre-le-potager-d-olivier/,
+      },
+    ]
 category:
   - Jardin
 tag:

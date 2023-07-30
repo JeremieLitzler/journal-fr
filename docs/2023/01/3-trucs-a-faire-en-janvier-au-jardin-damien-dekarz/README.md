@@ -5,17 +5,14 @@ date: 2023-01-04
 prev:
   text: 'Toutes mes notes des vlogs de Damien Dekarz'
   link: ../../../tag/damien-dekarz/
-#next:
-#  text: ''
-#  link: ..//README.md
-#head:
-#  - [
-#      meta,
-#      {
-#        rel: canonical,
-#        href: url,
-#      },
-#    ]
+head:
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://jeremielitzler.fr/2023/01/3-trucs-a-faire-en-janvier-au-jardin-damien-dekarz/,
+      },
+    ]
 category:
   - Jardin
 tag:

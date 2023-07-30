@@ -5,17 +5,14 @@ date: 2023-01-06
 prev:
   text: "Toutes mes notes des vlogs d'Olivier"
   link: ../../../tag/potager-d-olivier/
-#next:
-#  text: ''
-#  link: ..//README.md
-#head:
-#  - [
-#      meta,
-#      {
-#        rel: canonical,
-#        href: url,
-#      },
-#    ]
+head:
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://jeremielitzler.fr/2023/01/en-janvier-pas-de-semis-ou-presque-le-potager-dolivier/,
+      },
+    ]
 category:
   - Jardin
 tag:
