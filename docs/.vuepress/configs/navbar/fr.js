@@ -11,7 +11,7 @@ export const frNavBarConfig = navbar([
       },
       {
         text: 'Par catégorie',
-        link: '/category/jardin',
+        link: '/category/jardin/',
       },
       {
         text: 'Par tag',

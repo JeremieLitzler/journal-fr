@@ -1,5 +1,5 @@
 ---
-title: Comment réduire son exposition à la lumiere bleue
+title: Réduire son exposition à la lumiere bleue
 description: Cela vous aidera beaucoup si vous passez beaucoup devant un écran
 date: 2021-08-25
 category:
