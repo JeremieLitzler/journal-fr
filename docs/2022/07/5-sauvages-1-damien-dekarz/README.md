@@ -1,5 +1,5 @@
 ---
-title: 5 sauvages N°1, par Permaculture, agroecologie, etc
+title: "5 sauvages autour de chez vous"
 description: Autour de chez vous, ces plantes se trouvent sûrement et il serait dommage de ne pas en profiter.
 heroImage: /images/2022-07-20-5-sauvages-1.jpg
 heroAlt: Une prairie garnie de fleurs variées

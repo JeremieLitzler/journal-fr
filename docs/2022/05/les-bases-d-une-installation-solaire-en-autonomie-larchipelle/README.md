@@ -1,6 +1,6 @@
 ---
-title: "Les bases d'une installation solaire en autonomie, par L'Archipelle"
-description: "Mes notes du Vlog réalisé par L'Archipelle"
+title: "Les bases d'une installation solaire en autonomie"
+description: "Réaliser son installation solaire n'est pas compliquée, mais cela requiert de la préparation et une bonne définition de son besoin."
 date: 2022-05-26
 head:
   - [
@@ -19,9 +19,11 @@ tag:
   - Résilience
 ---
 
-Merci à Brian et Rémi pour leur échange !
-Ce qui suit sont mes notes de la vidéo publiée sur la chaîne de l'Archipelle.
-Vous pouvez retrouver [la vidéo sur YouTube](https://www.youtube.com/watch?v=WOuTv0kfwRg).
+Réaliser son installation solaire n'est pas compliquée, mais cela requiert de la préparation et une bonne définition de son besoin.
+
+Merci à Brian et Rémi pour leur échange ! Ce qui suit sont mes notes de la vidéo publiée sur la chaîne de l'Archipelle. Vous pouvez retrouver [la vidéo sur YouTube](https://www.youtube.com/watch?v=WOuTv0kfwRg).
+
+<!-- more -->
 
 ## Pourquoi une installation solaire en autonomie
 
@@ -50,8 +52,7 @@ Il faut alors trouver une autre solution pour alimenter les gros appareils, par 
 
 ### Comment mesurer la consommation d'un appareil
 
-Il faut [un wattmètre](https://www.google.com/search?q=wattmetre).
-Cela donne plusieurs métriques : Wh, VA et la tension.
+Il faut [un wattmètre](https://www.google.com/search?q=wattmetre). Cela donne plusieurs métriques : Wh, VA et la tension.
 
 Par exemple, pour griller 10 tranches de pain, il faut 128 Wh sur quelques minutes.
 
@@ -59,16 +60,14 @@ Voir mon tableau sur le sujet [dans Google Sheet](https://docs.google.com/spread
 
 ## Calculer la consommation en mode dégradé
 
-Une fois que l’on connait sa consommation globale, il faut déterminer ce qu'on peut consommer quand la production solaire est moyenne ou mauvaise.
-Autrement dit, il faut se poser les questions suivantes :
+Une fois que l’on connait sa consommation globale, il faut déterminer ce qu'on peut consommer quand la production solaire est moyenne ou mauvaise. Autrement dit, il faut se poser les questions suivantes :
 
 - Qu’autorisons-nous d'utiliser dans la méthode ?
 - Devons-nous faire des concessions sur certains usages ?
 - Comment pouvons-nous remplacer un usage électrique en hiver ?
 - Comment pouvons-nous optimiser notre usage de la production PV en été ?
 
-Ainsi, avoir des appareils électriques peut-être instéressant, selon la période de l'année.
-Par exemple,
+Ainsi, avoir des appareils électriques peut-être instéressant, selon la période de l'année. Par exemple,
 
 - Utiliser une plaque électrique l'été à la place d'une cuisinière à bois est plus logique, car on ne veut pas chauffer la maison en été ! Et la plaque de cuisson électrique peut être programmée. C'est la cuisine d'été.
 - Pour faire griller le pain, si on est résilient, on utilisera le grille-pain l'été et la cuisinière à bois l'hiver.
@@ -77,8 +76,7 @@ Par exemple,
 - Pour couper le bois, on utilisera une tronçonneuse électrique pour couper le bois l'été.
 - Pour broyer les végétaux, pour tondre l'herbe avec des appareils électriques.
 
-En mode résilience, on doit multiplier le matériel.
-Le stockage va plus loin que l'usage de batteries.
+En mode résilience, on doit multiplier le matériel. Le stockage va plus loin que l'usage de batteries.
 
 ## Dimensionner les batteries
 
@@ -157,8 +155,7 @@ Plus on met de panneaux, plus les batteries vont durer et donc plus la rentabili
 
 On peut surdimensionner les panneaux, mais il faut surtout éviter un mauvais dimensionnement des batteries.
 
-Pour information, les panneaux peuvent durer largement au-delà des 40 ans.
-Les premières mesures en Savoie, en 1992, montrent 0,3 % de rendement en moins par an.
+Pour information, les panneaux peuvent durer largement au-delà des 40 ans. Les premières mesures en Savoie, en 1992, montrent 0,3 % de rendement en moins par an.
 
 Le nettoyage est **très important**, plus que la perte de rendement par vieillissement.
 
@@ -188,8 +185,7 @@ A suivre dans le futur quand je comparerai de plus près les deux systèmes pour
 
 ### "On regarde dehors pour faire le choix d'utiliser ceci ou cela"
 
-Il faut consommer quand c'est possible.
-Il faut choisir quand la production nécessite des choix (mode dégradé).
+Il faut consommer quand c'est possible. Il faut choisir quand la production nécessite des choix (mode dégradé).
 
 ### Coût d'autonomie
 

@@ -1,6 +1,6 @@
 ---
 isDraft: false
-title: 10 légumes à planter en octobre au potager, par Le potager d'Olivier
+title: 10 légumes à planter en octobre au potager
 description: Cet article résume mes notes du vlog réalisé par Olivier
 date: 2022-10-05
 heroImage: '/images/2022-10-05-10-legumes-a-planter-en-octobre-au-potager-le-potager-d-olivier-hero.jpg'
@@ -20,7 +20,13 @@ tag:
   - Potager d Olivier
 ---
 
+[Des semis de divers choux](/images/2022-10-05-10-legumes-a-planter-en-octobre-au-potager-le-potager-d-olivier-hero.jpg "Crédits : image extraite du vlog d'Olivier")
+
+C'est l'automne et le potager est encore bien actif. Que peut-on planter ce mois-ci ?
+
 Merci à Olivier pour le partage de son savoir ! Cet article résume mes notes du vlog. Vous pouvez retrouver [la vidéo sur YouTube](https://www.youtube.com/watch?v=awu7IKRwVw0).
+
+<!-- more -->
 
 ## Zones climatiques en France
 
@@ -44,9 +50,7 @@ Il n'y a pas de contraintes pour planter les cultures listées ci-dessous dans c
 
 ### Les fèves
 
-![Des fèves en fleurs](./images/feves.jpg)
-
-_Crédits de l'image : [Le Droit](https://www.ledroit.com/2019/04/11/legumes-originaux-pour-votre-potager-e9a764139ba81d9db4304da8a5b3fb26)_
+![Des fèves en fleurs](./images/feves.jpg "Crédits de l'image : [Le Droit](https://www.ledroit.com/2019/04/11/legumes-originaux-pour-votre-potager-e9a764139ba81d9db4304da8a5b3fb26)")
 
 On peut les planter en toutes les saisons, mais on n'aura pas la productivité des tomates.
 
@@ -58,23 +62,23 @@ Dans les climats plus froids, il est vraiment préférable d'attendre le printem
 
 De manière générale, on peut les tuteurer, mais dans l'idéal, il est préférable de retarder le plantage des fèves.
 
-![Des fèves sèches](./images/graine-de-feves-seches.jpg)
-
-_Credits : image extraite du vlog d'Olivier_
+![Des fèves sèches](./images/graine-de-feves-seches.jpg "Crédits : image extraite du vlog d'Olivier")
 
 Les fèves se sèment individuellement (espacées de 10-15cm) ou par poquet de 3 graines (plus espacées de 30-40cm).
 
-:::tip Information Les fèves font partie de la famille des _Fabaceae_, ou Leguminosae (Légumineuses). Cela signifie qu'elles capturent l'azote de l'air dans les racines.
+:::tip Information
 
-![Racines d'un plant de fèves](./images/racines-de-feves.jpg)
+Les fèves font partie de la famille des _Fabaceae_, ou Leguminosae (Légumineuses). Cela signifie qu'elles capturent l'azote de l'air dans les racines.
 
-_Credits : image extraite du vlog d'Olivier_
+![Racines d'un plant de fèves](./images/racines-de-feves.jpg "Crédits : image extraite du vlog d'Olivier")
 
 Elles sont donc un très bon engrais vert où on compostera les plants après la récolte.
 
 Cela permet d'enrichir le sol.
 
-Enfin, leurs racines puissantes décompactent bien le sol où elles ont poussé. :::
+Enfin, leurs racines puissantes décompactent bien le sol où elles ont poussé.
+
+:::
 
 ### L'ail
 
@@ -90,9 +94,13 @@ L'ail blanc et l'ail violet seront ceux que l'on plantera à l'automne.
 
 Toutes les régions sont concernées pour la plantation à ce moment de l'année.
 
-:::warning Important Les anciens disaient que l'ail ne s'enterre pas. Il fallait juste les recouvrir de terre meuble.
+:::warning Important
 
-On veut aussi faire affleurer les caïeux d'ail. :::
+Les anciens disaient que l'ail ne s'enterre pas. Il fallait juste les recouvrir de terre meuble.
+
+On veut aussi faire affleurer les caïeux d'ail.
+
+:::
 
 On peut se servir des caïeux d'ail achetés dans les magasins d'alimentation, toutefois, ceux issus de jardineries seront plus qualitatifs.
 
@@ -102,25 +110,29 @@ Il faudra un climat assez doux pour cette culture.
 
 Donc les climats 1 à 3 devront attendre le printemps tandis que les climats 4 à 8 peuvent commencer en octobre et novembre.
 
-:::warning Recommandation Il faut bien tuteurer des grillages, grilles ou filets sur les plants pour éviter qu'ils ne s'effondrent et qu'ils soient dans trop d'humidité au sol. :::
+:::warning Recommandation
+
+Il faut bien tuteurer des grillages, grilles ou filets sur les plants pour éviter qu'ils ne s'effondrent et qu'ils soient dans trop d'humidité au sol.
+
+:::
 
 Le semi se fait bien serré, tous les 2-3 cm.
 
-![Exemple de semi de petits pois](./images/semer-les-petits-pois.jpg)
-
-_Credits : image extraite du vlog d'Olivier_
+![Exemple de semi de petits pois](./images/semer-les-petits-pois.jpg "Crédits : image extraite du vlog d'Olivier")
 
 Les petits pois vont sortir de 20-30 cm quelques semaines après et la croissance stagnera le reste de l'hiver.
 
-:::tip Conseil d'Olivier Les petits pois à cosse lisse résistent mieux au froid que les petits pois à cosse ridée.
+:::tip Conseil d'Olivier
 
-Cela est spécifié sur les sachets de graines. :::
+Les petits pois à cosse lisse résistent mieux au froid que les petits pois à cosse ridée.
+
+Cela est spécifié sur les sachets de graines.
+
+:::
 
 ### Les artichauts
 
-![Plant d'artichauts](./images/plat-d-artichauts.jpg)
-
-_Credits : image extraite du vlog d'Olivier_
+![Plant d'artichauts](./images/plat-d-artichauts.jpg "Crédits : image extraite du vlog d'Olivier")
 
 La culture est possible dans tous les climats, mais en climats 1 à 3, il faudra pailler ou abriter les plants.
 
@@ -130,9 +142,7 @@ Si l'on a un grand plant,
 2. on fera ensuite ce qu'on appelle un habillage où l'on coupe une bonne partie des feuilles
 3. et on plante l'œilleton dans un godet avec une terre bien meuble.
 
-![Semi d'artichaut](./images/semi-d-artichaut.jpg)
-
-_Credits : image extraite du vlog d'Olivier_
+![Semi d'artichaut](./images/semi-d-artichaut.jpg "Crédits : image extraite du vlog d'Olivier")
 
 On réserve cette technique aux climats doux, même s'ils résistent aux gelées de -5°C.
 
@@ -160,25 +170,29 @@ L'échalote se plante aussi dans une terre bien meuble pour éviter l'excès d'h
 
 ### Les épinards
 
-![Champ d'épinards](./images/champ-d-epinard.jpg)
-
-_Credits : image extraite du vlog d'Olivier_
+![Champ d'épinards](./images/champ-d-epinard.jpg "Crédits : image extraite du vlog d'Olivier")
 
 On peut les planter depuis 2 mois et en ce mois d'octobre, on est encore bon pour en planter.
 
 L'épinard pousse bien à 15°C.
 
-:::warning Attention Dès que les gelées arrivent, on plantera ou on protègera sous abri à partir de décembre. :::
+:::warning Attention
+
+Dès que les gelées arrivent, on plantera ou on protègera sous abri à partir de décembre.
+
+:::
 
 Et...
 
-:::warning Les limaces... Voir [ce vlog d'Olivier](https://www.youtube.com/watch?v=j-dKPtWlsaY) pour ses astuces sur ces gastéropodes... :::
+:::warning Les limaces...
+
+Voir [ce vlog d'Olivier](https://www.youtube.com/watch?v=j-dKPtWlsaY) pour ses astuces sur ces gastéropodes...
+
+:::
 
 ### Les oignons
 
-![Jeunes oignons sortant de terre](./images/jeunes-oignons-sortant-de-terre.jpg)
-
-_Credits : image extraite du vlog d'Olivier_
+![Jeunes oignons sortant de terre](./images/jeunes-oignons-sortant-de-terre.jpg "Crédits : image extraite du vlog d'Olivier")
 
 Cette culture est réservée aux régions aux climats 4 à 8 pour une culture à partir d'octobre. Pour les autres climats, on attendra le printemps, car il y a un trop gros risque que cela pourrisse à cause du gel.
 
@@ -200,9 +214,7 @@ Donc,
 - aux climats 1 à 3, on les plantera au printemps
 - pour le reste, on s'adaptera à la météo, mais il est possible de planter toute l'année.
 
-![Un chou vert](./images/choux-vert.jpg)
-
-_Credits : image extraite du vlog d'Olivier_
+![Un chou vert](./images/choux-vert.jpg "Crédits : image extraite du vlog d'Olivier")
 
 ### Les engrais verts
 

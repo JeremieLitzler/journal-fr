@@ -1,6 +1,6 @@
 ---
 isDraft: false
-title: Que faire au jardin en Octobre, par Permaculture, agroecologie, etc
+title: Que faire au jardin en Octobre
 description: Cet article résume mes notes du vlog réalisé par Permaculture, agroecologie, etc
 date: 2022-10-11
 heroImage: '/images/2022-10-11-que-faire-au-jardin-en-octobre--permaculture--agroecologie--etc-hero.jpg'
@@ -26,6 +26,8 @@ Merci à Damien pour le partage de son savoir ! Cet article résume mes notes du
 
 Vous pouvez retrouver [la vidéo sur YouTube](https://www.youtube.com/watch?v=GswUGxztnpU).
 
+<!-- more -->
+
 ## Rappel du mois de septembre
 
 Ce qui est valable en septembre l'est encore en octobre. Voir [ce vlog de Damien](https://www.youtube.com/watch?v=con-c2_o9uc).
@@ -34,9 +36,13 @@ Ce qui est valable en septembre l'est encore en octobre. Voir [ce vlog de Damien
 
 Au début, de l'automne, il est intéressant de penser aux arbres que l'on va planter en fin d'automne et en hiver.
 
-:::tip Astuce de Damien Dans le choix des arbres, pensez à la fructification sur une année. Certains produisent tôt, d'autres tard.
+:::tip Astuce de Damien
 
-On peut avoir une production sur toute l'année. :::
+Dans le choix des arbres, pensez à la fructification sur une année. Certains produisent tôt, d'autres tard.
+
+On peut avoir une production sur toute l'année.
+
+:::
 
 Par exemple, en hiver, on peut récolter des fruits de :
 
@@ -49,9 +55,13 @@ Par exemple, en hiver, on peut récolter des fruits de :
 - Actinidia ou "Kiwi,
 - Goji : c'est facile à planter et à bouturer.
 
-:::tip Note personnelle Je me demande si l'on démarre des gojis à partir des graines qu'on achète en magasin bio.
+:::tip Note personnelle
 
-ça fait un moment que je pense à essayer. :::
+Je me demande si l'on démarre des gojis à partir des graines qu'on achète en magasin bio.
+
+ça fait un moment que je pense à essayer.
+
+:::
 
 ## Les semis et plantations
 
@@ -61,7 +71,9 @@ On peut encore réaliser certains semis :
 - en plein air : Fèves, petits pois, Blés, Seigles, etc.
 - en plantations : Poireaux, Laitues, Choux, Aix, Oignons, etc.
 
-:::tip Astuce de Damien Semer des céréales permet d'atteindre 2 objectifs :
+:::tip Astuce de Damien
+
+Semer des céréales permet d'atteindre 2 objectifs :
 
 1. obtenir du paillage pour le sol.
 2. obtenir de la nourriture des éventuelles poules.
@@ -125,9 +137,13 @@ Si vous avez des planches de récupération (**non traitées**), on peut aussi l
 
 Bien sûr, cela peut varier selon l'essence du bois de ces planches. On évitera les essences de bois trop riches en tanins.
 
-:::tip Conseil de Damien Utiliser toujours les outils les plus modernes !
+:::tip Conseil de Damien
 
-![Une brouette rouillée avec une roue en bois](./images/brouette.jpg 'Crédits : image extraite du vlog de Damien') :::
+Utiliser toujours les outils les plus modernes !
+
+![Une brouette rouillée avec une roue en bois](./images/brouette.jpg 'Crédits : image extraite du vlog de Damien')
+
+:::
 
 ## Les champignons
 

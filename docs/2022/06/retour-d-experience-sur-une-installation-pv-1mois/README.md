@@ -1,5 +1,5 @@
 ---
-title: "Installation PV - quel retour d'expérience après 2 mois calendaires complets ?"
+title: "Installation PV - retour d'expérience après 2 mois calendaires complets ?"
 description: 'Fin Mars 2022, nous avons mis en service notre installation photovoltaïque. Regardons les données et les conclusions à la fin Mai 2022'
 date: 2022-06-01
 head:
@@ -18,8 +18,6 @@ tag:
   - Eau chaude sanitaire
 ---
 
-## Présentation
-
 Il y a 7 ans, nous avons acheté notre maison et la propriété fait environ 4000 m², en terrasse très rocheuse (AOC _Saint Joseph_ en Ardèche).
 
 Ce n'était rien de très accueillant pour planter quelque chose (on a essayé et l'on continue d'essayer avec la méthode ["_No Dig_" de Charles Dowding](https://www.youtube.com/c/CharlesDowding1nodig) et [les conseils de Damien Dekarz](https://www.youtube.com/c/permacultureetc)...), mais qui semblait exploitable pour poser quelques panneaux PV.
@@ -28,9 +26,9 @@ Ce n'était rien de très accueillant pour planter quelque chose (on a essayé e
 
 ## La série d'articles
 
-- [Installation PV - quel retour d'expérience après 9 mois ? (partie 1)](../../12/retour-d-experience-sur-une-installation-pv-9mois-partie-1/README.md)
-- [Installation PV - quel retour d'expérience après 9 mois ? (partie 2)](../../12/retour-d-experience-sur-une-installation-pv-9mois-partie-2/README.md)
-- [Installation PV - quel retour d'expérience après 1 an ?](../../../2023/03/retour-d-experience-sur-une-installation-pv-1an/README.md)
+- [Installation PV - retour d'expérience après 9 mois ? (partie 1)](../../12/retour-d-experience-sur-une-installation-pv-9mois-partie-1/README.md)
+- [Installation PV - retour d'expérience après 9 mois ? (partie 2)](../../12/retour-d-experience-sur-une-installation-pv-9mois-partie-2/README.md)
+- [Installation PV - retour d'expérience après 1 an ?](../../../2023/03/retour-d-experience-sur-une-installation-pv-1an/README.md)
 
 <hr>
 
@@ -62,20 +60,20 @@ Voici ce que ça donne depuis 2014 :
 
 - notre consommation annuelle tout compris :
 
-| Month | 2014   | 2015    | 2016    | 2017    | 2018    | 2019    | 2020    | 2021    | 2022   |
-| ----- | ------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------ |
-| 1     |        | 306,00  | 331,00  | 334,00  | 273,00  | 313,00  | 305,00  | 320,00  | 417,00 |
-| 2     |        | 452,00  | 288,00  | 250,00  | 270,00  | 270,00  | 353,00  | 295,00  | 100,00 |
-| 3     |        | 270,00  | 296,00  | 252,00  | 188,00  | 293,00  | 310,00  | 260,00  | 268,00 |
-| 4     |        | 157,00  | 211,00  | 81,00   | 195,00  | 141,00  | 246,00  | 253,00  | 118,00 |
-| 5     |        | 292,00  | 221,00  | 254,00  | 200,00  | 238,00  | 217,00  | 213,00  | 79,00  |
-| 6     |        | 265,00  | 176,00  | 88,00   | 172,00  | 182,00  | 258,00  | 156,00  |        |
-| 7     |        | 123,45  | 205,00  | 191,00  | 171,00  | 191,00  | 191,00  | 82,00   |        |
-| 8     |        | 213,59  | 138,00  | 194,00  | 86,00   | 132,00  | 116,00  | 187,00  |        |
-| 9     |        | 137,96  | 174,00  | 182,00  | 132,00  | 204,00  | 198,00  | 58,00   |        |
-| 10    | 0,00   | 265,00  | 141,00  | 164,00  | 219,00  | 139,00  | 214,00  | 347,00  |        |
-| 11    | 373,00 | 218,00  | 254,00  | 251,00  | 304,00  | 313,00  | 277,00  | 298,00  |        |
-| 12    | 332,00 | 358,00  | 292,00  | 291,00  | 305,00  | 382,00  | 334,00  | 369,00  |        |
+| Month | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 |  | 306,00 | 331,00 | 334,00 | 273,00 | 313,00 | 305,00 | 320,00 | 417,00 |
+| 2 |  | 452,00 | 288,00 | 250,00 | 270,00 | 270,00 | 353,00 | 295,00 | 100,00 |
+| 3 |  | 270,00 | 296,00 | 252,00 | 188,00 | 293,00 | 310,00 | 260,00 | 268,00 |
+| 4 |  | 157,00 | 211,00 | 81,00 | 195,00 | 141,00 | 246,00 | 253,00 | 118,00 |
+| 5 |  | 292,00 | 221,00 | 254,00 | 200,00 | 238,00 | 217,00 | 213,00 | 79,00 |
+| 6 |  | 265,00 | 176,00 | 88,00 | 172,00 | 182,00 | 258,00 | 156,00 |  |
+| 7 |  | 123,45 | 205,00 | 191,00 | 171,00 | 191,00 | 191,00 | 82,00 |  |
+| 8 |  | 213,59 | 138,00 | 194,00 | 86,00 | 132,00 | 116,00 | 187,00 |  |
+| 9 |  | 137,96 | 174,00 | 182,00 | 132,00 | 204,00 | 198,00 | 58,00 |  |
+| 10 | 0,00 | 265,00 | 141,00 | 164,00 | 219,00 | 139,00 | 214,00 | 347,00 |  |
+| 11 | 373,00 | 218,00 | 254,00 | 251,00 | 304,00 | 313,00 | 277,00 | 298,00 |  |
+| 12 | 332,00 | 358,00 | 292,00 | 291,00 | 305,00 | 382,00 | 334,00 | 369,00 |  |
 | Total | 705,00 | 3058,00 | 2727,00 | 2532,00 | 2515,00 | 2798,00 | 3019,00 | 2838,00 | 982,00 |
 
 - notre consommation en ESC :
@@ -102,21 +100,21 @@ Cela a confirmé l'estimation de 30 % consommation par le cumulus.
 
 J'ai aussi réalisé une simulation d'ensoleillement avec l'outil ["PHOTOVOLTAIC GEOGRAPHICAL INFORMATION SYSTEM"](https://re.jrc.ec.europa.eu/pvg_tools/fr/#PVP) au niveau du toit de la maison (point le plus bas de la propriété) et au niveau de la terrasse la plus haute sur la propriété (pour le plus ensoleillé).
 
-| Mois         | Heures (toit de la maison)  | Heures (terrasse) | Diff. en % d'ensoleillement |
-| ------------ | --------------------------- | ----------------- | --------------------------- |
-| 1            | 124,07                      | 191,80            | + 35,31%                    |
-| 2            | 174,13                      | 230,27            | + 24,38%                    |
-| 3            | 274,47                      | 313,67            | + 12,50%                    |
-| 4            | 328,07                      | 358,20            | + 8,41%                     |
-| 5            | 386,80                      | 435,40            | + 11,16%                    |
-| 6            | 394,93                      | 443,87            | + 11,02%                    |
-| 7            | 398,93                      | 450,27            | + 11,40%                    |
-| 8            | 359,47                      | 398,27            | + 9,74%                     |
-| 9            | 293,93                      | 325,20            | + 9,61%                     |
-| 10           | 228,87                      | 281,20            | + 18,61%                    |
-| 11           | 140,40                      | 210,27            | + 33,23%                    |
-| 12           | 105,33                      | 162,47            | + 35,17%                    |
-| Annuellement | 3209,40                     | 3800,87           | + 15,56%                    |
+| Mois | Heures (toit de la maison)  | Heures (terrasse) | Diff. en % d'ensoleillement |
+| --- | --- | --- | --- |
+| 1 | 124,07 | 191,80 | + 35,31% |
+| 2 | 174,13 | 230,27 | + 24,38% |
+| 3 | 274,47 | 313,67 | + 12,50% |
+| 4 | 328,07 | 358,20 | + 8,41% |
+| 5 | 386,80 | 435,40 | + 11,16% |
+| 6 | 394,93 | 443,87 | + 11,02% |
+| 7 | 398,93 | 450,27 | + 11,40% |
+| 8 | 359,47 | 398,27 | + 9,74% |
+| 9 | 293,93 | 325,20 | + 9,61% |
+| 10 | 228,87 | 281,20 | + 18,61% |
+| 11 | 140,40 | 210,27 | + 33,23% |
+| 12 | 105,33 | 162,47 | + 35,17% |
+| Annuellement | 3209,40 | 3800,87 | + 15,56% |
 
 Comme vous le voyez, il n'y a pas photo !
 
@@ -139,9 +137,7 @@ Aussi, le fait que l'installation ne pouvait être réalisée sur le toit de la 
 
 En mai 2022, le réseau achète le surplus [6 à 10 centimes](https://www.insunwetrust.solar/blog/le-solaire-et-vous/tarif-rachat-photovoltaique/#:~:text=%F0%9F%92%B0%20Quel%20est%20le%20montant,0%2C10%20%E2%82%AC%20par%20kWh.) alors qu'il me le vend entre 17 et 22 centimes (mon tarif HC-HP chez Engie en mai 2022).
 
-Fin 2021, je reçois un email sur mon alerte du "Leboncoin" intitulé "panneaux photovoltaïques".
-Il s'agissait d'un artisan qui promouvait ses services pour utiliser la solution photovoltaïque pour l'ECS à plus ou moins 1000 euros.
-Je me dis _C'est dans mon budget et l'artisan que je recherchais !_.
+Fin 2021, je reçois un email sur mon alerte du "Leboncoin" intitulé "panneaux photovoltaïques". Il s'agissait d'un artisan qui promouvait ses services pour utiliser la solution photovoltaïque pour l'ECS à plus ou moins 1000 euros. Je me dis _C'est dans mon budget et l'artisan que je recherchais !_.
 
 ## Présentation de l'installation
 
@@ -170,8 +166,7 @@ Du 1er avril et 31 mai, nous avons :
 | avril | 160,6         | 147,6              | 13                          |
 | mai   | 210,4         | 186,4              | 24                          |
 
-Nous avons donc une belle consommation de la production (> 90%).
-Il y aurait moins d'injection si :
+Nous avons donc une belle consommation de la production (> 90%). Il y aurait moins d'injection si :
 
 - j'avais branché la pince ampère-métrique du routeur solaire dans le bon sens, ce que j'ai réalisé le 4 avril seulement !
 - nous avions un système de stockage du surplus pour soit :
@@ -194,8 +189,7 @@ C'est dommage vu qu'on ne peut pas revendre quand les panneaux sont installés a
 
 Il est très efficace.
 
-J'ai observé qu'on injecte environ 100Wh sur le réseau avec le routeur solaire, soit 1kWh tous les 10 jours.
-C'est très marginal et acceptable.
+J'ai observé qu'on injecte environ 100Wh sur le réseau avec le routeur solaire, soit 1kWh tous les 10 jours. C'est très marginal et acceptable.
 
 Par contre, les compteurs mécaniques, que j'ai mis aux sorties du routeur, ne permettent pas de compter les kWh précisément si la résistance est le chauffe-eau, car la puissance produite est bien inférieure à la puissance utilisée du chauffe-eau.
 
@@ -217,17 +211,13 @@ S'il fait plus mauvais, il y aurait 2 jours d'eau chaude en stock après une bel
 
 Je me suis posé la question d'installer un deuxième cumulus de 200 litres pour stocker sous forme d'eau chaude la production solaire.
 
-Toutefois, c'est un investissement de 700 à 800 euros et le besoin n'y est pas vraiment vu qu'on n'a pas d'utilité de 400 litres en réalité.
-Nous accueillons 2 à 3 personnes de plus que très rarement dans l'année.
+Toutefois, c'est un investissement de 700 à 800 euros et le besoin n'y est pas vraiment vu qu'on n'a pas d'utilité de 400 litres en réalité. Nous accueillons 2 à 3 personnes de plus que très rarement dans l'année.
 
 ### Problème de gestion entre l'alimentation par le routeur et par le connecteur HC/HP
 
-Comme le montre le diagramme de l'installation, j'ai mis en parallèle les deux alimentations du chauffe-eau.
-Toutefois, il faudrait que je puisse avoir un interrupteur qui commande la source d'alimentation à côté du routeur plutôt que de le faire manuellement dans le garage.
+Comme le montre le diagramme de l'installation, j'ai mis en parallèle les deux alimentations du chauffe-eau. Toutefois, il faudrait que je puisse avoir un interrupteur qui commande la source d'alimentation à côté du routeur plutôt que de le faire manuellement dans le garage.
 
-Il y a aussi des comportements bizarres sur l'efficacité du contacteur où il ne reçoit pas le signal ou il y a absence du signal d'Enedis.
-Je ne sais pas s'il s'agit d'un mauvais branchement ou d'un souci du réseau.
-En effet, avant l'installation du Linky, nous avions eu des incohérences où le contacteur était _actif_ en journée alors qu'il était sur le mode _Auto_...
+Il y a aussi des comportements bizarres sur l'efficacité du contacteur où il ne reçoit pas le signal ou il y a absence du signal d'Enedis. Je ne sais pas s'il s'agit d'un mauvais branchement ou d'un souci du réseau. En effet, avant l'installation du Linky, nous avions eu des incohérences où le contacteur était _actif_ en journée alors qu'il était sur le mode _Auto_...
 
 ### Consommation journalière avec présence
 

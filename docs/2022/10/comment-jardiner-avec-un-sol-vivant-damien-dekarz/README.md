@@ -1,7 +1,7 @@
 ---
 isDraft: false
-title: Comment jardiner avec un sol vivant, par Permaculture, agroécologie, etc
-description: Cet article résume mes notes du vlog réalisé par Permaculture, agroécologie, etc
+title: Comment jardiner avec un sol vivant ?
+description: "Un sol vivant est le moyen le plus efficace de jardiner et ce n'est pas complexe à mettre en oeuvre. Par contre, il faut de la patience..."
 date: 2020-10-12
 heroImage: '/images/2022-10-12-comment-jardiner-avec-un-sol-vivant-permaculture--agroecologie--etc-hero.png'
 heroAlt: Image diagramme décrivant le cycle d'échanges entre les plantes et les mycorhizes
@@ -22,13 +22,15 @@ tag:
   - Champignons
 ---
 
-![Image diagramme décrivant le cycle d'échanges entre les plantes et les mycorhizes](./images/2022-10-12-comment-jardiner-avec-un-sol-vivant-permaculture--agroecologie--etc-hero.png)
+![Image diagramme décrivant le cycle d'échanges entre les plantes et les mycorhizes](./images/2022-10-12-comment-jardiner-avec-un-sol-vivant-permaculture--agroecologie--etc-hero.png "Crédits : image extraite de l'article Wikipedia ['Réseau mycorhizien'](https://fr.wikipedia.org/wiki/R%C3%A9seau_mycorhizien)")
 
-_Credits : image extraite de l'article Wikipedia ["Réseau mycorhizien"](https://fr.wikipedia.org/wiki/R%C3%A9seau_mycorhizien)_
+Un sol vivant est le moyen le plus efficace de jardiner et ce n'est pas complexe à mettre en oeuvre. Par contre, il faut de la patience...
 
 Merci à Damien pour le partage de son savoir ! Cet article résume mes notes du vlog réalisé par Permaculture, agroécologie, etc.
 
 Vous pouvez retrouver [la vidéo sur YouTube](https://www.youtube.com/watch?v=WApK6d1ucz4).
+
+<!-- more -->
 
 ## Pourquoi de la vie dans le sol
 
@@ -136,7 +138,11 @@ Pour un mètre de racine, il y a 1000 mètres de réseaux mycéliens.
 
 En mettant des engrais dans le sol, on détruit à la fois le support des mycorhizes aux plantes et on rend les plantes dépendantes de nos engrais, qui n'importent pas le même équilibre que la nature.
 
-:::tip Important à savoir 80% des plantes sont mycorhiziennes :::
+:::tip Important à savoir
+
+80% des plantes sont mycorhiziennes
+
+:::
 
 ## N'utilisez pas les engrais
 
@@ -144,9 +150,13 @@ Le cuivre par exemple, autorisé en agriculture biologique, détruit les mycorhi
 
 Ça empêche vraiment les plantes de devenir autonomes...
 
-:::tip Fait intéressant Le plus grand champignon vit en Orégon. On le nomme _Armillaria gallica_.
+:::tip Fait intéressant
 
-Il serait le plus grand organisme vivant du monde, en s'étendant sur 8.9 km² et pesant environ 400 à 600 tonnes. :::
+Le plus grand champignon vit en Orégon. On le nomme _Armillaria gallica_.
+
+Il serait le plus grand organisme vivant du monde, en s'étendant sur 8.9 km² et pesant environ 400 à 600 tonnes.
+
+:::
 
 ## Les bactéries
 

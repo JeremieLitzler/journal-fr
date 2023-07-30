@@ -1,6 +1,6 @@
 {
   "name": "journal-fr",
-  "version": "1.0.679",
+  "version": "1.0.680",
   "description": "e partage mes notes et expériences pour tous",
   "main": "index.js",
   "repository": "https://github.com/JeremieLitzler/journal-fr",
