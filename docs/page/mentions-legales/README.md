@@ -25,7 +25,7 @@ article: false
 
 **Utilisateur :** Internaute se connectant, utilisant le site susnommé. **Informations personnelles :** « Les informations qui permettent, sous quelque forme que ce soit, directement ou non, l'identification des personnes physiques auxquelles elles s'appliquent » (article 4 de la loi n° 78-17 du 6 janvier 1978). Les termes « données à caractère personnel », « personne concernée », « sous traitant » et « données sensibles » ont le sens défini par le Règlement Général sur la Protection des Données (RGPD : n° 2016-679)
 
-## 1. Présentation du site internet.
+## 1. Présentation du site internet
 
 En vertu de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, il est précisé aux utilisateurs du site internet [https://jeremielitzler.fr](https://jeremielitzler.fr) l'identité des différents intervenants dans le cadre de sa réalisation et de son suivi: **Propriétaire** : Jeremie Litzler – 675 Chemin d'Andéol 07300 TOURNON-SUR-RHONE
 
@@ -33,13 +33,13 @@ En vertu de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance
 
 **Webmaster** : Jeremie Litzler – "jeremie . litzler @ gmail . com"
 
-**Hébergeur** : Netlify, Inc. – 44 Montgomery Street, Suite 300 94104 San Francisco, California support@netlify.com
+**Hébergeur** : Netlify, Inc. – 44 Montgomery Street, Suite 300 94104 San Francisco, California [support@netlify.com](support@netlify.com)
 
 **Délégué à la protection des données** : Jérémie Litzler – "jeremie . litzler @ gmail . com"
 
 _Ces mentions légales RGPD sont issues du [générateur gratuit offert par Orson.io](https://fr.orson.io/1371/generateur-mentions-legales")_
 
-## 2. Conditions générales d’utilisation du site et des services proposés.
+## 2. Conditions générales d’utilisation du site et des services proposés
 
 Le Site constitue une œuvre de l’esprit protégée par les dispositions du Code de la Propriété Intellectuelle et des Réglementations Internationales applicables. Le Client ne peut en aucune manière réutiliser, céder ou exploiter pour son propre compte tout ou partie des éléments ou travaux du Site.
 
@@ -47,13 +47,13 @@ L’utilisation du site [https://jeremielitzler.fr](https://jeremielitzler.fr) i
 
 Ce site internet est normalement accessible à tout moment aux utilisateurs. Une interruption pour raison de maintenance technique peut être toutefois décidée par [https://jeremielitzler.fr](https://jeremielitzler.fr), qui s’efforcera alors de communiquer préalablement aux utilisateurs les dates et heures de l’intervention. Le site web [https://jeremielitzler.fr](https://jeremielitzler.fr) est mis à jour régulièrement par [https://jeremielitzler.fr](https://jeremielitzler.fr) responsable. De la même façon, les mentions légales peuvent être modifiées à tout moment : elles s’imposent néanmoins à l’utilisateur qui est invité à s’y référer le plus souvent possible afin d’en prendre connaissance.
 
-## 3. Description des services fournis.
+## 3. Description des services fournis
 
 Le site internet [https://jeremielitzler.fr](https://jeremielitzler.fr) a pour objet de fournir une information concernant l’ensemble des activités de la société. [https://jeremielitzler.fr](https://jeremielitzler.fr) s’efforce de fournir sur le site [https://jeremielitzler.fr](https://jeremielitzler.fr) des informations aussi précises que possible. Toutefois, il ne pourra être tenu responsable des oublis, des inexactitudes et des carences dans la mise à jour, qu’elles soient de son fait ou du fait des tiers partenaires qui lui fournissent ces informations.
 
 Toutes les informations indiquées sur le site [https://jeremielitzler.fr](https://jeremielitzler.fr) sont données à titre indicatif, et sont susceptibles d’évoluer. Par ailleurs, les renseignements figurant sur le site [https://jeremielitzler.fr](https://jeremielitzler.fr) ne sont pas exhaustifs. Ils sont donnés sous réserve de modifications ayant été apportées depuis leur mise en ligne.
 
-## 4. Limitations contractuelles sur les données techniques.
+## 4. Limitations contractuelles sur les données techniques
 
 Le site utilise la technologie JavaScript.
 
@@ -100,8 +100,6 @@ En tant que responsable du traitement des données qu’il collecte, [https://je
 - pour mener des enquêtes de satisfaction facultatives sur [https://jeremielitzler.fr](https://jeremielitzler.fr) : adresse email
 - pour mener des campagnes de communication (sms, mail) : numéro de téléphone, adresse email
 
-</ul>
-
 [https://jeremielitzler.fr](https://jeremielitzler.fr) ne commercialise pas vos données personnelles qui sont donc uniquement utilisées par nécessité ou à des fins statistiques et d’analyses.
 
 ### 7.3 Droit d’accès, de rectification et d’opposition
@@ -145,7 +143,7 @@ Concernant les utilisateurs d’un Site [https://jeremielitzler.fr](https://jere
 
 [https://jeremielitzler.fr](https://jeremielitzler.fr) collecte en outre des informations qui permettent d’améliorer l’expérience utilisateur et de proposer des conseils contextualisés : Aucune
 
-Ces données sont conservées pour une période maximale de 9 mois après la fin de la relation contractuelle</div>
+Ces données sont conservées pour une période maximale de 9 mois après la fin de la relation contractuelle
 
 ## 8. Notification d’incident
 
@@ -168,9 +166,6 @@ Le site [https://jeremielitzler.fr](https://jeremielitzler.fr) contient un certa
 Un « cookie » est un petit fichier d’information envoyé sur le navigateur de l’Utilisateur et enregistré au sein du terminal de l’Utilisateur (ex : ordinateur, smartphone), (ci-après « Cookies »). Ce fichier comprend des informations telles que le nom de domaine de l’Utilisateur, le fournisseur d’accès Internet de l’Utilisateur, le système d’exploitation de l’Utilisateur, ainsi que la date et l’heure d’accès. Les Cookies ne risquent en aucun cas d’endommager le terminal de l’Utilisateur.
 
 **A ce jour, [https://jeremielitzler.fr](https://jeremielitzler.fr) n'utilise aucun cookie. L'utilisateur peut le vérifier en utilisant une extension comme "EditThisCookie" disponible sur Chrome Web Store pour Google Chrome ou tout autre extension de son choix sur son navigateur Internet préféré.**
-
-<!--[https://jeremielitzler.fr](https://jeremielitzler.fr) est susceptible de traiter les informations de l’Utilisateur concernant sa visite du Site, telles que les pages consultées, les recherches effectuées. Ces informations permettent à [https://jeremielitzler.fr](https://jeremielitzler.fr) d’améliorer le contenu du Site, de la navigation de l’Utilisateur.
- -->
 
 Les Cookies facilitant la navigation et/ou la fourniture des services proposés par le Site, l’Utilisateur peut configurer son navigateur pour qu’il lui permette de décider s’il souhaite ou non les accepter de manière à ce que des Cookies soient enregistrés dans le terminal ou, au contraire, qu’ils soient rejetés, soit systématiquement, soit selon leur émetteur. L’Utilisateur peut également configurer son logiciel de navigation de manière à ce que l’acceptation ou le refus des Cookies lui soient proposés ponctuellement, avant qu’un Cookie soit susceptible d’être enregistré dans son terminal. [https://jeremielitzler.fr](https://jeremielitzler.fr) informe l’Utilisateur que, dans ce cas, il se peut que les fonctionnalités de son logiciel de navigation ne soient pas toutes disponibles.
 
