@@ -3,13 +3,10 @@ title: "Une maison semi-enterrée en autonomie"
 description: "Les géonefs, ou earthship, se multiplient de plus en plus en France. Celui dans les Hautes Alpes a été construit pour s'adapter aux normes françaises, mais surtout au climat de la France."
 heroImage: /images/2023-08-15-vue-aerienne-du-geonef-inspire.jpg
 heroAlt: Vue aérienne du géonef inspiré
-date: 2023-08-15
+date: 2023-08-07
 prev:
-  text: "Toutes mes notes des vlogs de Damien Dekarz"
+  text: "Toutes mes notes des vlogs de l'Archipelle"
   link: ../../../tag/brian-ejarque/
-#next:
-#  text: ''
-#  link: ..//README.md
 head:
   - [
       link,
@@ -23,6 +20,7 @@ category:
 tag:
   - Brian Ejarque
   - Earthship
+  - Géonef
 ---
 
 ![Vue aérienne du géonef inspiré](/images/2023-08-15-vue-aerienne-du-geonef-inspire.jpg 'Crédits : image extraite du vlog de Brian Ejarque')
@@ -91,6 +89,8 @@ Autre élément de l’autonomie, avoir des poules permet d’obtenir des apport
 
 ## La serre
 
+![Vue dans la serre en une journée ensoleillée](./images/vue-dans-la-serre-en-une-journee-ensoleillee.jpg "Crédits : image extraite du vlog de L'Archipelle")
+
 Dans celle de l’habitat de Luc et Magalie, elle est orientée légèrement Sud-Est pour éviter les très grosses surchauffes estivales.
 
 Il faut aussi ne pas oublier de prévoir une _casquette_ pour la serre. En effet, ce n’est pas un problème l’hiver, car on veut que le maximum de rayons de soleil rentre, mais en été, si l’on fait comme Luc et Magalie, il peut faire très chaud dans la serre.
@@ -119,17 +119,19 @@ Grâce aux fenêtres coulissantes entre l’intérieur de la maison et la serre,
 
 Mais l’apport calorifique par le soleil ne serait rien sans le mur nord avec une masse thermique de 2 rangées de pneus, d’un mètre de terre en épaisseur totale et d'une couche d'isolant (non nommé dans la vidéo).
 
-Ils ont isolé entre la serre et l’intérieur de la maison avec de la laine de bois (je dirai entre 10 et 15 cm à vue d’œil sur la vidéo à [53:00](https://youtu.be/uZFoSpYNTFk?t=3180)).
-
 ![Isolation en laine de bois entre la serre et l’intérieur de l’habitat](./images/isolation-en-laine-de-bois-entre-la-serre-et-l-interieur-de-l-habitat.jpg 'Crédits : image extraite du vlog de L’Archipelle')
 
+Ils ont isolé entre la serre et l’intérieur de la maison avec de la laine de bois (je dirai entre 10 et 15 cm à vue d’œil sur la vidéo à [53:00](https://youtu.be/uZFoSpYNTFk?t=3180)).
+
 ## Le mur de pneus
+
+![Le mur de pneus en cours de finition](./images/le-mur-de-pneus-en-cours-de-finition.jpg "Crédits : image extraite du vlog de L'Archipelle")
 
 Dans le cas de ce géonef, les pneus usagés de voiture ont été utilisés. Ceux-ci sont normalement brûlés pour faire du ciment (pas top en terme d’émissions toxiques…), mais, dans le cas du géonef, ils sont remplis de terre et enterrés, loin des rayons du soleil et de l'oxygène de l'air. Ainsi, aucune émission toxique n’est pas possible.
 
 Une étude l’a démontré d'après Luc.
 
-:::note Lien vers l’étude sur la toxicité
+:::tip Lien vers l’étude sur la toxicité
 
 J’ai trouvé [cette étude](https://www.sciencedirect.com/science/article/abs/pii/S0141029622003145) **en anglais** réalisée en Australie, mais, comme elle est payante, je ne sais pas si elle mentionne la toxicité des pneus enterrés.
 
@@ -149,7 +151,9 @@ L’épaisseur des murs est étudiée pour accumuler 6 mois de l’année et re
 
 Avec ce type de mur, Luc et Magalie ont 23 °C dans l’habitat avec plus de 40 °C dans la serre.
 
-Pendant la construction, ils ont découpé le flanc haut pour des raisons pratiques. À la masse, ils ont tassé la terre et cela constitue le mur calorifique.
+Pendant la construction, ils ont découpé un flanc pour des raisons pratiques. À la masse, ils ont tassé la terre et cela constitue le mur calorifique.
+
+![Un pneu en cours de remplissage de terre](./images/un-pneu-en-cours-de-remplissage-de-terre.jpg "Crédits : image extraite du vlog de L'Archipelle")
 
 Le mur est complété d’un enduit argile-paille à l'intérieur de l'habitat pour ses propriétés hydro-régulatrices. Derrière les pneus, ils ont mis 1 mètre de terre, un isolant, une étanchéité et un mur drainant, obligatoire quand on est sous terre afin de diriger les écoulements d'eau hors de l'habitat.
 
@@ -169,6 +173,8 @@ Le côté est reste ouvert, pour la luminosité supplémentaire, et le mur a ét
 
 ## La climatisation
 
+![Fenêtre de ventilation de l'intérieur à la serre](./images/fenetre-de-ventilation-de-l-interieur-a-la-serre.jpg "Crédits : image extraite du vlog de L'Archipelle")
+
 Pour éviter la surchauffe, des puits de ventilation courent dans le mur sur 6 mètres à l’horizontale et 3 mètres à la verticale. La température à 1,5 mètre de profondeur, et au-delà, est de 13 °C et cela est utile en été.
 
 En hiver, ils sont fermés.
@@ -186,7 +192,7 @@ C’est important à savoir, surtout pour ceux qui n’aimeraient pas les grands
 
 ## Cuisine
 
-Luc et Magalie utilisent le gaz, qu’ils aimeraient produire eux-mêmes grâce à la formation de [picojoules]() sur la production de biogaz.
+Luc et Magalie utilisent le gaz, qu’ils aimeraient produire eux-mêmes grâce à la formation de [picojoules](https://www.picojoule.org/) sur la production de biogaz.
 
 :::tip Note personnelle
 
@@ -222,13 +228,9 @@ Il y a 5 cuves de 5000 litres, ce qui peut paraitre surdimensionnés, mais ave
 
 Dans le cas de Luc et Magalie, ils utilisent l’eau pour le sanitaire et la consommation d’eau potable. Toutefois, à terme, il n’est pas exclu qu’ils l’utilisent aussi pour le jardin.
 
-Le système de remplissage de chaque cuve par trop plein a été réalisé comme le recommande [Pierre l’écoleau](). Du coup, à la cinquième cuve, l’eau est limpide.
+Le système de remplissage de chaque cuve par trop plein a été réalisé comme le recommande [Pierre l’écoleau](https://www.ec-eau-logis.com/). Du coup, à la cinquième cuve, l’eau est limpide.
 
-Pour mesurer le niveau d’eau, il utilise le principe d’Archimède avec un tuyau plastique connecté à la sortie de la cinquième cuve.
-
-<!-- Extraire photo à 31:00 -->
-
-![Niveau de remplissage des cuves](./images/niveau-de-remplissage-des-cuves.jpg "Crédits : image extraite du vlog de L'Archipelle")
+Pour mesurer le niveau d’eau, il utilise le principe d’Archimède avec un tuyau plastique connecté à la sortie de la cinquième cuve ([voir à la démonstration à partir de 30:54 dans le vlog](https://youtu.be/uZFoSpYNTFk?t=1854)).
 
 Ensuite, ils ont installé une pompe de type camping-car, pour mettre en pression l’eau.
 
@@ -271,7 +273,7 @@ Ils utilisent un système solaire thermique en tubes à vide, et une chaudière 
 
 Pour le thermique solaire, le système de tubes à vide est populaire en Portugal, Maroc, Turquie, mais pas en France. Pourtant le rendement est supérieur. Toutefois, les tubes sont fragiles, donc il faut protéger les capteurs contre la grêle par exemple.
 
-Dans [cette autre vidéo](), Brian a rencontré une charmante dame qui protège ses capteurs avec du grillage à poules ou à lapin tendu au-dessus.
+Dans [cette autre vidéo](https://www.youtube.com/watch?v=LqzkyOHF7WQ) dont j'ai pris [les notes il y a 2 ans](https://medium.com/@jeremie-litzler/earthship-g%C3%A9onef-une-maison-autonome-et-autosuffisante-a62e593e270), Brian a rencontré une charmante dame qui protège ses capteurs avec du grillage à poules ou à lapin tendu au-dessus.
 
 Luc et Magalie utilisent un circulateur pour l’échange thermique dans le ballon.
 
@@ -285,9 +287,7 @@ Avec cet appoint de gaz, ils consomment une bouteille par an environ, dans leur 
 
 Quand on parle de production d’électricité, surtout avec des batteries pour le stockage, il y a toujours un risque et Luc et Magalie utilisent des extincteurs automatiques.
 
-<!-- voir à 40:30 -->
-
-![Boules anti-incendie](./images/boules-anti-incendie.jpg "Crédits : image extraite du vlog de L'Archipelle")
+![Boules « extincteur »](./images/boules-extincteur.jpg "Crédits : image extraite du vlog de L'Archipelle")
 
 Ils explosent au contact de flammes en dégageant du CO2 et de la poudre.
 
@@ -409,7 +409,7 @@ Pourquoi ? Selon Luc, les autres habitats type yourte, tinyhouse ou caravane si
 
 Tout est une question point de vue de chacun.
 
-[L’association des hameaux légers](), par exemple, travaille avec acharnement pour faciliter l’accès aux hameaux légers et de les faire reconnaître auprès des autorités.
+[L’association des hameaux légers](https://hameaux-legers.org/), par exemple, travaille avec acharnement pour faciliter l’accès aux hameaux légers et de les faire reconnaître auprès des autorités.
 
 Peut-être que cela améliorera la qualité de vie dans les habitats légers.
 
@@ -486,6 +486,8 @@ Ils sont passés par plusieurs chantiers participatifs, épaulés par de nombreu
 Toutefois, recevoir des bénévoles signifie les nourrir et les loger. Ce n’est pas une tâche simple.
 
 Et ils ont dû travailler 7 jours sur 7, été comme hiver.
+
+![Chantier hivernale](./images/chantier-hivernale.jpg "Crédits : image extraite du vlog de L'Archipelle")
 
 Par conséquent, si le couple ou même l’équipe des travaux ne s’entend pas, cela peut devenir très très compliqué et épuisant mentalement et physiquement.
 
