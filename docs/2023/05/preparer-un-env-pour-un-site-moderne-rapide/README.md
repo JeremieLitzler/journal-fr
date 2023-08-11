@@ -11,6 +11,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/05/preparer-un-env-pour-un-site-moderne-rapide/,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Préparer un environnement de gestion de son site web sur un PC lambda en 2 étapes" },
+     meta,
+     {
+       "og:description": "La première étape pour créer son site web moderne et rapide, c'est de préparer le PC pour le créer.",
+     },
+     meta,
+     {
+       "og:image": /images/2023-04-19-jamstack-javascript-apis-markup.webp,
+     },
     ]
 category:
   - Tutoriels

@@ -11,6 +11,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/07/retour-experience-e-bike-bafang,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Mon retour d'expérience avec le kit Bafang VAE 250 W" },
+     meta,
+     {
+       "og:description": "Voilà plus de 5 ans que je roule en VAE, au début en Scott CX Comp de 2011, puis sur un Raleigh Brazil. Je vous explique le pourquoi, comment et mon ressenti.",
+     },
+     meta,
+     {
+       "og:image": /images/2023-07-25-le-raleigh-brazil-300-ex-en-mode-vae.jpg,
+     },
     ]
 category:
   - Avis de produits

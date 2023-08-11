@@ -11,6 +11,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/06/comment-configurer-substack-avec-plusieurs-langues-en-2023,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Comment configurer Substack avec plusieurs langues en 2023" },
+     meta,
+     {
+       "og:description": "Regardons ensemble les étapes pour configurer votre publication afin que vous puissiez fournir du contenu en deux langues.",
+     },
+     meta,
+     {
+       "og:image": /images/2023-06-06-substack-logo.avif,
+     },
     ]
 category:
   - Entreprenariat

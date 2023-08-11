@@ -17,6 +17,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/06/que-faire-au-jardin-en-juin-damien-dekarz,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Que faire au jardin en juin, avec Damien Dekarz" },
+     meta,
+     {
+       "og:description": "Semis, plantations, boutures, arrosages, récoltes sauvages, etc ... En juin, on est bien occupé !",
+     },
+     meta,
+     {
+       "og:image": /images/2023-06-26-titre-du-vlog.jpg,
+     },
     ]
 category:
   - Jardin

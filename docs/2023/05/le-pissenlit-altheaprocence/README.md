@@ -7,9 +7,6 @@ date: 2023-05-05
 prev:
   text: 'Toutes mes notes des vlogs de Christophe Bernard'
   link: ../../../tag/christophe-bernard/
-#next:
-#  text: ''
-#  link: ..//README.md
 head:
   - [
       link,
@@ -17,6 +14,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/05/le-pissenlit-altheaprocence,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Le pissenlit, par Christophe Bernard" },
+     meta,
+     {
+       "og:description": "Vous marchez sûrement dessus à chaque fois que vous vous promenez ! Mais connaissez-vous le pissenlit, véritable bombe nutritive ?",
+     },
+     meta,
+     {
+       "og:image": /images/2023-05-02-un-parterre-de-pissenlits-en-fleurs.jpg,
+     },
     ]
 category:
   - Santé

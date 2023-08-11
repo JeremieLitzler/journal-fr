@@ -7,9 +7,6 @@ date: 2023-05-09
 prev:
   text: 'Toutes mes notes des vlogs du Chemin de la Nature'
   link: ../../../tag/chemin-de-la-nature/
-#next:
-#  text: ''
-#  link: ..//README.md
 head:
   - [
       link,
@@ -17,6 +14,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/05/le-pissenlit-est-notre-ami-le-chemin-de-la-nature,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Le pissenlit est notre ami, par Le chemin de la nature" },
+     meta,
+     {
+       "og:description": "Parmi les plantes sauvages, le pissenlit est l'une des plus riches et des plus utiles. Apprenons à l'aimer.",
+     },
+     meta,
+     {
+       "og:image": /images/2023-05-09-une-feuille-de-pissenlit-par-une-personne.jpg,
+     },
     ]
 category:
   - Plantes

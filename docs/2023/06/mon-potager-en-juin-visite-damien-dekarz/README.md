@@ -17,6 +17,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/06/mon-potager-en-juin-visite-damien-dekarz,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Le potager de Damien Dekarz en juin" },
+     meta,
+     {
+       "og:description": "A quoi ressemble le potager de Damien en juin ? Il nous montre dans cet article.",
+     },
+     meta,
+     {
+       "og:image": /images/2023-06-27-vue-aerienne-du-jardin-de-damien.jpg,
+     },
     ]
 category:
   - Jardin

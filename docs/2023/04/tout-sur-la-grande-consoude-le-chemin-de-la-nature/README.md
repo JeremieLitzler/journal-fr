@@ -17,6 +17,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/04/tout-sur-la-grande-consoude-le-chemin-de-la-nature,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "La consoude consolide et cicatrise, avec Le chemin de la nature" },
+     meta,
+     {
+       "og:description": "Feuille musicale, la consoude se révèle surtout utile pour guérir depuis des millénaires.",
+     },
+     meta,
+     {
+       "og:image": /images/2023-04-25-feuille-de-consoude-officinale.jpg,
+     },
     ]
 category:
   - Plantes

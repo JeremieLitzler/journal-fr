@@ -7,9 +7,6 @@ date: 2023-07-11
 prev:
   text: "Toutes mes notes des vlogs de Damien Dekarz"
   link: ../../../tag/damien-dekarz/
-#next:
-#  text: ''
-#  link: ..//README.md
 head:
   - [
       link,
@@ -17,6 +14,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/07/3-trucs-a-faire-en-juillet-au-jardin-damien-dekarz,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "3 Trucs à faire en Juillet au Jardin" },
+     meta,
+     {
+       "og:description": "En juillet, c'est la période où l'on récolte le plus.",
+     },
+     meta,
+     {
+       "og:image": /images/2023-07-11-vue-aerienne-du-jardin-de-damien.jpg,
+     },
     ]
 category:
   - Jardin

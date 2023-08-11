@@ -11,6 +11,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/05/creer-son-site-moderne-rapide/,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Construire son site moderne et rapide !" },
+     meta,
+     {
+       "og:description": "Dans cet article, je décris les étapes concrètes pour créer, configurer le site et personnaliser son contenu.",
+     },
+     meta,
+     {
+       "og:image": /images/2023-04-19-jamstack-javascript-apis-markup.webp,
+     },
     ]
 category:
   - Tutoriels

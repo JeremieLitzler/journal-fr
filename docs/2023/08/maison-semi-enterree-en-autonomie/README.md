@@ -14,6 +14,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/08/maison-semi-enterree-en-autonomie/,
       },
+      meta,
+      { "og:type": article },
+      meta,
+      { "og:title": "Une maison semi-enterrée en autonomie" },
+      meta,
+      {
+        "og:description": "Les géonefs, ou earthship, se multiplient de plus en plus en France. Celui dans les Hautes Alpes a été construit pour s'adapter aux normes françaises, mais surtout au climat de la France.",
+      },
+      meta,
+      {
+        "og:image": /images/2023-08-15-vue-aerienne-du-geonef-inspire.jpg,
+      },
     ]
 category:
   - Témoignages

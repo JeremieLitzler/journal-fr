@@ -7,9 +7,6 @@ date: 2023-06-13
 prev:
   text: "Toutes mes notes des vlogs de Christophe Bernard"
   link: ../../../tag/christophe-bernard/
-#next:
-#  text: ''
-#  link: ..//README.md
 head:
   - [
       link,
@@ -17,6 +14,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/06/le-gingembre-altheaprocence,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Le gingembre, par Christophe Bernard" },
+     meta,
+     {
+       "og:description": "Le gingembre : qui ne le connait pas ? Cette plante dont on consomme la racine, ou rhizome, est très appréciée dans le monde entier. Christophe nous explique.",
+     },
+     meta,
+     {
+       "og:image": /images/2023-06-13-un-morceau-de-gingembre.jpg,
+     },
     ]
 category:
   - Santé

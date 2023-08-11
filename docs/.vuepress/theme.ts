@@ -1,4 +1,4 @@
-const version = '1.0.692';
+const version = '1.0.693';
 const publishDate = new Date(Date.now());
 //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat
 const publishDateFormatted = new Intl.DateTimeFormat('fr-FR', {

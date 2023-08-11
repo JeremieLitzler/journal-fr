@@ -17,6 +17,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/06/3-trucs-a-faire-en-juin-au-jardin-damien-dekarz,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "3 Trucs à faire en Juin au Jardin, avec Damien Dekarz" },
+     meta,
+     {
+       "og:description": "Au mois de juin, on récolte, on paille et on crée de l'engrais liquide. C'est parti !",
+     },
+     meta,
+     {
+       "og:image": /images/2023-06-12-vue-aerienne-du-jardin-de-damien.jpg,
+     },
     ]
 category:
   - Jardin

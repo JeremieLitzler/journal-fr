@@ -11,6 +11,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/05/activer-netlifycms-sur-son-site-web/,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Activer l'édition du contenu de son site web" },
+     meta,
+     {
+       "og:description": "À la place d’une solution comme WordPress, NetlifyCMS permet de gérer son contenu sans toutes les difficultés connues du CMS le plus utilisé dans le monde.",
+     },
+     meta,
+     {
+       "og:image": /images/2023-04-19-jamstack-javascript-apis-markup.webp,
+     },
     ]
 category:
   - Tutoriels

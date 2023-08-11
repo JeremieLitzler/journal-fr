@@ -7,9 +7,6 @@ date: 2023-04-27
 prev:
   text: 'Toutes mes notes des vlogs de Christophe Bernard'
   link: ../../../tag/christophe-bernard/
-#next:
-#  text: ''
-#  link: ..//README.md
 head:
   - [
       link,
@@ -17,6 +14,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/04/la-consoude-altheaprocence,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "La consoude, par Christophe Bernard" },
+     meta,
+     {
+       "og:description": "Très facile à cultiver au jardin, cette plante est très connue pour ses propriétés réparatrice et cicatrisante.",
+     },
+     meta,
+     {
+       "og:image": /images/2023-04-28-inflorescence-bleue-de-consoude.jpg,
+     },
     ]
 category:
   - Santé

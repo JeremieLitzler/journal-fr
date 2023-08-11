@@ -7,9 +7,6 @@ date: 2023-07-18
 prev:
   text: "Toutes mes notes des vlogs de David Bricout"
   link: ../../../tag/david-bricout/
-#next:
-#  text: ''
-#  link: ..//README.md
 head:
   - [
       link,
@@ -17,6 +14,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/07/5-plantes-sauvages-au-jardin-juillet-et-juin-david-bricout,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "5 plantes sauvages au jardin, avec David Bricout" },
+     meta,
+     {
+       "og:description": "En juin et juillet, la flore est active et abondante. Avec David, nous allons découvrir 5 dd'entre elles.",
+     },
+     meta,
+     {
+       "og:image": /images/2023-07-18-fleur-de-camomille-butinee-par-un-insecte.jpg,
+     },
     ]
 category:
   - Jardin

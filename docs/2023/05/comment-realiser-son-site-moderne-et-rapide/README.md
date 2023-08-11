@@ -11,6 +11,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/05/comment-realiser-son-site-moderne-et-rapide/,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Créer votre site web moderne pour moins de 10 euros !" },
+     meta,
+     {
+       "og:description": "De nos jours, il existe beaucoup de méthodes pour créer son site web. J’en présente une qui ne coûte presque rien. Pour de vrai !",
+     },
+     meta,
+     {
+       "og:image": /images/2023-04-19-jamstack-javascript-apis-markup.webp,
+     },
     ]
 category:
   - Tutoriels

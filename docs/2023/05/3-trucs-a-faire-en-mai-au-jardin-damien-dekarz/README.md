@@ -7,9 +7,6 @@ date: 2023-05-16
 prev:
   text: 'Toutes mes notes des vlogs de Damien Dekarz'
   link: ../../../tag/damien-dekarz/
-#next:
-#  text: ''
-#  link: ..//README.md
 head:
   - [
       link,
@@ -17,6 +14,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/05/3-trucs-a-faire-en-mai-au-jardin-damien-dekarz,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "3 Trucs à faire en Mai au Jardin, avec Damien Dekarz" },
+     meta,
+     {
+       "og:description": "En mai, fais ce qu'il te plait, comme dis le dicton. Et au jardin, est-ce la même chose ? Damien nous explique !",
+     },
+     meta,
+     {
+       "og:image": /images/2023-05-17-un-homme-ramasse-des-radis-dans-un-jardin-sureleve.jpg,
+     },
     ]
 category:
   - Jardin

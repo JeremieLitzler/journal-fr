@@ -11,6 +11,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/05/deployer-son-site-moderne-rapide/,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Déployer votre site web moderne pour moins de 10 euros !" },
+     meta,
+     {
+       "og:description": "Avec les services de Netlify, le déploiement n'a jamais été aussi simple.",
+     },
+     meta,
+     {
+       "og:image": /images/2023-04-19-jamstack-javascript-apis-markup.webp,
+     },
     ]
 category:
   - Tutoriels
