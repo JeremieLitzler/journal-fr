@@ -48,7 +48,7 @@ En 2009, j'ai démarré ma carrière dans l'informatique. De Trust5 à Dublin en
 
 J'ai acquis un large panel de compétences dans le développement pour le Web et je me rejouis d'apprendre de nouvelles astuces chaque jour.
 
-Pour aller plus dans le détails, je vous invite à [lire mon CV](https://docs.google.com/document/d/1ywInLK5Y-LkL-0dbkaH0B6Dx927PDEHRz9yzUPWNgBY).
+Pour aller plus dans le détails, je vous invite à [lire mon CV](https://docs.google.com/document/d/1fpY1ZlgyQ8d7dabnN5FRi7WP__F-SmnH/edit?usp=drivesdk&ouid=107506689745157025692&rtpof=true&sd=true).
 
 ## Qu'est-ce que ce site contient
 
