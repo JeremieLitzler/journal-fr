@@ -14,6 +14,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/08/3-trucs-a-faire-en-aout-au-jardin,
       },
+      meta,
+      { "og:type": article },
+      meta,
+      { "og:title": "3 Trucs à faire en Août au Jardin" },
+      meta,
+      {
+        "og:description": "En août, la production du jardin nécessite du suivi journalier. On pense aussi à l'automne et l'hiver avec les semis pour ces saisons à planter dès ce mois estival.",
+      },
+      meta,
+      {
+        "og:image": /images/2023-08-11-vue-aerienne-du-jardin-de-damien-en-aout.jpg,
+      },
     ]
 category:
   - Jardin
