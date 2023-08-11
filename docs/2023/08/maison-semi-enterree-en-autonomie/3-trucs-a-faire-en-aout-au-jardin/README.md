@@ -12,7 +12,7 @@ head:
       link,
       {
         rel: canonical,
-        href: https://jeremielitzler.fr/articles/2023-08-11-3-trucs-a-faire-en-aout-au-jardin,
+        href: https://jeremielitzler.fr/2023/08/3-trucs-a-faire-en-aout-au-jardin,
       },
     ]
 category:
