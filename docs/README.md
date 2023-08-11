@@ -36,7 +36,7 @@ features:
 
 ## Mon histoire
 
-![Jérémie gravissant la viaferrata à Kandersteg, Suisse](/images/profilepic-400w.jpg 'Jérémie gravissant la viaferrata à Kandersteg, Suisse') {.author-image}
+<!--![Jérémie gravissant la viaferrata à Kandersteg, Suisse](/images/profilepic-400w.jpg 'Jérémie gravissant la viaferrata à Kandersteg, Suisse') {.author-image}-->
 
 Tout a une histoire. Voici la mienne, jusqu'à présent.
 
