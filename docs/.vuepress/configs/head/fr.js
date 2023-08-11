@@ -7,21 +7,21 @@ export const frHeadConfig = {
   description: descriptionFr,
   repo: 'https://github.com/JeremieLitzler/journal-fr',
   head: [
-    ['meta', { property: 'og:title', content: titleFr }],
-    ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:url', content: 'https://jeremielitzler.fr/' }],
-    [
-      'meta',
-      {
-        property: 'og:description',
-        content: descriptionFr,
-      },
-    ],
-    ['meta', { property: 'og:type', content: 'website' }],
-    [
-      'meta',
-      { property: 'og:image', content: '/icons/android-chrome-512x512.png' },
-    ],
+    // ['meta', { property: 'og:title', content: titleFr }],
+    // ['meta', { property: 'og:type', content: 'website' }],
+    // ['meta', { property: 'og:url', content: 'https://jeremielitzler.fr/' }],
+    // [
+    //   'meta',
+    //   {
+    //     property: 'og:description',
+    //     content: descriptionFr,
+    //   },
+    // ],
+    // ['meta', { property: 'og:type', content: 'website' }],
+    // [
+    //   'meta',
+    //   { property: 'og:image', content: '/icons/android-chrome-512x512.png' },
+    // ],
     ['meta', { name: 'msapplication-TileColor', content: '#18a558' }],
     ['meta', { name: 'theme-color', content: '#18a558' }],
     [
