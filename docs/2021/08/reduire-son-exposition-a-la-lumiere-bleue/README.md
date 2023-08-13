@@ -9,6 +9,14 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2021/08/reduire-son-exposition-a-la-lumiere-bleue/,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Réduire son exposition à la lumiere bleue" },
+     meta,
+     {
+       "og:description": "Cela vous aidera beaucoup si vous passez beaucoup devant un écran",
+     },
     ]
 
 category:

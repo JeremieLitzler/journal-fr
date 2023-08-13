@@ -1,5 +1,5 @@
 ---
-title: Recette aux orties et au lierre terrestre, par Le chemin de la nature
+title: Une recette aux orties avec Le chemin de la nature
 description: "Avec l'ortie, je connais des recettes, en particulier la soupe aux orties. Mais avec le lierre terrestre, je ne connaissais pour cette recette."
 heroImage: /images/2023-02-13-message-sur-une-ardoise-posee-sur-un-plan-de-travail.jpg
 heroAlt: Message sur une ardoise posée sur un plan de travail
@@ -17,6 +17,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/02/recette-aux-orties-et-au-lierre-terrestre-le-chemin-de-la-nature,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Une recette aux orties avec Le chemin de la nature" },
+     meta,
+     {
+       "og:description": "Avec l'ortie, je connais des recettes, en particulier la soupe aux orties. Mais avec le lierre terrestre, je ne connaissais pour cette recette.",
+     },
+     meta,
+     {
+       "og:image": /images/2023-02-13-message-sur-une-ardoise-posee-sur-un-plan-de-travail.jpg,
+     },
     ]
 category:
   - Plantes

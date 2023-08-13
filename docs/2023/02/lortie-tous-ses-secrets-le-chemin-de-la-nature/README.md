@@ -1,5 +1,5 @@
 ---
-title: "L'ortie : tous ses secrets, par Le chemin de la nature"
+title: "L'ortie et tous ses secrets avec Le chemin de la nature"
 description: "L'ortie est une plante incroyable. Elle pousse facilement en France et peut même devenir envahissante. Toutefois, les bénéfices qu'elle amène surpasse largement les inconvénients, en particulier celui le plus connu : ça pique !"
 heroImage: /images/2023-02-15-ortie-femelle.jpg
 heroAlt: Ortie femelle avec de longs pistiles
@@ -7,9 +7,6 @@ date: 2023-02-15
 prev:
   text: 'Toutes mes notes des vlogs du Chemin de la Nature'
   link: ../../../tag/chemin-de-la-nature/
-#next:
-#  text: ''
-#  link: ..//README.md
 head:
   - [
       link,
@@ -17,6 +14,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/02/lortie-tous-ses-secrets-le-chemin-de-la-nature,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "L'ortie et tous ses secrets avec Le chemin de la nature" },
+     meta,
+     {
+       "og:description": "L'ortie est une plante incroyable. Elle pousse facilement en France et peut même devenir envahissante. Toutefois, les bénéfices qu'elle amène surpasse largement les inconvénients, en particulier celui le plus connu : ça pique !",
+     },
+     meta,
+     {
+       "og:image": /images/2023-02-15-ortie-femelle.jpg,
+     },
     ]
 category:
   - Plantes

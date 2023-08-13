@@ -14,18 +14,18 @@ head:
       rel: canonical, 
       href: https://jeremielitzler.fr/2023/03/3-trucs-a-faire-en-mars-au-jardin-damien-dekarz/ 
     },
-   meta,
-   { "og:type": article },
-   meta,
-   { "og:title": "3 Trucs à faire en Mars au Jardin, avec Damien Dekarz" },
-   meta,
-   {
-     "og:description": "Que peut-on faire en mars au jardin ? Damien nous détaille 3 actions concrètes en ce premier mois de printemps :)",
-   },
-   meta,
-   {
-     "og:image": /images/2023-03-20-une-branche-avec-2-bourgeons.jpg,
-   },
+    meta,
+    { "og:type": article },
+    meta,
+    { "og:title": "3 Trucs à faire en Mars au Jardin, avec Damien Dekarz" },
+    meta,
+    {
+      "og:description": "Que peut-on faire en mars au jardin ? Damien nous détaille 3 actions concrètes en ce premier mois de printemps :)",
+    },
+    meta,
+    {
+      "og:image": /images/2023-03-20-une-branche-avec-2-bourgeons.jpg,
+    },
   ]
 category:
   - Jardin

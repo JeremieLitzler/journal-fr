@@ -1,5 +1,5 @@
 ---
-title: La Vigne de A à Z (ou presque), par Damien Dekarz
+title: La Vigne de A à Z (ou presque) avec Damien Dekarz
 description: 'Damien nous explique tout sur le vigne, comment la cultiver, comment les tailler et quelles variétés sont à privilégier.'
 heroImage: /images/2023-02-22-une-vigne-et-ses-grappes-de-raisin-blanc.jpg
 heroAlt: Une vigne et ses grappes de raisin blanc
@@ -17,6 +17,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/02/la-vigne-de-a-a-z-presque-damien-dekarz/,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "La Vigne de A à Z (ou presque) avec Damien Dekarz" },
+     meta,
+     {
+       "og:description": "Damien nous explique tout sur le vigne, comment la cultiver, comment les tailler et quelles variétés sont à privilégier.",
+     },
+     meta,
+     {
+       "og:image": /images/2023-02-22-une-vigne-et-ses-grappes-de-raisin-blanc.jpg,
+     },
     ]
 category:
   - Jardin

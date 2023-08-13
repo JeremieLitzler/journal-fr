@@ -1,17 +1,31 @@
 ---
-title: 3 Trucs à faire en Janvier au Jardin, par Damien Dekarz
+title: 3 Trucs à faire en Janvier au Jardin avec Damien Dekarz
 description: "En janvier, le jardin est au repos. Toutefois, il reste toujours pas mal de choses à réaliser. Damien nous explique ce qu'il en retourne."
 date: 2023-01-04
+heroImage: /images/2023-01-04-un-chien-des-bottes-de-pailles-enneigees.jpg
+heroAlt: Un chien des bottes de paille enneigées
 prev:
   text: 'Toutes mes notes des vlogs de Damien Dekarz'
   link: ../../../tag/damien-dekarz/
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://jeremielitzler.fr/2023/01/3-trucs-a-faire-en-janvier-au-jardin-damien-dekarz/,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "3 Trucs à faire en Janvier au Jardin avec Damien Dekarz" },
+     meta,
+     {
+       "og:description": "En janvier, le jardin est au repos. Toutefois, il reste toujours pas mal de choses à réaliser. Damien nous explique ce qu'il en retourne.",
+     },
+     meta,
+     {
+       "og:image": /images/2023-01-04-un-chien-des-bottes-de-pailles-enneigees.jpg,
+     },
     ]
 category:
   - Jardin

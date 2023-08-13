@@ -1,5 +1,5 @@
 ---
-title: En janvier, ne semez RIEN ! (quoi que...), par Le potager d'Olivier
+title: En janvier, ne semez RIEN avec Le potager d'Olivier
 description: 'En janvier, la température est trop basse pour planter quoi que ce soit. Olivier nous explique sa stratégie.'
 date: 2023-01-06
 prev:
@@ -12,6 +12,14 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/01/en-janvier-pas-de-semis-ou-presque-le-potager-dolivier/,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "En janvier, ne semez RIEN avec Le potager d'Olivier" },
+     meta,
+     {
+       "og:description": "En janvier, la température est trop basse pour planter quoi que ce soit. Olivier nous explique sa stratégie.",
+     },
     ]
 category:
   - Jardin
@@ -19,8 +27,6 @@ tag:
   - Potager d Olivier
   - En janvier
 ---
-
-<!-- ![](/images/2023-01-06-.jpg 'Crédits: image extraite du vlog du Potager d'Olivier') -->
 
 En janvier, la température est trop basse et la luminosité très faible pour planter quoi que ce soit. Olivier nous explique sa stratégie.
 

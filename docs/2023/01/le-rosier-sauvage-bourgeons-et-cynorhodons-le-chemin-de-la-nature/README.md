@@ -1,7 +1,9 @@
 ---
-title: Rosier sauvage, bonbon des bois, par Le chemin de la nature
+title: Le rosier sauvage avec Le chemin de la nature
 description: "Le rosier sauvage : on le trouve facilement en France. C'est lui qui produit ces fruits rouges en forme de ballon de rugby au début de l'hiver. Christophe nous explique dans le détail comment le reconnaitre et l'utiliser."
 date: 2023-01-25
+heroImage: /images/2023-01-25-cynorhodons-matures.jpg
+heroAlt: cynorhodons matures prêts à cueillir
 prev:
   text: 'Toutes mes notes des vlogs du Chemin de la Nature'
   link: ../../../tag/chemin-de-la-nature/
@@ -15,6 +17,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/01/le-rosier-sauvage-bourgeons-et-cynorhodons-le-chemin-de-la-nature/,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Le rosier sauvage avec Le chemin de la nature" },
+     meta,
+     {
+       "og:description": "Le rosier sauvage : on le trouve facilement en France. C'est lui qui produit ces fruits rouges en forme de ballon de rugby au début de l'hiver. Christophe nous explique dans le détail comment le reconnaitre et l'utiliser.",
+     },
+     meta,
+     {
+       "og:image": /images/2023-01-25-cynorhodons-matures.jpg,
+     },
     ]
 category:
   - Plantes
@@ -23,7 +37,7 @@ tag:
   - Cynorhodon
 ---
 
-![cynorhodons matures prêts à cueillir](/images/2023-01-25-cynorhodons-matures.jpg 'Crédits: image extraite du vlog du Chemin de la Nature')
+![Cynorhodons matures prêts à cueillir](/images/2023-01-25-cynorhodons-matures.jpg 'Crédits: image extraite du vlog du Chemin de la Nature')
 
 Le rosier sauvage : on le trouve facilement en France. C'est lui qui produit ces fruits rouges en forme de ballon de rugby au début de l'hiver. Christophe nous explique dans le détail comment le reconnaitre et l'utiliser.
 

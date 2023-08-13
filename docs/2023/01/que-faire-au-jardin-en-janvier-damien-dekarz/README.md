@@ -1,7 +1,9 @@
 ---
-title: Que faire au jardin en janvier, par Damien Dekarz
+title: Que faire au jardin en janvier avec Damien Dekarz
 description: "En janvier, le jardin est au repos. Il reste toutefois pas mal de choses à faire. Damien va nous expliquer ce qu'il réalise."
 date: 2023-01-05
+heroImage: /images/2023-01-05-une-myriade-de-boutures.jpg
+heroAlt: Une myriade de boutures dans des pots
 prev:
   text: 'Toutes mes notes des vlogs de Damien Dekarz'
   link: ../../../tag/damien-dekarz/
@@ -15,6 +17,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/01/que-faire-au-jardin-en-janvier-damien-dekarz/,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Que faire au jardin en janvier avec Damien Dekarz" },
+     meta,
+     {
+       "og:description": "En janvier, le jardin est au repos. Il reste toutefois pas mal de choses à faire. Damien va nous expliquer ce qu'il réalise.",
+     },
+     meta,
+     {
+       "og:image": /images/2023-01-05-une-myriade-de-boutures.jpg,
+     },
     ]
 category:
   - Jardin

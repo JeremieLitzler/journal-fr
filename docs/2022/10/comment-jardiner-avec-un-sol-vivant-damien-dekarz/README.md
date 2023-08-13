@@ -1,9 +1,8 @@
 ---
-isDraft: false
 title: Comment jardiner avec un sol vivant ?
 description: "Un sol vivant est le moyen le plus efficace de jardiner et ce n'est pas complexe à mettre en oeuvre. Par contre, il faut de la patience..."
 date: 2020-10-12
-heroImage: '/images/2022-10-12-comment-jardiner-avec-un-sol-vivant-permaculture--agroecologie--etc-hero.png'
+heroImage: '/images/2022-10-12-cycle-d-echanges-entre-les-plantes-et-les-mycorhizes.png'
 heroAlt: Image diagramme décrivant le cycle d'échanges entre les plantes et les mycorhizes
 head:
   - [
@@ -12,6 +11,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2022/10/comment-jardiner-avec-un-sol-vivant-damien-dekarz/,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Comment jardiner avec un sol vivant ?" },
+     meta,
+     {
+       "og:description": "Un sol vivant est le moyen le plus efficace de jardiner et ce n'est pas complexe à mettre en oeuvre. Par contre, il faut de la patience...",
+     },
+     meta,
+     {
+       "og:image": /images/2022-10-12-cycle-d-echanges-entre-les-plantes-et-les-mycorhizes.png,
+     },
     ]
 category:
   - Jardin
@@ -22,7 +33,7 @@ tag:
   - Champignons
 ---
 
-![Image diagramme décrivant le cycle d'échanges entre les plantes et les mycorhizes](./images/2022-10-12-comment-jardiner-avec-un-sol-vivant-permaculture--agroecologie--etc-hero.png "Crédits : image extraite de l'article Wikipedia ['Réseau mycorhizien'](https://fr.wikipedia.org/wiki/R%C3%A9seau_mycorhizien)")
+![Image diagramme décrivant le cycle d'échanges entre les plantes et les mycorhizes](/images/2022-10-12-cycle-d-echanges-entre-les-plantes-et-les-mycorhizes.png "Crédits : image extraite de l'article Wikipedia ['Réseau mycorhizien'](https://fr.wikipedia.org/wiki/R%C3%A9seau_mycorhizien)")
 
 Un sol vivant est le moyen le plus efficace de jardiner et ce n'est pas complexe à mettre en oeuvre. Par contre, il faut de la patience...
 

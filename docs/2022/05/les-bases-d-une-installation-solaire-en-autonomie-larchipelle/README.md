@@ -9,6 +9,14 @@ head:
         rel: canonical,
         href: https://iamjeremie.substack.com/p/notes-sur-les-bases-dune-installation,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Les bases d'une installation solaire en autonomie" },
+     meta,
+     {
+       "og:description": "Réaliser son installation solaire n'est pas compliquée, mais cela requiert de la préparation et une bonne définition de son besoin.",
+     },
     ]
 category:
   - Energie

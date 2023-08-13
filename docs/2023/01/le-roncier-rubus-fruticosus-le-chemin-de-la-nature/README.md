@@ -1,7 +1,9 @@
 ---
-title: Le roncier (Rubus fruticosus), par Le chemin de la nature
+title: Le roncier avec Le chemin de la nature
 description: 'La ronce, vous connaissez ? On en a peur, car elle pique et nous enviahit. Mais, la connaissez-vous vraiment ? Christophe nous partage dans son vlog qui est vraiment cette plante.'
 date: 2023-01-24
+heroImage: /images/2023-01-24-fleurs-de-murier-se-transforment-en-fruits.jpg
+heroAlt: Des fleurs de mûriers se transforment en fruits
 prev:
   text: 'Toutes mes notes des vlogs du Chemin de la Nature'
   link: ../../../tag/chemin-de-la-nature/
@@ -15,6 +17,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/01/le-roncier-rubus-fruticosus-le-chemin-de-la-nature,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Le roncier avec Le chemin de la nature" },
+     meta,
+     {
+       "og:description": "La ronce, vous connaissez ? On en a peur, car elle pique et nous enviahit. Mais, la connaissez-vous vraiment ? Christophe nous partage dans son vlog qui est vraiment cette plante.",
+     },
+     meta,
+     {
+       "og:image": /images/2023-01-24-fleurs-de-murier-se-transforment-en-fruits.jpg,
+     },
     ]
 category:
   - Plantes

@@ -1,7 +1,9 @@
 ---
-title: La prêle des champs, plante des articulations, par Le chemin de la nature
+title: La prêle des champs avec Le chemin de la nature
 description: 'Avec Christophe De Hody, comprenons comment reconnaitre la prêle, comment la consommer et en quoi il peut nous être utile.'
 date: 2023-02-02
+heroImage: /images/2023-02-02-une-prele-des-champs.jpg
+heroAlt: Une prêle des champs
 prev:
   text: 'Toutes mes notes des vlogs du Chemin de la Nature'
   link: ../../../tag/chemin-de-la-nature/
@@ -15,6 +17,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/02/les-vertus-de-la-prele-des-champs-le-chemin-de-la-nature,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "La prêle des champs avec Le chemin de la nature" },
+     meta,
+     {
+       "og:description": "Avec Christophe De Hody, comprenons comment reconnaitre la prêle, comment la consommer et en quoi il peut nous être utile.",
+     },
+     meta,
+     {
+       "og:image": /images/2023-02-02-une-prele-des-champs.jpg,
+     },
     ]
 category:
   - Plantes

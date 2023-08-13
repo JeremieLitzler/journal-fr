@@ -1,7 +1,9 @@
 ---
-title: 'Ronce ou murier : bienfaits et usages, avec Christophe Bernard'
+title: 'La ronce avec Christophe Bernard'
 description: "Vous en avez sûrement chez vous si vous vivez à la campagne, proche d'une zone sauvage. On essaye souvent de s'en débarrasser. Toutefois, saviez-vous qu'il s'agit plutôt d'une ami ?"
 date: 2023-01-20
+heroImage: /images/2023-01-20-ronce-fleurie.jpg
+heroAlt: Ronce fleurie
 prev:
   text: 'Toutes mes notes des vlogs de Christophe Bernard'
   link: ../../../tag/christophe-bernard/
@@ -15,6 +17,18 @@ head:
         rel: canonical,
         href: https://iamjeremie.substack.com/p/ronce-murier-mure-bienfaits-et-usages-althea,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "La ronce avec Christophe Bernard" },
+     meta,
+     {
+       "og:description": "Vous en avez sûrement chez vous si vous vivez à la campagne, proche d'une zone sauvage. On essaye souvent de s'en débarrasser. Toutefois, saviez-vous qu'il s'agit plutôt d'une ami ?",
+     },
+     meta,
+     {
+       "og:image": /images/2023-01-20-ronce-fleurie.jpg,
+     },
     ]
 category:
   - Santé

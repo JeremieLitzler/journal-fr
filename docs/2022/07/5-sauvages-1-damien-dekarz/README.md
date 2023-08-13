@@ -17,6 +17,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2022/07/5-sauvages-1-damien-dekarz,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "5 sauvages autour de chez vous" },
+     meta,
+     {
+       "og:description": "Autour de chez vous, ces plantes se trouvent sûrement et il serait dommage de ne pas en profiter.",
+     },
+     meta,
+     {
+       "og:image": /images/2022-07-20-5-sauvages-1.jpg,
+     },
     ]
 category:
   - Alimentation

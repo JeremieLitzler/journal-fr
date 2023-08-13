@@ -1,5 +1,5 @@
 ---
-title: 'Les bienfaits de l’ortie : détox, inflammations chroniques, allergies, par Christophe Bernard'
+title: 'Les bienfaits de l’ortie avec Christophe Bernard'
 description: "Il y a tellement de choses à dire sur l'ortie ! Ces notes seront un concentré d'informations sur cette plante incroyable."
 heroImage: /images/2023-02-28-ortie-femelle-et-ses-pistils.jpg
 heroAlt: Ortie femelle et ses pistils
@@ -7,9 +7,6 @@ date: 2023-02-28
 prev:
   text: 'Toutes mes notes des vlogs de Christophe Bernard'
   link: ../../../tag/christophe-bernard/
-#next:
-#  text: ''
-#  link: ..//README.md
 head:
   - [
       link,
@@ -17,6 +14,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/02/les-bienfaits-de-lortie-altheaprocence,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Les bienfaits de l’ortie avec Christophe Bernard" },
+     meta,
+     {
+       "og:description": "Il y a tellement de choses à dire sur l'ortie ! Ces notes seront un concentré d'informations sur cette plante incroyable.",
+     },
+     meta,
+     {
+       "og:image": /images/2023-02-28-ortie-femelle-et-ses-pistils.jpg,
+     },
     ]
 category:
   - Santé

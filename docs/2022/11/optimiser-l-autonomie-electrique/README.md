@@ -1,9 +1,30 @@
 ---
-title: "Optimisation de l’autonomie électrique pour l'hiver 2022-2023"
+title: "Optimisation de l’autonomie électrique pour l'hiver"
 description: Etape 1 - Rendre autonome mon poêle à granulés, les LED et la VMI pour l'hiver 2022-2023
 date: 2022-11-08
 heroImage: '/images/2022-09-06-optimiser-l-autonomie-electrique.jpg'
 heroAlt: Un câble débranchée devant une prise murale
+head:
+  - [
+      meta,
+      {
+       rel: canonical,
+        href: 'https://jeremielitzler.fr/2022/11/optimiser-l-autonomie-electrique/',
+      },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Optimisation de l’autonomie électrique pour l'hiver" },
+     meta,
+     {
+       "og:description": "Etape 1 - Rendre autonome mon poêle à granulés, les LED et la VMI pour l'hiver 2022-2023",
+     },
+     meta,
+     {
+       "og:image": /images/2022-09-06-optimiser-l-autonomie-electrique.jpg,
+     },
+    ]
+
 category:
   - Energie
 tag:

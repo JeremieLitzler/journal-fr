@@ -2,6 +2,8 @@
 title: Comment réaliser ses propres bougies à la maison
 description: La méthode est simple et fascinante pour les enfants. Elle leur apprend ce que les abeilles nous donnent et comment recycler nos déchets (rouleaux de papier WC à jeter)
 date: 2022-11-26
+heroImage: /images/2022-11-26-3-bougies-finies.jpg
+heroAlt: Trois bougies réalisées à la maison
 head:
   - [
       link,
@@ -9,6 +11,18 @@ head:
         rel: canonical,
         href: https://iamjeremie.substack.com/p/comment-realiser-ses-propres-bougies,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Comment réaliser ses propres bougies à la maison" },
+     meta,
+     {
+       "og:description": "La méthode est simple et fascinante pour les enfants. Elle leur apprend ce que les abeilles nous donnent et comment recycler nos déchets (rouleaux de papier WC à jeter)",
+     },
+     meta,
+     {
+       "og:image": /images/2022-11-26-3-bougies-finies.jpg,
+     },
     ]
 category:
   - Astuces et Tutoriels

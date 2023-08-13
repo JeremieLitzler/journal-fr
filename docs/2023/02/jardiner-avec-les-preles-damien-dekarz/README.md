@@ -1,7 +1,9 @@
 ---
-title: Jardiner avec les Prêles, par Damien Dekarz
+title: Jardiner avec les Prêles et Damien Dekarz
 description: 'Damien nous parle ici de la prêle dans son application au jardin.'
 date: 2023-02-03
+heroImage: /images/2023-02-03-jeune-prele-qui-sort-au-printemps.jpg
+heroAlt: Jeunes prêles qui sortent au printemps
 prev:
   text: 'Toutes mes notes des vlogs de Damien Dekarz'
   link: ../../../tag/damien-dekarz/
@@ -15,6 +17,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/02/jardiner-avec-les-preles-damien-dekarz,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Jardiner avec les Prêles et Damien Dekarz" },
+     meta,
+     {
+       "og:description": "Damien nous parle ici de la prêle dans son application au jardin.",
+     },
+     meta,
+     {
+       "og:image": /images/2023-02-03-jeune-prele-qui-sort-au-printemps.jpg,
+     },
     ]
 category:
   - Jardin

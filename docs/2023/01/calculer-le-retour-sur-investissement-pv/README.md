@@ -1,6 +1,8 @@
 ---
 title: Un meilleur calcul du retour sur investissement d'une installation photovoltaïque
 description: "Le calcul du retour sur investissement n'était pas juste dans mon article du 31 décembre 2022. Cet article corrige le tir"
+heroImage: /images/2023-01-08-production-reel-vs-theorique-vs-autoconsommation-2022.jpg
+heroAlt: Production théorique vs Production réelle vs Autoconsommation
 date: 2023-01-08
 head:
   - [
@@ -9,6 +11,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/01/calculer-le-retour-sur-investissement-pv/,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Un meilleur calcul du retour sur investissement d'une installation photovoltaïque" },
+     meta,
+     {
+       "og:description": "Le calcul du retour sur investissement n'était pas juste dans mon article du 31 décembre 2022. Cet article corrige le tir",
+     },
+     meta,
+     {
+       "og:image": /images/2023-01-08-production-reel-vs-theorique-vs-autoconsommation-2022.jpg,
+     },
     ]
 category:
   - Energie

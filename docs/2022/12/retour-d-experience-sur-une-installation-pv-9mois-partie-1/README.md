@@ -1,7 +1,9 @@
 ---
-title: "Installation PV - quel retour d'expérience après 9 mois ? (partie 1)"
+title: "Installation PV - retour d'expérience après 9 mois (partie 1)"
 description: "Fin Mars 2022, nous avons mis en service notre installation photovoltaïque. Regardons comment j'ai modifié l'installation et ajusté les appareils et les usages dans mon foyer."
 date: 2022-12-15
+heroImage: /images/2022-12-15-tableau-pv-routeur-solaire-et-tableau-electrique.jpg
+heroAlt: Des tableaux électriques et un boitier avec un afficheur digital
 head:
   - [
       link,
@@ -9,6 +11,18 @@ head:
         rel: canonical,
         href: https://iamjeremie.substack.com/p/rex-installation-pv-9mois-partie1,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Installation PV - retour d'expérience après 9 mois (partie 1)" },
+     meta,
+     {
+       "og:description": "Fin Mars 2022, nous avons mis en service notre installation photovoltaïque. Regardons comment j'ai modifié l'installation et ajusté les appareils et les usages dans mon foyer.",
+     },
+     meta,
+     {
+       "og:image": /images/2022-12-15-tableau-pv-routeur-solaire-et-tableau-electrique.jpg,
+     },
     ]
 category:
   - Energie

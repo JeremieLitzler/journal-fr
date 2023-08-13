@@ -1,7 +1,9 @@
 ---
-title: "Installation PV - quel retour d'expérience après 9 mois ? (partie 2)"
+title: "Installation PV - retour d'expérience après 9 mois (partie 2)"
 description: 'Fin Mars 2022, nous avons mis en service notre installation photovoltaïque. Regardons les données et les conclusions à la fin Décembre 2022'
 date: 2022-12-31
+heroImage: /images/2022-12-31-vue-des-champs-sud-et-sud-est.jpg
+heroAlt: Vue des champs Sud et Sud-Est
 head:
   - [
       link,
@@ -9,6 +11,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2022/12/retour-d-experience-sur-une-installation-pv-9mois-partie-2/,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Installation PV - retour d'expérience après 9 mois (partie 2)" },
+     meta,
+     {
+       "og:description": "Fin Mars 2022, nous avons mis en service notre installation photovoltaïque. Regardons les données et les conclusions à la fin Décembre 2022",
+     },
+     meta,
+     {
+       "og:image": /images/2022-12-31-vue-des-champs-sud-et-sud-est.jpg,
+     },
     ]
 category:
   - Energie

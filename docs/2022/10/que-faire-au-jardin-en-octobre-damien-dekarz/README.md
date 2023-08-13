@@ -1,9 +1,8 @@
 ---
-isDraft: false
 title: Que faire au jardin en Octobre
 description: Cet article résume mes notes du vlog réalisé par Permaculture, agroecologie, etc
 date: 2022-10-11
-heroImage: '/images/2022-10-11-que-faire-au-jardin-en-octobre--permaculture--agroecologie--etc-hero.jpg'
+heroImage: '/images/2022-10-11-une-courge-verte-raillee-sur-du-paillage.jpg'
 heroAlt: Une courge verte raillée sur du paillage
 head:
   - [
@@ -12,6 +11,18 @@ head:
        rel: canonical,
         href: 'https://jeremielitzler.fr/2022/10/que-faire-au-jardin-en-octobre-damien-dekarz/',
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Que faire au jardin en Octobre" },
+     meta,
+     {
+       "og:description": "Cet article résume mes notes du vlog réalisé par Permaculture, agroecologie, etc",
+     },
+     meta,
+     {
+       "og:image": /images/2022-10-11-une-courge-verte-raillee-sur-du-paillage.jpg,
+     },
     ]
 category:
   - Jardin
@@ -20,7 +31,7 @@ tag:
   - En Octobre
 ---
 
-![Une courge verte raillée sur du paillage](./images/2022-10-11-que-faire-au-jardin-en-octobre--permaculture--agroecologie--etc-hero.jpg 'Crédits : image extraite du vlog de Damien')
+![Une courge verte raillée sur du paillage](/images/2022-10-11-une-courge-verte-raillee-sur-du-paillage.jpg 'Crédits : image extraite du vlog de Damien')
 
 Merci à Damien pour le partage de son savoir ! Cet article résume mes notes du vlog réalisé par Permaculture, agroécologie, etc.
 

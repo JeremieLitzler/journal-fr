@@ -1,13 +1,12 @@
 ---
-title: 'Églantier et cynorhodon : immunité, circulation et articulations, par Christophe Bernard'
-description: "Le rosier est l'ancêtre des rosiers cultivés et il n'existe pas un seul rosier sauvage. Cette plante est douce et utile dans beaucoup de domaines. Christophe d'Altheaprovence nous explique."
+title: "Découverte de l'églantier avec Christophe Bernard"
+description: "Le rosier sauvage est l'ancêtre des rosiers cultivés et il n'existe pas un seul rosier sauvage. Cette plante est douce et utile dans beaucoup de domaines. Christophe d'Altheaprovence nous explique."
 date: 2023-01-26
+heroImage: /images/2023-01-26-faux-fruit-de-cynorrhodon-ouvert.jpg
+heroAlt: Faux fruit de cynorhodon ouvert
 prev:
   text: 'Toutes mes notes des vlogs de Christophe Bernard'
   link: ../../../tag/christophe-bernard/
-#next:
-#  text: ''
-#  link: ..//README.md
 head:
   - [
       link,
@@ -15,6 +14,18 @@ head:
         rel: canonical,
         href: https://iamjeremie.substack.com/p/eglantier-immunite-circulation-et-articulations-,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Découverte de l'églantier avec Christophe Bernard" },
+     meta,
+     {
+       "og:description": "Le rosier sauvage est l'ancêtre des rosiers cultivés et il n'existe pas un seul rosier sauvage. Cette plante est douce et utile dans beaucoup de domaines. Christophe d'Altheaprovence nous explique.",
+     },
+     meta,
+     {
+       "og:image": /images/2023-01-26-faux-fruit-de-cynorrhodon-ouvert.jpg,
+     },
     ]
 category:
   - Santé

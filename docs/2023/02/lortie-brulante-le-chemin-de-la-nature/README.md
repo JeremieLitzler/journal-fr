@@ -1,5 +1,5 @@
 ---
-title: "L'ortie brûlante : petite soeur de la grande ortie, par Le chemin de la nature"
+title: "L'ortie brûlante avec Le chemin de la nature"
 description: "L'ortie brûlante est moins répandue que la grande ortie."
 heroImage: /images/2023-02-14-feuille-dortie-brulante.jpg
 heroAlt: Feuille d'ortie brûlante
@@ -7,9 +7,6 @@ date: 2023-02-14
 prev:
   text: 'Toutes mes notes des vlogs du Chemin de la Nature'
   link: ../../../tag/chemin-de-la-nature/
-#next:
-#  text: ''
-#  link: ..//README.md
 head:
   - [
       link,
@@ -17,6 +14,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/02/lortie-brulante-le-chemin-de-la-nature,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "L'ortie brûlante avec Le chemin de la nature" },
+     meta,
+     {
+       "og:description": "L'ortie brûlante est moins répandue que la grande ortie.",
+     },
+     meta,
+     {
+       "og:image": /images/2023-02-14-feuille-dortie-brulante.jpg,
+     },
     ]
 category:
   - Plantes

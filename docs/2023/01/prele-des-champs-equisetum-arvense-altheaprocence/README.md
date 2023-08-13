@@ -1,7 +1,9 @@
 ---
-title: 'Prêle des champs (Equisetum arvense) - silicium, collagène, réparation des tissus, par Christophe Bernard'
+title: 'Prêle des champs avec Christophe Bernard'
 description: "La prêle se trouve dans les zones humides et j'ai le bonheur d'en avoir juste à côté de chez moi. Nous l'utilisons pour le jardin et la santé. Dans ce dernier domaine, Christophe nous détaille son usage."
 date: 2023-01-31
+heroImage: /images/2023-01-31-champ-de-prele.jpg
+heroAlt: Champ de prêles
 prev:
   text: 'Toutes mes notes des vlogs de Christophe Bernard'
   link: ../../../tag/christophe-bernard/
@@ -15,6 +17,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/01/prele-des-champs-equisetum-arvense-altheaprocence/,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Prêle des champs avec Christophe Bernard" },
+     meta,
+     {
+       "og:description": "La prêle se trouve dans les zones humides et j'ai le bonheur d'en avoir juste à côté de chez moi. Nous l'utilisons pour le jardin et la santé. Dans ce dernier domaine, Christophe nous détaille son usage.",
+     },
+     meta,
+     {
+       "og:image": /images/2023-01-31-champ-de-prele.jpg,
+     },
     ]
 category:
   - Santé
