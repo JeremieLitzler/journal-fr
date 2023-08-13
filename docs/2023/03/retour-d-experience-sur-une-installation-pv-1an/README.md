@@ -1,8 +1,8 @@
 ---
 title: "Installation PV - quel retour d'expérience après 1 an"
-description: 'Fin Mars 2022, nous avons mis en service notre installation photovoltaïque. Regardons les données et les conclusions à la fin de la première année'
+description: 'Fin Mars 2022, nous avons mis en service notre installation photovoltaïque. Regardons les données et les conclusions à la fin de la première année.'
 date: 2023-03-31
-# heroImage: /images/2023-03-31-production-par-mois-avril2022-mars2023.jpg
+heroImage: /images/2023-03-31-production-par-mois-avril2022-mars2023.jpg
 heroAlt: "Production par mois d'avril 2022 à mars 2023"
 prev:
   - text: "Installation PV - quel retour d'expérience après 9 mois"
@@ -17,6 +17,18 @@ head:
         rel: canonical,
         href: https://iamjeremie.substack.com/p/retour-d-experience-sur-une-installation-pv-1an,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Installation PV - quel retour d'expérience après 1 an" },
+     meta,
+     {
+       "og:description": "Fin Mars 2022, nous avons mis en service notre installation photovoltaïque. Regardons les données et les conclusions à la fin de la première année",
+     },
+     meta,
+     {
+       "og:image": /images/2023-03-31-production-par-mois-avril2022-mars2023.jpg,
+     },
     ]
 category:
   - Energie

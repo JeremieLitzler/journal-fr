@@ -1,6 +1,6 @@
 ---
 title: "L'ortie : piqûres et cookies, par Damien Dekarz"
-description: "Ceci n'est pas *l'ortie de A à Z*, mais on comprendra pourquoi ça pique, comment éviter les piqûres et comment l'ortie est une bonne compagne cullinaire. "
+description: "Ceci n'est pas *l'ortie de A à Z*, mais on comprendra pourquoi ça pique, comment éviter les piqûres et comment l'ortie est une bonne compagne cullinaire."
 heroImage: /images/2023-03-14-titre-de-la-video-sur-fond-d-ortie.jpg
 heroAlt: Le titre de la vidéo sur fond d'ortie
 date: 2023-03-14
@@ -17,6 +17,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/03/ortie-piqure-et-cookies-damien-dekarz,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "L'ortie : piqûres et cookies, par Damien Dekarz" },
+     meta,
+     {
+       "og:description": "Ceci n'est pas *l'ortie de A à Z*, mais on comprendra pourquoi ça pique, comment éviter les piqûres et comment l'ortie est une bonne compagne cullinaire.",
+     },
+     meta,
+     {
+       "og:image": /images/2023-03-14-titre-de-la-video-sur-fond-d-ortie.jpg,
+     },
     ]
 category:
   - Jardin

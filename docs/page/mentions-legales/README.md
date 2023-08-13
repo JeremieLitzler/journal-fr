@@ -9,6 +9,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/page/mentions-legales/,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Mentions légales" },
+     meta,
+     {
+       "og:description": "Cette page contient les mentions légales du site \"Un journal partagé par Jérémie Litzler\"",
+     },
+     meta,
+     {
+       "og:image": /images/default.jpg,
+     },
     ]
 article: false
 ---

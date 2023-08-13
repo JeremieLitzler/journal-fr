@@ -1,5 +1,5 @@
 ---
-title: "Interview de Raymonde Gal sur l'ortie, par l'Archi'Pelle"
+title: "Interview de Raymonde Gal sur l'ortie par l'Archi'Pelle"
 description: "Brian partage avec nous la rencontre avec Raymonde Gal. Raymond connait très l'ortie et elle partage ici son savoir."
 heroImage: /images/2023-03-28-ortie-avec-des-graines.jpg
 heroAlt: Des orties femelles avec des graines
@@ -7,9 +7,6 @@ date: 2023-03-28
 prev:
   text: 'Toutes mes notes des vlogs de Damien Dekarz'
   link: ../../../tag/brian-ejarque/
-#next:
-#  text: ''
-#  link: ..//README.md
 head:
   - [
       link,
@@ -17,6 +14,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/03/interview-de-raymonde-gal-sur-lortie-larchipelle,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Interview de Raymonde Gal sur l'ortie par l'Archi'Pelle" },
+     meta,
+     {
+       "og:description": "Brian partage avec nous la rencontre avec Raymonde Gal. Raymond connait très l'ortie et elle partage ici son savoir.",
+     },
+     meta,
+     {
+       "og:image": /images/2023-03-28-ortie-avec-des-graines.jpg,
+     },
     ]
 category:
   - Témoignages

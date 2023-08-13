@@ -5,7 +5,22 @@ date: 2021-08-10
 head:
   - [
       meta,
-      { rel: canonical, href: https://jeremielitzler.fr/page/contactez-moi/ },
+      { 
+        rel: canonical, 
+        href: https://jeremielitzler.fr/page/contactez-moi/ 
+      },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Contactez-moi" },
+     meta,
+     {
+       "og:description": "Je réponds à tous les emails, donnez-moi un peu de temps pour vous répondre au mieux.",
+     },
+     meta,
+     {
+       "og:image": /images/default.jpg,
+     },
     ]
 article: false
 ---

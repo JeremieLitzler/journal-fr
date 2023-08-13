@@ -1,5 +1,5 @@
 ---
-title: 'Comment recevoir un seul bulletin d'information sur ma publication'
+title: "Comment recevoir un seul bulletin d'information sur ma publication"
 description: "Si vous vous êtes abonné avant avril 2023, cela vous sera utile."
 heroImage: /images/2023-06-06-substack-logo.avif
 heroAlt: Le logo de Substack

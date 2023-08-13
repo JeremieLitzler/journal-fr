@@ -1,6 +1,6 @@
 ---
 title: "Comment j'organise mon activité digitale ?"
-description: 'En 2023, il existe toute une myriade de solutions pour développer sa présence digitale. Dans cet article, je vais présenter mon organisation actuelle..'
+description: 'En 2023, il existe toute une myriade de solutions pour développer sa présence digitale. Dans cet article, je vais présenter mon organisation actuelle.'
 date: 2023-03-30
 heroImage: /images/2023-03-30-a-laptop-and-notebook-on-a-desk.jpg
 heroAlt: Un PC portable et un bloc-notes sur un bureau
@@ -11,6 +11,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/03/comment-j-organise-mon-activite-digitale/,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Comment j'organise mon activité digitale ?" },
+     meta,
+     {
+       "og:description": "En 2023, il existe toute une myriade de solutions pour développer sa présence digitale. Dans cet article, je vais présenter mon organisation actuelle.",
+     },
+     meta,
+     {
+       "og:image": /images/2023-03-30-a-laptop-and-notebook-on-a-desk.jpg,
+     },
     ]
 category:
   - Entreprenariat

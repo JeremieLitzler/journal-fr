@@ -4,11 +4,29 @@ containerClass: jli-home-page
 heroFullScreen: true
 title: 'Accueil'
 heroText: 'Bonjour et bienvenue !'
-description: "Ce journal rassemble les notes et les expériences de Jérémie Litzler (disponible hors connexion après  installation) sur un large éventail de sujets pour un mode de vie respectueux de l'environnement"
+description: "Ce journal rassemble les notes et les expériences de Jérémie Litzler sur un large éventail de sujets pour un mode de vie respectueux de l'environnement"
 tagline: "Je partage ici mes notes issues de plusieurs dizaines de vidéos d'experts dans de nombreux domaines où j'expérimente : jardin, plantes, énergie et bien d'autres. <br> <br>J'espère que vous y trouverez ce que vous cherchez !"
 heroImage: /images/profilepic-400w.jpg
 head:
-  - [link, { rel: canonical, href: https://jeremielitzler.fr/ }]
+  - [
+      link, 
+      { 
+        rel: canonical, 
+        href: https://jeremielitzler.fr/ 
+      },
+      meta,
+      { "og:type": article },
+      meta,
+      { "og:title": "Accueil" },
+      meta,
+      {
+        "og:description": "Ce journal rassemble les notes et les expériences de Jérémie Litzler sur un large éventail de sujets pour un mode de vie respectueux de l'environnement",
+      },
+      meta,
+      {
+        "og:image": /images/profilepic-400w.jpg,
+      },
+    ]
 actions:
   - text: Qui suis-je ?
     link: '#mon-histoire'

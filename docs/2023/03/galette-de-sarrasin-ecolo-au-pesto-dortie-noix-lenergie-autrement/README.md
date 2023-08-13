@@ -1,5 +1,5 @@
 ---
-title: Galette de sarrasin sans électricité avec pesto d'ortie et noix, par Barnabé Chaillot
+title: Galette de sarrasin sans électricité avec pesto d'ortie et noix, avec Barnabé Chaillot
 description: "Réaliser ses galettes au sarrasins avec un accompagnement d'ortie et noix... Hum, Barnabé nous régale ! A table !"
 heroImage: /images/2023-03-07-galette-de-sarrasin-ecolo-au-pesto-dortie-noix-lenergie-autrement.jpg
 heroAlt: 2 galettes de sarrasin qui cuisent sur une plaque
@@ -7,9 +7,6 @@ date: 2023-03-07
 prev:
   text: 'Toutes mes notes des vlogs de Barnabé'
   link: ../../../tag/barnabe-chaillot/
-#next:
-#  text: ''
-#  link: ..//README.md
 head:
   - [
       link,
@@ -17,6 +14,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/03/galette-de-sarrasin-ecolo-au-pesto-dortie-noix-lenergie-autrement,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "Galette de sarrasin sans électricité, avec Barnabé Chaillot" },
+     meta,
+     {
+       "og:description": "Réaliser ses galettes au sarrasins avec un accompagnement d'ortie et noix... Hum, Barnabé nous régale ! A table !",
+     },
+     meta,
+     {
+       "og:image": /images/2023-03-07-galette-de-sarrasin-ecolo-au-pesto-dortie-noix-lenergie-autrement.jpg,
+     },
     ]
 category:
   - Energie

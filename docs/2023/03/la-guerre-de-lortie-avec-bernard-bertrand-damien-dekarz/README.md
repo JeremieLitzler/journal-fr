@@ -1,5 +1,5 @@
 ---
-title: La Guerre de l'Ortie avec Bernard Bertrand, par Damien Dekarz
+title: La Guerre de l'Ortie avec Bernard Bertrand, avec Damien Dekarz
 description: "Bernard Bertrand a beaucoup inspiré Damien avant même qu'il commence sa chaîne YouTube."
 heroImage: /images/2023-03-21-livres-ecrits-par-bernard-bertrand.jpg
 heroAlt: Livres écrits par Bernard Bertrand
@@ -7,9 +7,6 @@ date: 2023-03-21
 prev:
   text: 'Toutes mes notes des vlogs de Damien Dekarz'
   link: ../../../tag/damien-dekarz/
-#next:
-#  text: ''
-#  link: ..//README.md
 head:
   - [
       link,
@@ -17,6 +14,18 @@ head:
         rel: canonical,
         href: https://jeremielitzler.fr/2023/03/la-guerre-de-lortie-avec-bernard-bertrand-damien-dekarz,
       },
+     meta,
+     { "og:type": article },
+     meta,
+     { "og:title": "La Guerre de l'Ortie avec Bernard Bertrand, avec Damien Dekarz" },
+     meta,
+     {
+       "og:description": "Bernard Bertrand a beaucoup inspiré Damien avant même qu'il commence sa chaîne YouTube.",
+     },
+     meta,
+     {
+       "og:image": /images/2023-03-21-livres-ecrits-par-bernard-bertrand.jpg,
+     },
     ]
 category:
   - Jardin
